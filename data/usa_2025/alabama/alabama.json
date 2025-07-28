@@ -1,0 +1,470 @@
+{
+  "id": "alabama",
+  "name": "Alabama",
+  "route": {
+    "start": {
+      "latitude": 34.28452659972222,
+      "longitude": -87.439739
+    },
+    "end": {
+      "latitude": 33.5151844,
+      "longitude": -86.8095136
+    },
+    "path": [
+      {
+        "latitude": 34.28452659972222,
+        "longitude": -87.439739,
+        "date": "2025-01-03T13:27:06Z"
+      },
+      {
+        "latitude": 34.289010499999996,
+        "longitude": -87.44546979972223,
+        "date": "2025-01-03T13:59:53Z"
+      },
+      {
+        "latitude": 34.290086699999996,
+        "longitude": -87.42878949972223,
+        "date": "2025-01-03T15:35:55Z"
+      },
+      {
+        "latitude": 34.28234489972222,
+        "longitude": -87.4344566,
+        "date": "2025-01-04T17:53:02Z"
+      },
+      {
+        "latitude": 34.2750075,
+        "longitude": -87.25725939972222,
+        "date": "2025-01-06T14:30:52Z"
+      },
+      {
+        "latitude": 34.19859509972222,
+        "longitude": -87.1701594,
+        "date": "2025-01-07T12:38:22Z"
+      },
+      {
+        "latitude": 34.25215409972222,
+        "longitude": -87.2610121,
+        "date": "2025-01-07T15:56:22Z"
+      },
+      {
+        "latitude": 34.253269,
+        "longitude": -87.25021169972223,
+        "date": "2025-01-07T16:52:48Z"
+      },
+      {
+        "latitude": 34.248308199722224,
+        "longitude": -87.2463671,
+        "date": "2025-01-09T11:36:19Z"
+      },
+      {
+        "latitude": 33.510643,
+        "longitude": -86.8073775,
+        "date": "2025-01-10T12:32:39Z"
+      },
+      {
+        "latitude": 33.5151844,
+        "longitude": -86.8095136,
+        "date": "2025-01-10T12:42:00Z"
+      }
+    ]
+  },
+  "startDate": "2025-01-03T13:27:06Z",
+  "endDate": "2025-01-10T12:42:00Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20250103_132706.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250103_132706",
+          "position": {
+            "latitude": 34.28452659972222,
+            "longitude": -87.439739
+          },
+          "date": "2025-01-03T13:27:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753677885/usa_2025/alabama/usa_2025/alabama/20250103_132706.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753677885/usa_2025/alabama/usa_2025/alabama/20250103_132706.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753677885/usa_2025/alabama/usa_2025/alabama/20250103_132706.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250103_132706"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.28452659972222,
+        "longitude": -87.439739
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20250103_135952.jpg",
+          "url": "data/usa_2025/alabama/20250103_135952.jpg",
+          "position": {
+            "latitude": 34.289010499999996,
+            "longitude": -87.44546979972223
+          },
+          "date": "2025-01-03T13:59:53Z",
+          "description": ""
+        },
+        {
+          "id": "20250103_140220.jpg",
+          "url": "data/usa_2025/alabama/20250103_140220.jpg",
+          "position": {
+            "latitude": 34.28904219972222,
+            "longitude": -87.44545109972222
+          },
+          "date": "2025-01-03T14:02:21Z",
+          "description": ""
+        },
+        {
+          "id": "20250103_140609.jpg",
+          "url": "data/usa_2025/alabama/20250103_140609.jpg",
+          "position": {
+            "latitude": 34.2897588,
+            "longitude": -87.4445091
+          },
+          "date": "2025-01-03T14:06:10Z",
+          "description": ""
+        },
+        {
+          "id": "20250103_141259.jpg",
+          "url": "data/usa_2025/alabama/20250103_141259.jpg",
+          "position": {
+            "latitude": 34.2922158,
+            "longitude": -87.44385289972223
+          },
+          "date": "2025-01-03T14:12:59Z",
+          "description": ""
+        },
+        {
+          "id": "20250103_141452.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250103_141452",
+          "position": {
+            "latitude": 34.2923276,
+            "longitude": -87.44430409972223
+          },
+          "date": "2025-01-03T14:14:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678032/usa_2025/alabama/usa_2025/alabama/20250103_141452.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678032/usa_2025/alabama/usa_2025/alabama/20250103_141452.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678032/usa_2025/alabama/usa_2025/alabama/20250103_141452.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250103_141452"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.29047097994444,
+        "longitude": -87.44471739977777
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20250103_153554.jpg",
+          "url": "data/usa_2025/alabama/20250103_153554.jpg",
+          "position": {
+            "latitude": 34.290086699999996,
+            "longitude": -87.42878949972223
+          },
+          "date": "2025-01-03T15:35:55Z",
+          "description": ""
+        },
+        {
+          "id": "20250103_153611.jpg",
+          "url": "data/usa_2025/alabama/20250103_153611.jpg",
+          "position": {
+            "latitude": 34.290037999999996,
+            "longitude": -87.4287491
+          },
+          "date": "2025-01-03T15:36:12Z",
+          "description": ""
+        },
+        {
+          "id": "20250103_153752.jpg",
+          "url": "data/usa_2025/alabama/20250103_153752.jpg",
+          "position": {
+            "latitude": 34.289876299999996,
+            "longitude": -87.4289306
+          },
+          "date": "2025-01-03T15:37:52Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 34.29000033333333,
+        "longitude": -87.42882306657407
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20250104_175258.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250104_175258",
+          "position": {
+            "latitude": 34.28234489972222,
+            "longitude": -87.4344566
+          },
+          "date": "2025-01-04T17:53:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678124/usa_2025/alabama/usa_2025/alabama/20250104_175258.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678124/usa_2025/alabama/usa_2025/alabama/20250104_175258.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678124/usa_2025/alabama/usa_2025/alabama/20250104_175258.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250104_175258"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.28234489972222,
+        "longitude": -87.4344566
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20250106_143053.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250106_143053",
+          "position": {
+            "latitude": 34.2750075,
+            "longitude": -87.25725939972222
+          },
+          "date": "2025-01-06T14:30:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678132/usa_2025/alabama/usa_2025/alabama/20250106_143053.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678132/usa_2025/alabama/usa_2025/alabama/20250106_143053.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678132/usa_2025/alabama/usa_2025/alabama/20250106_143053.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250106_143053"
+          }
+        },
+        {
+          "id": "20250106_143233.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250106_143233",
+          "position": {
+            "latitude": 34.2749734,
+            "longitude": -87.25705639972222
+          },
+          "date": "2025-01-06T14:32:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678142/usa_2025/alabama/usa_2025/alabama/20250106_143233.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678142/usa_2025/alabama/usa_2025/alabama/20250106_143233.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678142/usa_2025/alabama/usa_2025/alabama/20250106_143233.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250106_143233"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.274990450000004,
+        "longitude": -87.25715789972222
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20250107_123822.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250107_123822",
+          "position": {
+            "latitude": 34.19859509972222,
+            "longitude": -87.1701594
+          },
+          "date": "2025-01-07T12:38:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678158/usa_2025/alabama/usa_2025/alabama/20250107_123822.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678158/usa_2025/alabama/usa_2025/alabama/20250107_123822.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678158/usa_2025/alabama/usa_2025/alabama/20250107_123822.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250107_123822"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.19859509972222,
+        "longitude": -87.1701594
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20250107_155622.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250107_155622",
+          "position": {
+            "latitude": 34.25215409972222,
+            "longitude": -87.2610121
+          },
+          "date": "2025-01-07T15:56:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678166/usa_2025/alabama/usa_2025/alabama/20250107_155622.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678166/usa_2025/alabama/usa_2025/alabama/20250107_155622.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678166/usa_2025/alabama/usa_2025/alabama/20250107_155622.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250107_155622"
+          }
+        },
+        {
+          "id": "20250107_155715.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250107_155715",
+          "position": {
+            "latitude": 34.2520011,
+            "longitude": -87.2612447
+          },
+          "date": "2025-01-07T15:57:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678174/usa_2025/alabama/usa_2025/alabama/20250107_155715.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678174/usa_2025/alabama/usa_2025/alabama/20250107_155715.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678174/usa_2025/alabama/usa_2025/alabama/20250107_155715.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250107_155715"
+          }
+        },
+        {
+          "id": "20250107_161214.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250107_161214",
+          "position": {
+            "latitude": 34.25394239972222,
+            "longitude": -87.26468599972222
+          },
+          "date": "2025-01-07T16:12:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678181/usa_2025/alabama/usa_2025/alabama/20250107_161214.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678181/usa_2025/alabama/usa_2025/alabama/20250107_161214.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678181/usa_2025/alabama/usa_2025/alabama/20250107_161214.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250107_161214"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.25269919981481,
+        "longitude": -87.26231426657408
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20250107_165248.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250107_165248",
+          "position": {
+            "latitude": 34.253269,
+            "longitude": -87.25021169972223
+          },
+          "date": "2025-01-07T16:52:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678189/usa_2025/alabama/usa_2025/alabama/20250107_165248.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678189/usa_2025/alabama/usa_2025/alabama/20250107_165248.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678189/usa_2025/alabama/usa_2025/alabama/20250107_165248.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250107_165248"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.253269,
+        "longitude": -87.25021169972223
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20250109_113619.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250109_113619",
+          "position": {
+            "latitude": 34.248308199722224,
+            "longitude": -87.2463671
+          },
+          "date": "2025-01-09T11:36:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678198/usa_2025/alabama/usa_2025/alabama/20250109_113619.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678198/usa_2025/alabama/usa_2025/alabama/20250109_113619.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678198/usa_2025/alabama/usa_2025/alabama/20250109_113619.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250109_113619"
+          }
+        },
+        {
+          "id": "20250109_173652.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250109_173652",
+          "position": {
+            "latitude": 34.248435,
+            "longitude": -87.24656
+          },
+          "date": "2025-01-09T17:36:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678205/usa_2025/alabama/usa_2025/alabama/20250109_173652.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678205/usa_2025/alabama/usa_2025/alabama/20250109_173652.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678205/usa_2025/alabama/usa_2025/alabama/20250109_173652.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250109_173652"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.248371599861116,
+        "longitude": -87.24646355
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20250110_123239.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250110_123239",
+          "position": {
+            "latitude": 33.510643,
+            "longitude": -86.8073775
+          },
+          "date": "2025-01-10T12:32:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678211/usa_2025/alabama/usa_2025/alabama/20250110_123239.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678211/usa_2025/alabama/usa_2025/alabama/20250110_123239.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678211/usa_2025/alabama/usa_2025/alabama/20250110_123239.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250110_123239"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.510643,
+        "longitude": -86.8073775
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20250110_124200.jpg",
+          "url": "usa_2025/alabama/usa_2025/alabama/20250110_124200",
+          "position": {
+            "latitude": 33.5151844,
+            "longitude": -86.8095136
+          },
+          "date": "2025-01-10T12:42:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753678225/usa_2025/alabama/usa_2025/alabama/20250110_124200.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753678225/usa_2025/alabama/usa_2025/alabama/20250110_124200.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753678225/usa_2025/alabama/usa_2025/alabama/20250110_124200.jpg",
+            "public_id": "usa_2025/alabama/usa_2025/alabama/20250110_124200"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.5151844,
+        "longitude": -86.8095136
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": "Auto-generated itinerary for alabama"
+}

@@ -1,0 +1,614 @@
+{
+  "id": "new_orlean_missisipi",
+  "name": "New orlean missisipi",
+  "route": {
+    "start": {
+      "latitude": 30.458005499722223,
+      "longitude": -88.84421909999999
+    },
+    "end": {
+      "latitude": 30.03182269972222,
+      "longitude": -91.81735909999999
+    },
+    "path": [
+      {
+        "latitude": 30.458005499722223,
+        "longitude": -88.84421909999999,
+        "date": "2025-01-12T01:42:19Z"
+      },
+      {
+        "latitude": 30.594260799999997,
+        "longitude": -88.9820552,
+        "date": "2025-01-12T16:43:04Z"
+      },
+      {
+        "latitude": 30.637145999999998,
+        "longitude": -89.00498659972222,
+        "date": "2025-01-13T15:14:30Z"
+      },
+      {
+        "latitude": 29.9838264,
+        "longitude": -90.097808,
+        "date": "2025-01-14T14:58:55Z"
+      },
+      {
+        "latitude": 29.983973719444446,
+        "longitude": -90.10008907777777,
+        "date": "2025-01-15T19:23:29Z"
+      },
+      {
+        "latitude": 29.966911399999997,
+        "longitude": -90.06773749999999,
+        "date": "2025-01-19T13:31:00Z"
+      },
+      {
+        "latitude": 29.96268949972222,
+        "longitude": -90.06223249972221,
+        "date": "2025-01-19T13:41:02Z"
+      },
+      {
+        "latitude": 29.953993699999998,
+        "longitude": -90.06983029999999,
+        "date": "2025-01-19T19:27:28Z"
+      },
+      {
+        "latitude": 29.692784799722222,
+        "longitude": -90.55324339972222,
+        "date": "2025-01-21T16:46:03Z"
+      },
+      {
+        "latitude": 30.002968899722223,
+        "longitude": -91.8075017,
+        "date": "2025-01-24T18:27:53Z"
+      },
+      {
+        "latitude": 29.9977057,
+        "longitude": -91.81139699972222,
+        "date": "2025-01-25T14:05:12Z"
+      },
+      {
+        "latitude": 30.0031122,
+        "longitude": -91.81389839972222,
+        "date": "2025-01-25T14:29:49Z"
+      },
+      {
+        "latitude": 30.03182269972222,
+        "longitude": -91.81735909999999,
+        "date": "2025-01-25T17:56:22Z"
+      }
+    ]
+  },
+  "startDate": "2025-01-12T01:42:19Z",
+  "endDate": "2025-01-25T17:56:22Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20250112_014219.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_014219",
+          "position": {
+            "latitude": 30.458005499722223,
+            "longitude": -88.84421909999999
+          },
+          "date": "2025-01-12T01:42:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681066/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_014219.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681066/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_014219.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681066/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_014219.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_014219"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 30.458005499722223,
+        "longitude": -88.84421909999999
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20250112_164304.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_164304",
+          "position": {
+            "latitude": 30.594260799999997,
+            "longitude": -88.9820552
+          },
+          "date": "2025-01-12T16:43:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681074/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_164304.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681074/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_164304.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681074/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_164304.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250112_164304"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 30.594260799999997,
+        "longitude": -88.9820552
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20250113_151430.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_151430",
+          "position": {
+            "latitude": 30.637145999999998,
+            "longitude": -89.00498659972222
+          },
+          "date": "2025-01-13T15:14:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681084/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_151430.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681084/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_151430.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681084/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_151430.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_151430"
+          }
+        },
+        {
+          "id": "20250113_152030.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152030",
+          "position": {
+            "latitude": 30.638744899722223,
+            "longitude": -89.00377559972222
+          },
+          "date": "2025-01-13T15:20:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681092/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152030.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681092/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152030.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681092/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152030.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152030"
+          }
+        },
+        {
+          "id": "20250113_152935.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152935",
+          "position": {
+            "latitude": 30.640378899999998,
+            "longitude": -89.0040084
+          },
+          "date": "2025-01-13T15:29:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681101/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152935.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681101/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152935.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681101/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152935.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_152935"
+          }
+        },
+        {
+          "id": "20250113_162919.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_162919",
+          "position": {
+            "latitude": 30.63713249972222,
+            "longitude": -89.0050382
+          },
+          "date": "2025-01-13T16:29:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681109/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_162919.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681109/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_162919.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681109/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_162919.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250113_162919"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 30.638350574861107,
+        "longitude": -89.00445219986112
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20250114_145855.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250114_145855",
+          "position": {
+            "latitude": 29.9838264,
+            "longitude": -90.097808
+          },
+          "date": "2025-01-14T14:58:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681118/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250114_145855.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681118/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250114_145855.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681118/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250114_145855.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250114_145855"
+          }
+        },
+        {
+          "id": "20250115_114902.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_114902",
+          "position": {
+            "latitude": 29.984831599722224,
+            "longitude": -90.09535599972222
+          },
+          "date": "2025-01-15T11:49:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681129/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_114902.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681129/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_114902.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681129/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_114902.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_114902"
+          }
+        },
+        {
+          "id": "20250115_120349.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_120349",
+          "position": {
+            "latitude": 29.984460699722224,
+            "longitude": -90.09231219972222
+          },
+          "date": "2025-01-15T12:03:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681140/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_120349.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681140/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_120349.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681140/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_120349.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_120349"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 29.984372899814815,
+        "longitude": -90.09515873314815
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20250115_192328.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_192328",
+          "position": {
+            "latitude": 29.983973719444446,
+            "longitude": -90.10008907777777
+          },
+          "date": "2025-01-15T19:23:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681147/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_192328.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681147/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_192328.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681147/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_192328.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250115_192328"
+          }
+        },
+        {
+          "id": "20250117_134425.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250117_134425",
+          "position": {
+            "latitude": 29.984626999722224,
+            "longitude": -90.09672279972222
+          },
+          "date": "2025-01-17T13:44:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681160/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250117_134425.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681160/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250117_134425.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681160/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250117_134425.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250117_134425"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 29.984300359583337,
+        "longitude": -90.09840593874999
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20250119_133100.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_133100",
+          "position": {
+            "latitude": 29.966911399999997,
+            "longitude": -90.06773749999999
+          },
+          "date": "2025-01-19T13:31:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681173/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_133100.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681173/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_133100.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681173/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_133100.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_133100"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 29.966911399999997,
+        "longitude": -90.06773749999999
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20250119_134102.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_134102",
+          "position": {
+            "latitude": 29.96268949972222,
+            "longitude": -90.06223249972221
+          },
+          "date": "2025-01-19T13:41:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681185/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_134102.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681185/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_134102.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681185/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_134102.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_134102"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 29.96268949972222,
+        "longitude": -90.06223249972221
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20250119_192728.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_192728",
+          "position": {
+            "latitude": 29.953993699999998,
+            "longitude": -90.06983029999999
+          },
+          "date": "2025-01-19T19:27:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681192/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_192728.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681192/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_192728.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681192/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_192728.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250119_192728"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 29.953993699999998,
+        "longitude": -90.06983029999999
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20250121_164603~2.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250121_164603~2",
+          "position": {
+            "latitude": 29.692784799722222,
+            "longitude": -90.55324339972222
+          },
+          "date": "2025-01-21T16:46:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681195/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250121_164603%7E2.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681195/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250121_164603%7E2.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681195/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250121_164603%7E2.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250121_164603~2"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 29.692784799722222,
+        "longitude": -90.55324339972222
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20250124_182753.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250124_182753",
+          "position": {
+            "latitude": 30.002968899722223,
+            "longitude": -91.8075017
+          },
+          "date": "2025-01-24T18:27:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681203/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250124_182753.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681203/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250124_182753.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681203/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250124_182753.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250124_182753"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 30.002968899722223,
+        "longitude": -91.8075017
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20250125_140513.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_140513",
+          "position": {
+            "latitude": 29.9977057,
+            "longitude": -91.81139699972222
+          },
+          "date": "2025-01-25T14:05:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681208/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_140513.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681208/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_140513.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681208/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_140513.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_140513"
+          }
+        },
+        {
+          "id": "20250125_141523.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523",
+          "position": {
+            "latitude": 29.997836599722223,
+            "longitude": -91.81143709999999
+          },
+          "date": "2025-01-25T14:15:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681215/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681215/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681215/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523"
+          }
+        },
+        {
+          "id": "20250125_141803.jpg",
+          "url": "data/usa_2025/new_orlean_missisipi/20250125_141803.jpg",
+          "position": {
+            "latitude": 29.9977282,
+            "longitude": -91.81136909972221
+          },
+          "date": "2025-01-25T14:18:04Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 29.997756833240743,
+        "longitude": -91.81140106648148
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20250125_142949.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_142949",
+          "position": {
+            "latitude": 30.0031122,
+            "longitude": -91.81389839972222
+          },
+          "date": "2025-01-25T14:29:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681277/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_142949.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681277/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_142949.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681277/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_142949.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_142949"
+          }
+        },
+        {
+          "id": "20250125_143456.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143456",
+          "position": {
+            "latitude": 30.0031058,
+            "longitude": -91.81388809972222
+          },
+          "date": "2025-01-25T14:34:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681291/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143456.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681291/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143456.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681291/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143456.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143456"
+          }
+        },
+        {
+          "id": "20250125_143749.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143749",
+          "position": {
+            "latitude": 30.001688699722223,
+            "longitude": -91.811412
+          },
+          "date": "2025-01-25T14:37:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681302/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143749.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681302/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143749.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681302/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143749.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_143749"
+          }
+        },
+        {
+          "id": "20250125_144116.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144116",
+          "position": {
+            "latitude": 30.0017691,
+            "longitude": -91.81155769972221
+          },
+          "date": "2025-01-25T14:41:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681311/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144116.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681311/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144116.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681311/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144116.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144116"
+          }
+        },
+        {
+          "id": "20250125_144231.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144231",
+          "position": {
+            "latitude": 30.0022084,
+            "longitude": -91.81256309999999
+          },
+          "date": "2025-01-25T14:42:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681320/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144231.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681320/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144231.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681320/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144231.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144231"
+          }
+        },
+        {
+          "id": "20250125_144503.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144503",
+          "position": {
+            "latitude": 30.003267099722223,
+            "longitude": -91.8144283
+          },
+          "date": "2025-01-25T14:45:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681334/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144503.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681334/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144503.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681334/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144503.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_144503"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 30.002525216574075,
+        "longitude": -91.81295793319443
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20250125_175620.jpg",
+          "url": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_175620",
+          "position": {
+            "latitude": 30.03182269972222,
+            "longitude": -91.81735909999999
+          },
+          "date": "2025-01-25T17:56:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1753681339/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_175620.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1753681339/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_175620.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681339/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_175620.jpg",
+            "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_175620"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 30.03182269972222,
+        "longitude": -91.81735909999999
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": "Auto-generated itinerary for new_orlean_missisipi"
+}
