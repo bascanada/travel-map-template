@@ -97,3 +97,6 @@ Once your site is deployed, you can view it on GitHub Pages:
 Replace `my-travel-site` in the URL above if you fork or rename the repository.
 
 For more details, see the [template repository](https://github.com/bascanada/travel-map) or open an issue if you have questions.
+
+
+
