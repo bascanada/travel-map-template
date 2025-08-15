@@ -276,16 +276,6 @@
           }
         },
         {
-          "id": "20241127_125822.jpg",
-          "url": "data/usa_2025/rust_belt/20241127_125822.jpg",
-          "position": {
-            "latitude": 43.050484299999994,
-            "longitude": -76.15517119972223
-          },
-          "date": "2024-11-27T12:58:22Z",
-          "description": ""
-        },
-        {
           "id": "20241127_125828.jpg",
           "url": "usa2025/rust_belt/usa2025/rust_belt/20241127_125828",
           "position": {
@@ -321,35 +311,6 @@
       "position": {
         "latitude": 43.05025322493056,
         "longitude": -76.15417504979168
-      }
-    },
-    {
-      "id": "cluster-3",
-      "photos": [
-        {
-          "id": "20241128_150701.jpg",
-          "url": "data/usa_2025/rust_belt/20241128_150701.jpg",
-          "position": {
-            "latitude": 43.16238609972222,
-            "longitude": -77.61255149972222
-          },
-          "date": "2024-11-28T15:07:01Z",
-          "description": ""
-        },
-        {
-          "id": "20241128_150704.jpg",
-          "url": "data/usa_2025/rust_belt/20241128_150704.jpg",
-          "position": {
-            "latitude": 43.16238609972222,
-            "longitude": -77.61255149972222
-          },
-          "date": "2024-11-28T15:07:04Z",
-          "description": ""
-        }
-      ],
-      "position": {
-        "latitude": 43.16238609972222,
-        "longitude": -77.61255149972222
       }
     },
     {
@@ -1039,16 +1000,6 @@
       "id": "cluster-23",
       "photos": [
         {
-          "id": "20241213_214736.jpg",
-          "url": "data/usa_2025/rust_belt/20241213_214736.jpg",
-          "position": {
-            "latitude": 41.88840156944445,
-            "longitude": -87.62205231944444
-          },
-          "date": "2024-12-13T21:47:37Z",
-          "description": ""
-        },
-        {
           "id": "20241213_214915.jpg",
           "url": "usa2025/rust_belt/usa2025/rust_belt/20241213_214915",
           "position": {
@@ -1068,25 +1019,6 @@
       "position": {
         "latitude": 41.88826176944444,
         "longitude": -87.62217563888888
-      }
-    },
-    {
-      "id": "cluster-24",
-      "photos": [
-        {
-          "id": "20241213_220025.jpg",
-          "url": "data/usa_2025/rust_belt/20241213_220025.jpg",
-          "position": {
-            "latitude": 41.888145638888886,
-            "longitude": -87.62761689999999
-          },
-          "date": "2024-12-13T22:00:26Z",
-          "description": ""
-        }
-      ],
-      "position": {
-        "latitude": 41.888145638888886,
-        "longitude": -87.62761689999999
       }
     },
     {
@@ -1351,25 +1283,6 @@
       "position": {
         "latitude": 39.775020850000004,
         "longitude": -86.15078099986113
-      }
-    },
-    {
-      "id": "cluster-33",
-      "photos": [
-        {
-          "id": "20241223_153849.jpg",
-          "url": "data/usa_2025/rust_belt/20241223_153849.jpg",
-          "position": {
-            "latitude": 39.7753505,
-            "longitude": -86.157525
-          },
-          "date": "2024-12-23T15:38:49Z",
-          "description": ""
-        }
-      ],
-      "position": {
-        "latitude": 39.7753505,
-        "longitude": -86.157525
       }
     },
     {

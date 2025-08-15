@@ -100,46 +100,6 @@
       "id": "cluster-2",
       "photos": [
         {
-          "id": "20250103_135952.jpg",
-          "url": "data/usa_2025/alabama/20250103_135952.jpg",
-          "position": {
-            "latitude": 34.289010499999996,
-            "longitude": -87.44546979972223
-          },
-          "date": "2025-01-03T13:59:53Z",
-          "description": ""
-        },
-        {
-          "id": "20250103_140220.jpg",
-          "url": "data/usa_2025/alabama/20250103_140220.jpg",
-          "position": {
-            "latitude": 34.28904219972222,
-            "longitude": -87.44545109972222
-          },
-          "date": "2025-01-03T14:02:21Z",
-          "description": ""
-        },
-        {
-          "id": "20250103_140609.jpg",
-          "url": "data/usa_2025/alabama/20250103_140609.jpg",
-          "position": {
-            "latitude": 34.2897588,
-            "longitude": -87.4445091
-          },
-          "date": "2025-01-03T14:06:10Z",
-          "description": ""
-        },
-        {
-          "id": "20250103_141259.jpg",
-          "url": "data/usa_2025/alabama/20250103_141259.jpg",
-          "position": {
-            "latitude": 34.2922158,
-            "longitude": -87.44385289972223
-          },
-          "date": "2025-01-03T14:12:59Z",
-          "description": ""
-        },
-        {
           "id": "20250103_141452.jpg",
           "url": "usa_2025/alabama/usa_2025/alabama/20250103_141452",
           "position": {
@@ -159,45 +119,6 @@
       "position": {
         "latitude": 34.29047097994444,
         "longitude": -87.44471739977777
-      }
-    },
-    {
-      "id": "cluster-3",
-      "photos": [
-        {
-          "id": "20250103_153554.jpg",
-          "url": "data/usa_2025/alabama/20250103_153554.jpg",
-          "position": {
-            "latitude": 34.290086699999996,
-            "longitude": -87.42878949972223
-          },
-          "date": "2025-01-03T15:35:55Z",
-          "description": ""
-        },
-        {
-          "id": "20250103_153611.jpg",
-          "url": "data/usa_2025/alabama/20250103_153611.jpg",
-          "position": {
-            "latitude": 34.290037999999996,
-            "longitude": -87.4287491
-          },
-          "date": "2025-01-03T15:36:12Z",
-          "description": ""
-        },
-        {
-          "id": "20250103_153752.jpg",
-          "url": "data/usa_2025/alabama/20250103_153752.jpg",
-          "position": {
-            "latitude": 34.289876299999996,
-            "longitude": -87.4289306
-          },
-          "date": "2025-01-03T15:37:52Z",
-          "description": ""
-        }
-      ],
-      "position": {
-        "latitude": 34.29000033333333,
-        "longitude": -87.42882306657407
       }
     },
     {

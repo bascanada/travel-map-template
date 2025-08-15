@@ -461,16 +461,6 @@
             "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1753681215/usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523.jpg",
             "public_id": "usa_2025/new_orlean_missisipi/usa_2025/new_orlean_missisipi/20250125_141523"
           }
-        },
-        {
-          "id": "20250125_141803.jpg",
-          "url": "data/usa_2025/new_orlean_missisipi/20250125_141803.jpg",
-          "position": {
-            "latitude": 29.9977282,
-            "longitude": -91.81136909972221
-          },
-          "date": "2025-01-25T14:18:04Z",
-          "description": ""
         }
       ],
       "position": {
