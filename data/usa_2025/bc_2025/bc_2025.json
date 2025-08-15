@@ -1,0 +1,2844 @@
+{
+  "id": "bc_2025",
+  "name": "Bc 2025",
+  "route": {
+    "start": {
+      "latitude": 49.115400999722226,
+      "longitude": -122.11031269972221
+    },
+    "end": {
+      "latitude": 53.236427999722224,
+      "longitude": -131.87130389972222
+    },
+    "path": [
+      {
+        "latitude": 49.115400999722226,
+        "longitude": -122.11031269972221,
+        "date": "2025-05-12T13:50:51Z"
+      },
+      {
+        "latitude": 48.98116519972223,
+        "longitude": -123.17862239972223,
+        "date": "2025-05-14T22:13:43Z"
+      },
+      {
+        "latitude": 48.8494722,
+        "longitude": -123.36072999999999,
+        "date": "2025-05-14T22:48:18Z"
+      },
+      {
+        "latitude": 48.506379199722225,
+        "longitude": -123.3861322,
+        "date": "2025-05-16T11:09:02Z"
+      },
+      {
+        "latitude": 48.423110099999995,
+        "longitude": -123.37591939999999,
+        "date": "2025-05-17T12:13:25Z"
+      },
+      {
+        "latitude": 48.41981309972222,
+        "longitude": -123.36913789972222,
+        "date": "2025-05-17T12:44:15Z"
+      },
+      {
+        "latitude": 48.435459599999994,
+        "longitude": -123.36745039972222,
+        "date": "2025-05-18T18:27:14Z"
+      },
+      {
+        "latitude": 48.3635943,
+        "longitude": -123.83036529972222,
+        "date": "2025-05-19T17:31:33Z"
+      },
+      {
+        "latitude": 48.39259609972222,
+        "longitude": -123.945693,
+        "date": "2025-05-20T12:33:46Z"
+      },
+      {
+        "latitude": 48.3957636,
+        "longitude": -123.94981339972223,
+        "date": "2025-05-20T12:41:34Z"
+      },
+      {
+        "latitude": 48.3911518,
+        "longitude": -123.94241019972223,
+        "date": "2025-05-20T18:44:14Z"
+      },
+      {
+        "latitude": 48.379452399722226,
+        "longitude": -123.86642909999999,
+        "date": "2025-05-21T14:11:22Z"
+      },
+      {
+        "latitude": 48.4997121,
+        "longitude": -124.29701749972222,
+        "date": "2025-05-26T16:05:23Z"
+      },
+      {
+        "latitude": 48.4925937,
+        "longitude": -124.29351959972222,
+        "date": "2025-05-26T16:46:23Z"
+      },
+      {
+        "latitude": 48.800399899999995,
+        "longitude": -123.90463769972223,
+        "date": "2025-06-01T21:32:04Z"
+      },
+      {
+        "latitude": 49.0708525,
+        "longitude": -123.88081039999999,
+        "date": "2025-06-03T10:22:01Z"
+      },
+      {
+        "latitude": 49.2087395,
+        "longitude": -124.79125679972222,
+        "date": "2025-06-05T11:01:20Z"
+      },
+      {
+        "latitude": 49.29415829972222,
+        "longitude": -125.3001495,
+        "date": "2025-06-06T23:39:16Z"
+      },
+      {
+        "latitude": 49.1070585,
+        "longitude": -125.87863619999999,
+        "date": "2025-06-08T09:56:32Z"
+      },
+      {
+        "latitude": 48.94661429999999,
+        "longitude": -125.57699119972222,
+        "date": "2025-06-08T16:25:29Z"
+      },
+      {
+        "latitude": 49.35106749972223,
+        "longitude": -123.19496019972223,
+        "date": "2025-06-24T15:57:25Z"
+      },
+      {
+        "latitude": 49.694236599999996,
+        "longitude": -123.15529659972223,
+        "date": "2025-06-25T18:26:48Z"
+      },
+      {
+        "latitude": 49.7209919,
+        "longitude": -123.09258939972221,
+        "date": "2025-06-26T12:08:46Z"
+      },
+      {
+        "latitude": 49.69903839972222,
+        "longitude": -123.12436519972222,
+        "date": "2025-06-26T15:51:06Z"
+      },
+      {
+        "latitude": 49.7049767,
+        "longitude": -123.11946909999999,
+        "date": "2025-06-26T19:24:38Z"
+      },
+      {
+        "latitude": 49.8455287,
+        "longitude": -123.1478127,
+        "date": "2025-06-29T11:57:18Z"
+      },
+      {
+        "latitude": 50.060508299999995,
+        "longitude": -123.11271119999999,
+        "date": "2025-07-02T11:23:34Z"
+      },
+      {
+        "latitude": 50.40016119972222,
+        "longitude": -122.31345329999999,
+        "date": "2025-07-05T19:30:40Z"
+      },
+      {
+        "latitude": 50.3958195,
+        "longitude": -122.32684559972222,
+        "date": "2025-07-05T19:47:07Z"
+      },
+      {
+        "latitude": 50.41902129972222,
+        "longitude": -122.2781422,
+        "date": "2025-07-08T14:11:41Z"
+      },
+      {
+        "latitude": 50.70883309972223,
+        "longitude": -121.9175395,
+        "date": "2025-07-08T16:40:50Z"
+      },
+      {
+        "latitude": 50.74522999972222,
+        "longitude": -121.85720759972222,
+        "date": "2025-07-08T22:50:42Z"
+      },
+      {
+        "latitude": 50.8691576,
+        "longitude": -121.5241357,
+        "date": "2025-07-10T17:30:38Z"
+      },
+      {
+        "latitude": 51.149169899722224,
+        "longitude": -121.50667149972222,
+        "date": "2025-07-11T11:37:55Z"
+      },
+      {
+        "latitude": 51.93900409972222,
+        "longitude": -121.7712231,
+        "date": "2025-07-12T11:45:25Z"
+      },
+      {
+        "latitude": 51.987146099722224,
+        "longitude": -122.27299639972222,
+        "date": "2025-07-13T14:48:22Z"
+      },
+      {
+        "latitude": 53.4943845,
+        "longitude": -122.6406881,
+        "date": "2025-07-19T12:44:53Z"
+      },
+      {
+        "latitude": 53.8627759,
+        "longitude": -123.2530567,
+        "date": "2025-07-22T13:47:47Z"
+      },
+      {
+        "latitude": 54.397603099722225,
+        "longitude": -126.71696729972223,
+        "date": "2025-07-26T23:12:01Z"
+      },
+      {
+        "latitude": 54.7835265,
+        "longitude": -127.13434519972223,
+        "date": "2025-07-27T21:54:09Z"
+      },
+      {
+        "latitude": 55.01484179972222,
+        "longitude": -127.32855209972222,
+        "date": "2025-07-28T14:46:17Z"
+      },
+      {
+        "latitude": 55.2184133,
+        "longitude": -127.444445,
+        "date": "2025-07-28T16:22:28Z"
+      },
+      {
+        "latitude": 55.257069899722225,
+        "longitude": -127.60079299972222,
+        "date": "2025-07-29T15:59:05Z"
+      },
+      {
+        "latitude": 54.2428633,
+        "longitude": -129.5188233,
+        "date": "2025-07-31T21:06:11Z"
+      },
+      {
+        "latitude": 54.298229194444446,
+        "longitude": -130.35455322222222,
+        "date": "2025-08-02T13:40:29Z"
+      },
+      {
+        "latitude": 54.2473335,
+        "longitude": -130.3496093611111,
+        "date": "2025-08-02T14:03:40Z"
+      },
+      {
+        "latitude": 53.30153159972222,
+        "longitude": -131.9658632997222,
+        "date": "2025-08-02T22:16:15Z"
+      },
+      {
+        "latitude": 53.28271939972222,
+        "longitude": -131.96888609972223,
+        "date": "2025-08-03T17:29:48Z"
+      },
+      {
+        "latitude": 53.296256299999996,
+        "longitude": -131.96601329972222,
+        "date": "2025-08-04T12:45:43Z"
+      },
+      {
+        "latitude": 53.38324229972222,
+        "longitude": -131.9339807,
+        "date": "2025-08-04T22:13:21Z"
+      },
+      {
+        "latitude": 54.02128199972222,
+        "longitude": -132.14393899972222,
+        "date": "2025-08-06T16:48:59Z"
+      },
+      {
+        "latitude": 54.014614083333335,
+        "longitude": -132.14527891666665,
+        "date": "2025-08-06T16:52:12Z"
+      },
+      {
+        "latitude": 54.027938399722224,
+        "longitude": -132.1392366997222,
+        "date": "2025-08-06T17:07:04Z"
+      },
+      {
+        "latitude": 54.052146099999995,
+        "longitude": -131.88472959972222,
+        "date": "2025-08-07T23:01:08Z"
+      },
+      {
+        "latitude": 54.008507199722224,
+        "longitude": -132.14255359999999,
+        "date": "2025-08-08T14:33:34Z"
+      },
+      {
+        "latitude": 53.6440995,
+        "longitude": -132.20213429999998,
+        "date": "2025-08-08T16:12:21Z"
+      },
+      {
+        "latitude": 53.602383199722226,
+        "longitude": -132.28177339972223,
+        "date": "2025-08-09T21:03:42Z"
+      },
+      {
+        "latitude": 53.37820813888889,
+        "longitude": -131.93263244444444,
+        "date": "2025-08-11T10:33:43Z"
+      },
+      {
+        "latitude": 53.324113699722226,
+        "longitude": -131.95363419999998,
+        "date": "2025-08-11T23:38:13Z"
+      },
+      {
+        "latitude": 53.01190319972222,
+        "longitude": -131.57651939972223,
+        "date": "2025-08-12T13:22:41Z"
+      },
+      {
+        "latitude": 52.963642399722225,
+        "longitude": -131.60714529999998,
+        "date": "2025-08-12T13:52:19Z"
+      },
+      {
+        "latitude": 53.0110511,
+        "longitude": -131.58109559972223,
+        "date": "2025-08-12T18:21:28Z"
+      },
+      {
+        "latitude": 53.05194279972222,
+        "longitude": -132.02081229972222,
+        "date": "2025-08-12T23:29:56Z"
+      },
+      {
+        "latitude": 53.052450699999994,
+        "longitude": -132.03288779972223,
+        "date": "2025-08-13T13:36:14Z"
+      },
+      {
+        "latitude": 53.0387647,
+        "longitude": -132.06068899972223,
+        "date": "2025-08-13T14:28:00Z"
+      },
+      {
+        "latitude": 53.02702889972222,
+        "longitude": -132.06634529972223,
+        "date": "2025-08-13T15:34:01Z"
+      },
+      {
+        "latitude": 53.051651699999994,
+        "longitude": -132.02924139972222,
+        "date": "2025-08-13T17:37:41Z"
+      },
+      {
+        "latitude": 53.239817799722225,
+        "longitude": -131.9219568997222,
+        "date": "2025-08-14T14:33:38Z"
+      },
+      {
+        "latitude": 53.2364468,
+        "longitude": -131.8713193,
+        "date": "2025-08-14T20:55:48Z"
+      }
+    ]
+  },
+  "startDate": "2025-05-12T13:50:51Z",
+  "endDate": "2025-08-14T20:56:15Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20250512_135051.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250512_135051",
+          "position": {
+            "latitude": 49.115400999722226,
+            "longitude": -122.11031269972221
+          },
+          "date": "2025-05-12T13:50:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291879/usa2025/bc_2025/usa2025/bc_2025/20250512_135051.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291879/usa2025/bc_2025/usa2025/bc_2025/20250512_135051.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291879/usa2025/bc_2025/usa2025/bc_2025/20250512_135051.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250512_135051"
+          }
+        },
+        {
+          "id": "20250513_104428.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250513_104428",
+          "position": {
+            "latitude": 49.1153514,
+            "longitude": -122.11126369972222
+          },
+          "date": "2025-05-13T10:44:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291884/usa2025/bc_2025/usa2025/bc_2025/20250513_104428.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291884/usa2025/bc_2025/usa2025/bc_2025/20250513_104428.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291884/usa2025/bc_2025/usa2025/bc_2025/20250513_104428.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250513_104428"
+          }
+        },
+        {
+          "id": "20250513_110416.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250513_110416",
+          "position": {
+            "latitude": 49.115415499722225,
+            "longitude": -122.11036649972222
+          },
+          "date": "2025-05-13T11:04:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291892/usa2025/bc_2025/usa2025/bc_2025/20250513_110416.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291892/usa2025/bc_2025/usa2025/bc_2025/20250513_110416.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291892/usa2025/bc_2025/usa2025/bc_2025/20250513_110416.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250513_110416"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.115389299814815,
+        "longitude": -122.11064763305554
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20250514_221343.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250514_221343",
+          "position": {
+            "latitude": 48.98116519972223,
+            "longitude": -123.17862239972223
+          },
+          "date": "2025-05-14T22:13:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291898/usa2025/bc_2025/usa2025/bc_2025/20250514_221343.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291898/usa2025/bc_2025/usa2025/bc_2025/20250514_221343.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291898/usa2025/bc_2025/usa2025/bc_2025/20250514_221343.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250514_221343"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.98116519972223,
+        "longitude": -123.17862239972223
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20250514_224818.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250514_224818",
+          "position": {
+            "latitude": 48.8494722,
+            "longitude": -123.36072999999999
+          },
+          "date": "2025-05-14T22:48:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291904/usa2025/bc_2025/usa2025/bc_2025/20250514_224818.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291904/usa2025/bc_2025/usa2025/bc_2025/20250514_224818.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291904/usa2025/bc_2025/usa2025/bc_2025/20250514_224818.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250514_224818"
+          }
+        },
+        {
+          "id": "20250514_224841.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250514_224841",
+          "position": {
+            "latitude": 48.847636199722224,
+            "longitude": -123.36026259972222
+          },
+          "date": "2025-05-14T22:48:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291910/usa2025/bc_2025/usa2025/bc_2025/20250514_224841.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291910/usa2025/bc_2025/usa2025/bc_2025/20250514_224841.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291910/usa2025/bc_2025/usa2025/bc_2025/20250514_224841.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250514_224841"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.84855419986111,
+        "longitude": -123.3604962998611
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20250516_110902.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250516_110902",
+          "position": {
+            "latitude": 48.506379199722225,
+            "longitude": -123.3861322
+          },
+          "date": "2025-05-16T11:09:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291918/usa2025/bc_2025/usa2025/bc_2025/20250516_110902.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291918/usa2025/bc_2025/usa2025/bc_2025/20250516_110902.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291918/usa2025/bc_2025/usa2025/bc_2025/20250516_110902.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250516_110902"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.506379199722225,
+        "longitude": -123.3861322
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20250517_121325.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250517_121325",
+          "position": {
+            "latitude": 48.423110099999995,
+            "longitude": -123.37591939999999
+          },
+          "date": "2025-05-17T12:13:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291925/usa2025/bc_2025/usa2025/bc_2025/20250517_121325.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291925/usa2025/bc_2025/usa2025/bc_2025/20250517_121325.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291925/usa2025/bc_2025/usa2025/bc_2025/20250517_121325.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250517_121325"
+          }
+        },
+        {
+          "id": "20250517_121356.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250517_121356",
+          "position": {
+            "latitude": 48.42333419972222,
+            "longitude": -123.37611959972222
+          },
+          "date": "2025-05-17T12:13:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291932/usa2025/bc_2025/usa2025/bc_2025/20250517_121356.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291932/usa2025/bc_2025/usa2025/bc_2025/20250517_121356.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291932/usa2025/bc_2025/usa2025/bc_2025/20250517_121356.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250517_121356"
+          }
+        },
+        {
+          "id": "20250517_122405.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250517_122405",
+          "position": {
+            "latitude": 48.42259659972222,
+            "longitude": -123.37963219999999
+          },
+          "date": "2025-05-17T12:24:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291939/usa2025/bc_2025/usa2025/bc_2025/20250517_122405.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291939/usa2025/bc_2025/usa2025/bc_2025/20250517_122405.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291939/usa2025/bc_2025/usa2025/bc_2025/20250517_122405.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250517_122405"
+          }
+        },
+        {
+          "id": "20250517_122641.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250517_122641",
+          "position": {
+            "latitude": 48.4228479,
+            "longitude": -123.38066989999999
+          },
+          "date": "2025-05-17T12:26:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291944/usa2025/bc_2025/usa2025/bc_2025/20250517_122641.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291944/usa2025/bc_2025/usa2025/bc_2025/20250517_122641.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291944/usa2025/bc_2025/usa2025/bc_2025/20250517_122641.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250517_122641"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.42297219986111,
+        "longitude": -123.37808527493054
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20250517_124415.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250517_124415",
+          "position": {
+            "latitude": 48.41981309972222,
+            "longitude": -123.36913789972222
+          },
+          "date": "2025-05-17T12:44:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291951/usa2025/bc_2025/usa2025/bc_2025/20250517_124415.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291951/usa2025/bc_2025/usa2025/bc_2025/20250517_124415.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291951/usa2025/bc_2025/usa2025/bc_2025/20250517_124415.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250517_124415"
+          }
+        },
+        {
+          "id": "20250518_110135.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250518_110135",
+          "position": {
+            "latitude": 48.419974499999995,
+            "longitude": -123.36658359972222
+          },
+          "date": "2025-05-18T11:01:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291957/usa2025/bc_2025/usa2025/bc_2025/20250518_110135.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291957/usa2025/bc_2025/usa2025/bc_2025/20250518_110135.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291957/usa2025/bc_2025/usa2025/bc_2025/20250518_110135.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250518_110135"
+          }
+        },
+        {
+          "id": "20250518_110509.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250518_110509",
+          "position": {
+            "latitude": 48.420545399999995,
+            "longitude": -123.3695661
+          },
+          "date": "2025-05-18T11:05:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291961/usa2025/bc_2025/usa2025/bc_2025/20250518_110509.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291961/usa2025/bc_2025/usa2025/bc_2025/20250518_110509.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291961/usa2025/bc_2025/usa2025/bc_2025/20250518_110509.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250518_110509"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.4201109999074,
+        "longitude": -123.3684291998148
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20250518_182714.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250518_182714",
+          "position": {
+            "latitude": 48.435459599999994,
+            "longitude": -123.36745039972222
+          },
+          "date": "2025-05-18T18:27:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291968/usa2025/bc_2025/usa2025/bc_2025/20250518_182714.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291968/usa2025/bc_2025/usa2025/bc_2025/20250518_182714.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291968/usa2025/bc_2025/usa2025/bc_2025/20250518_182714.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250518_182714"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.435459599999994,
+        "longitude": -123.36745039972222
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20250519_173133.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250519_173133",
+          "position": {
+            "latitude": 48.3635943,
+            "longitude": -123.83036529972222
+          },
+          "date": "2025-05-19T17:31:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291974/usa2025/bc_2025/usa2025/bc_2025/20250519_173133.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291974/usa2025/bc_2025/usa2025/bc_2025/20250519_173133.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291974/usa2025/bc_2025/usa2025/bc_2025/20250519_173133.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250519_173133"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.3635943,
+        "longitude": -123.83036529972222
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20250520_123346.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250520_123346",
+          "position": {
+            "latitude": 48.39259609972222,
+            "longitude": -123.945693
+          },
+          "date": "2025-05-20T12:33:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291981/usa2025/bc_2025/usa2025/bc_2025/20250520_123346.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291981/usa2025/bc_2025/usa2025/bc_2025/20250520_123346.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291981/usa2025/bc_2025/usa2025/bc_2025/20250520_123346.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250520_123346"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.39259609972222,
+        "longitude": -123.945693
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20250520_124134.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250520_124134",
+          "position": {
+            "latitude": 48.3957636,
+            "longitude": -123.94981339972223
+          },
+          "date": "2025-05-20T12:41:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291987/usa2025/bc_2025/usa2025/bc_2025/20250520_124134.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291987/usa2025/bc_2025/usa2025/bc_2025/20250520_124134.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291987/usa2025/bc_2025/usa2025/bc_2025/20250520_124134.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250520_124134"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.3957636,
+        "longitude": -123.94981339972223
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20250520_184414.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250520_184414",
+          "position": {
+            "latitude": 48.3911518,
+            "longitude": -123.94241019972223
+          },
+          "date": "2025-05-20T18:44:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291993/usa2025/bc_2025/usa2025/bc_2025/20250520_184414.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291993/usa2025/bc_2025/usa2025/bc_2025/20250520_184414.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291993/usa2025/bc_2025/usa2025/bc_2025/20250520_184414.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250520_184414"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.3911518,
+        "longitude": -123.94241019972223
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20250521_141122.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250521_141122",
+          "position": {
+            "latitude": 48.379452399722226,
+            "longitude": -123.86642909999999
+          },
+          "date": "2025-05-21T14:11:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292000/usa2025/bc_2025/usa2025/bc_2025/20250521_141122.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292000/usa2025/bc_2025/usa2025/bc_2025/20250521_141122.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292000/usa2025/bc_2025/usa2025/bc_2025/20250521_141122.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250521_141122"
+          }
+        },
+        {
+          "id": "20250521_141323.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250521_141323",
+          "position": {
+            "latitude": 48.3787785,
+            "longitude": -123.86640829999999
+          },
+          "date": "2025-05-21T14:13:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292009/usa2025/bc_2025/usa2025/bc_2025/20250521_141323.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292009/usa2025/bc_2025/usa2025/bc_2025/20250521_141323.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292009/usa2025/bc_2025/usa2025/bc_2025/20250521_141323.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250521_141323"
+          }
+        },
+        {
+          "id": "20250521_141934.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250521_141934",
+          "position": {
+            "latitude": 48.3790642,
+            "longitude": -123.86241369999999
+          },
+          "date": "2025-05-21T14:19:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292017/usa2025/bc_2025/usa2025/bc_2025/20250521_141934.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292017/usa2025/bc_2025/usa2025/bc_2025/20250521_141934.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292017/usa2025/bc_2025/usa2025/bc_2025/20250521_141934.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250521_141934"
+          }
+        },
+        {
+          "id": "20250524_175127.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250524_175127",
+          "position": {
+            "latitude": 48.378716699722226,
+            "longitude": -123.86128679999999
+          },
+          "date": "2025-05-24T17:51:27Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292023/usa2025/bc_2025/usa2025/bc_2025/20250524_175127.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292023/usa2025/bc_2025/usa2025/bc_2025/20250524_175127.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292023/usa2025/bc_2025/usa2025/bc_2025/20250524_175127.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250524_175127"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.37900294986111,
+        "longitude": -123.86413447499999
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20250526_160523.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250526_160523",
+          "position": {
+            "latitude": 48.4997121,
+            "longitude": -124.29701749972222
+          },
+          "date": "2025-05-26T16:05:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292031/usa2025/bc_2025/usa2025/bc_2025/20250526_160523.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292031/usa2025/bc_2025/usa2025/bc_2025/20250526_160523.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292031/usa2025/bc_2025/usa2025/bc_2025/20250526_160523.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250526_160523"
+          }
+        },
+        {
+          "id": "20250526_161450.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250526_161450",
+          "position": {
+            "latitude": 48.500456399722225,
+            "longitude": -124.3017782
+          },
+          "date": "2025-05-26T16:14:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292037/usa2025/bc_2025/usa2025/bc_2025/20250526_161450.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292037/usa2025/bc_2025/usa2025/bc_2025/20250526_161450.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292037/usa2025/bc_2025/usa2025/bc_2025/20250526_161450.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250526_161450"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.50008424986112,
+        "longitude": -124.29939784986111
+      }
+    },
+    {
+      "id": "cluster-14",
+      "photos": [
+        {
+          "id": "20250526_164623.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250526_164623",
+          "position": {
+            "latitude": 48.4925937,
+            "longitude": -124.29351959972222
+          },
+          "date": "2025-05-26T16:46:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292043/usa2025/bc_2025/usa2025/bc_2025/20250526_164623.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292043/usa2025/bc_2025/usa2025/bc_2025/20250526_164623.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292043/usa2025/bc_2025/usa2025/bc_2025/20250526_164623.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250526_164623"
+          }
+        },
+        {
+          "id": "20250526_164658.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250526_164658",
+          "position": {
+            "latitude": 48.492466999722225,
+            "longitude": -124.2935616
+          },
+          "date": "2025-05-26T16:46:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292049/usa2025/bc_2025/usa2025/bc_2025/20250526_164658.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292049/usa2025/bc_2025/usa2025/bc_2025/20250526_164658.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292049/usa2025/bc_2025/usa2025/bc_2025/20250526_164658.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250526_164658"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.49253034986111,
+        "longitude": -124.2935405998611
+      }
+    },
+    {
+      "id": "cluster-15",
+      "photos": [
+        {
+          "id": "20250601_213204.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250601_213204",
+          "position": {
+            "latitude": 48.800399899999995,
+            "longitude": -123.90463769972223
+          },
+          "date": "2025-06-01T21:32:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292056/usa2025/bc_2025/usa2025/bc_2025/20250601_213204.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292056/usa2025/bc_2025/usa2025/bc_2025/20250601_213204.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292056/usa2025/bc_2025/usa2025/bc_2025/20250601_213204.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250601_213204"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.800399899999995,
+        "longitude": -123.90463769972223
+      }
+    },
+    {
+      "id": "cluster-16",
+      "photos": [
+        {
+          "id": "20250603_102201.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250603_102201",
+          "position": {
+            "latitude": 49.0708525,
+            "longitude": -123.88081039999999
+          },
+          "date": "2025-06-03T10:22:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292063/usa2025/bc_2025/usa2025/bc_2025/20250603_102201.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292063/usa2025/bc_2025/usa2025/bc_2025/20250603_102201.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292063/usa2025/bc_2025/usa2025/bc_2025/20250603_102201.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250603_102201"
+          }
+        },
+        {
+          "id": "20250603_102210.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250603_102210",
+          "position": {
+            "latitude": 49.0708525,
+            "longitude": -123.88081039999999
+          },
+          "date": "2025-06-03T10:22:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292071/usa2025/bc_2025/usa2025/bc_2025/20250603_102210.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292071/usa2025/bc_2025/usa2025/bc_2025/20250603_102210.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292071/usa2025/bc_2025/usa2025/bc_2025/20250603_102210.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250603_102210"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.0708525,
+        "longitude": -123.88081039999999
+      }
+    },
+    {
+      "id": "cluster-17",
+      "photos": [
+        {
+          "id": "20250605_110120.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250605_110120",
+          "position": {
+            "latitude": 49.2087395,
+            "longitude": -124.79125679972222
+          },
+          "date": "2025-06-05T11:01:20Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292079/usa2025/bc_2025/usa2025/bc_2025/20250605_110120.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292079/usa2025/bc_2025/usa2025/bc_2025/20250605_110120.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292079/usa2025/bc_2025/usa2025/bc_2025/20250605_110120.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250605_110120"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.2087395,
+        "longitude": -124.79125679972222
+      }
+    },
+    {
+      "id": "cluster-18",
+      "photos": [
+        {
+          "id": "20250606_233916.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250606_233916",
+          "position": {
+            "latitude": 49.29415829972222,
+            "longitude": -125.3001495
+          },
+          "date": "2025-06-06T23:39:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292087/usa2025/bc_2025/usa2025/bc_2025/20250606_233916.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292087/usa2025/bc_2025/usa2025/bc_2025/20250606_233916.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292087/usa2025/bc_2025/usa2025/bc_2025/20250606_233916.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250606_233916"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.29415829972222,
+        "longitude": -125.3001495
+      }
+    },
+    {
+      "id": "cluster-19",
+      "photos": [
+        {
+          "id": "20250608_095632.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250608_095632",
+          "position": {
+            "latitude": 49.1070585,
+            "longitude": -125.87863619999999
+          },
+          "date": "2025-06-08T09:56:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292093/usa2025/bc_2025/usa2025/bc_2025/20250608_095632.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292093/usa2025/bc_2025/usa2025/bc_2025/20250608_095632.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292093/usa2025/bc_2025/usa2025/bc_2025/20250608_095632.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250608_095632"
+          }
+        },
+        {
+          "id": "20250608_095640.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250608_095640",
+          "position": {
+            "latitude": 49.1070585,
+            "longitude": -125.87863619999999
+          },
+          "date": "2025-06-08T09:56:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292098/usa2025/bc_2025/usa2025/bc_2025/20250608_095640.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292098/usa2025/bc_2025/usa2025/bc_2025/20250608_095640.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292098/usa2025/bc_2025/usa2025/bc_2025/20250608_095640.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250608_095640"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.1070585,
+        "longitude": -125.87863619999999
+      }
+    },
+    {
+      "id": "cluster-20",
+      "photos": [
+        {
+          "id": "20250608_162528.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250608_162528",
+          "position": {
+            "latitude": 48.94661429999999,
+            "longitude": -125.57699119972222
+          },
+          "date": "2025-06-08T16:25:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292105/usa2025/bc_2025/usa2025/bc_2025/20250608_162528.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292105/usa2025/bc_2025/usa2025/bc_2025/20250608_162528.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292105/usa2025/bc_2025/usa2025/bc_2025/20250608_162528.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250608_162528"
+          }
+        },
+        {
+          "id": "20250608_163040.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250608_163040",
+          "position": {
+            "latitude": 48.94656069972222,
+            "longitude": -125.57964199999999
+          },
+          "date": "2025-06-08T16:30:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292110/usa2025/bc_2025/usa2025/bc_2025/20250608_163040.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292110/usa2025/bc_2025/usa2025/bc_2025/20250608_163040.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292110/usa2025/bc_2025/usa2025/bc_2025/20250608_163040.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250608_163040"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.94658749986111,
+        "longitude": -125.5783165998611
+      }
+    },
+    {
+      "id": "cluster-21",
+      "photos": [
+        {
+          "id": "20250624_155725.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250624_155725",
+          "position": {
+            "latitude": 49.35106749972223,
+            "longitude": -123.19496019972223
+          },
+          "date": "2025-06-24T15:57:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292114/usa2025/bc_2025/usa2025/bc_2025/20250624_155725.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292114/usa2025/bc_2025/usa2025/bc_2025/20250624_155725.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292114/usa2025/bc_2025/usa2025/bc_2025/20250624_155725.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250624_155725"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.35106749972223,
+        "longitude": -123.19496019972223
+      }
+    },
+    {
+      "id": "cluster-22",
+      "photos": [
+        {
+          "id": "20250625_182648.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250625_182648",
+          "position": {
+            "latitude": 49.694236599999996,
+            "longitude": -123.15529659972223
+          },
+          "date": "2025-06-25T18:26:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292119/usa2025/bc_2025/usa2025/bc_2025/20250625_182648.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292119/usa2025/bc_2025/usa2025/bc_2025/20250625_182648.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292119/usa2025/bc_2025/usa2025/bc_2025/20250625_182648.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250625_182648"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.694236599999996,
+        "longitude": -123.15529659972223
+      }
+    },
+    {
+      "id": "cluster-23",
+      "photos": [
+        {
+          "id": "20250626_120846.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250626_120846",
+          "position": {
+            "latitude": 49.7209919,
+            "longitude": -123.09258939972221
+          },
+          "date": "2025-06-26T12:08:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292127/usa2025/bc_2025/usa2025/bc_2025/20250626_120846.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292127/usa2025/bc_2025/usa2025/bc_2025/20250626_120846.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292127/usa2025/bc_2025/usa2025/bc_2025/20250626_120846.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250626_120846"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.7209919,
+        "longitude": -123.09258939972221
+      }
+    },
+    {
+      "id": "cluster-24",
+      "photos": [
+        {
+          "id": "20250626_155106.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250626_155106",
+          "position": {
+            "latitude": 49.69903839972222,
+            "longitude": -123.12436519972222
+          },
+          "date": "2025-06-26T15:51:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292134/usa2025/bc_2025/usa2025/bc_2025/20250626_155106.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292134/usa2025/bc_2025/usa2025/bc_2025/20250626_155106.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292134/usa2025/bc_2025/usa2025/bc_2025/20250626_155106.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250626_155106"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.69903839972222,
+        "longitude": -123.12436519972222
+      }
+    },
+    {
+      "id": "cluster-25",
+      "photos": [
+        {
+          "id": "20250626_192439.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250626_192439",
+          "position": {
+            "latitude": 49.7049767,
+            "longitude": -123.11946909999999
+          },
+          "date": "2025-06-26T19:24:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292141/usa2025/bc_2025/usa2025/bc_2025/20250626_192439.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292141/usa2025/bc_2025/usa2025/bc_2025/20250626_192439.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292141/usa2025/bc_2025/usa2025/bc_2025/20250626_192439.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250626_192439"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.7049767,
+        "longitude": -123.11946909999999
+      }
+    },
+    {
+      "id": "cluster-26",
+      "photos": [
+        {
+          "id": "20250629_115718.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250629_115718",
+          "position": {
+            "latitude": 49.8455287,
+            "longitude": -123.1478127
+          },
+          "date": "2025-06-29T11:57:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292147/usa2025/bc_2025/usa2025/bc_2025/20250629_115718.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292147/usa2025/bc_2025/usa2025/bc_2025/20250629_115718.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292147/usa2025/bc_2025/usa2025/bc_2025/20250629_115718.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250629_115718"
+          }
+        },
+        {
+          "id": "20250701_190646.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250701_190646",
+          "position": {
+            "latitude": 49.845472899722225,
+            "longitude": -123.14706579972223
+          },
+          "date": "2025-07-01T19:06:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292152/usa2025/bc_2025/usa2025/bc_2025/20250701_190646.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292152/usa2025/bc_2025/usa2025/bc_2025/20250701_190646.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292152/usa2025/bc_2025/usa2025/bc_2025/20250701_190646.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250701_190646"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 49.845500799861114,
+        "longitude": -123.14743924986112
+      }
+    },
+    {
+      "id": "cluster-27",
+      "photos": [
+        {
+          "id": "20250702_112334.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250702_112334",
+          "position": {
+            "latitude": 50.060508299999995,
+            "longitude": -123.11271119999999
+          },
+          "date": "2025-07-02T11:23:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292158/usa2025/bc_2025/usa2025/bc_2025/20250702_112334.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292158/usa2025/bc_2025/usa2025/bc_2025/20250702_112334.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292158/usa2025/bc_2025/usa2025/bc_2025/20250702_112334.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250702_112334"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.060508299999995,
+        "longitude": -123.11271119999999
+      }
+    },
+    {
+      "id": "cluster-28",
+      "photos": [
+        {
+          "id": "20250705_193040.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250705_193040",
+          "position": {
+            "latitude": 50.40016119972222,
+            "longitude": -122.31345329999999
+          },
+          "date": "2025-07-05T19:30:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292164/usa2025/bc_2025/usa2025/bc_2025/20250705_193040.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292164/usa2025/bc_2025/usa2025/bc_2025/20250705_193040.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292164/usa2025/bc_2025/usa2025/bc_2025/20250705_193040.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250705_193040"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.40016119972222,
+        "longitude": -122.31345329999999
+      }
+    },
+    {
+      "id": "cluster-29",
+      "photos": [
+        {
+          "id": "20250705_194707.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250705_194707",
+          "position": {
+            "latitude": 50.3958195,
+            "longitude": -122.32684559972222
+          },
+          "date": "2025-07-05T19:47:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292173/usa2025/bc_2025/usa2025/bc_2025/20250705_194707.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292173/usa2025/bc_2025/usa2025/bc_2025/20250705_194707.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292173/usa2025/bc_2025/usa2025/bc_2025/20250705_194707.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250705_194707"
+          }
+        },
+        {
+          "id": "20250706_115228.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250706_115228",
+          "position": {
+            "latitude": 50.395821499722224,
+            "longitude": -122.3268192
+          },
+          "date": "2025-07-06T11:52:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292181/usa2025/bc_2025/usa2025/bc_2025/20250706_115228.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292181/usa2025/bc_2025/usa2025/bc_2025/20250706_115228.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292181/usa2025/bc_2025/usa2025/bc_2025/20250706_115228.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250706_115228"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.39582049986112,
+        "longitude": -122.3268323998611
+      }
+    },
+    {
+      "id": "cluster-30",
+      "photos": [
+        {
+          "id": "20250708_141141.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250708_141141",
+          "position": {
+            "latitude": 50.41902129972222,
+            "longitude": -122.2781422
+          },
+          "date": "2025-07-08T14:11:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292187/usa2025/bc_2025/usa2025/bc_2025/20250708_141141.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292187/usa2025/bc_2025/usa2025/bc_2025/20250708_141141.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292187/usa2025/bc_2025/usa2025/bc_2025/20250708_141141.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250708_141141"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.41902129972222,
+        "longitude": -122.2781422
+      }
+    },
+    {
+      "id": "cluster-31",
+      "photos": [
+        {
+          "id": "20250708_164050.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250708_164050",
+          "position": {
+            "latitude": 50.70883309972223,
+            "longitude": -121.9175395
+          },
+          "date": "2025-07-08T16:40:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292192/usa2025/bc_2025/usa2025/bc_2025/20250708_164050.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292192/usa2025/bc_2025/usa2025/bc_2025/20250708_164050.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292192/usa2025/bc_2025/usa2025/bc_2025/20250708_164050.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250708_164050"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.70883309972223,
+        "longitude": -121.9175395
+      }
+    },
+    {
+      "id": "cluster-32",
+      "photos": [
+        {
+          "id": "20250708_225042.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250708_225042",
+          "position": {
+            "latitude": 50.74522999972222,
+            "longitude": -121.85720759972222
+          },
+          "date": "2025-07-08T22:50:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292197/usa2025/bc_2025/usa2025/bc_2025/20250708_225042.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292197/usa2025/bc_2025/usa2025/bc_2025/20250708_225042.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292197/usa2025/bc_2025/usa2025/bc_2025/20250708_225042.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250708_225042"
+          }
+        },
+        {
+          "id": "20250709_111259.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250709_111259",
+          "position": {
+            "latitude": 50.745332599722225,
+            "longitude": -121.85708879972222
+          },
+          "date": "2025-07-09T11:12:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292206/usa2025/bc_2025/usa2025/bc_2025/20250709_111259.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292206/usa2025/bc_2025/usa2025/bc_2025/20250709_111259.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292206/usa2025/bc_2025/usa2025/bc_2025/20250709_111259.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250709_111259"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.74528129972222,
+        "longitude": -121.85714819972222
+      }
+    },
+    {
+      "id": "cluster-33",
+      "photos": [
+        {
+          "id": "20250710_173038.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250710_173038",
+          "position": {
+            "latitude": 50.8691576,
+            "longitude": -121.5241357
+          },
+          "date": "2025-07-10T17:30:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292214/usa2025/bc_2025/usa2025/bc_2025/20250710_173038.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292214/usa2025/bc_2025/usa2025/bc_2025/20250710_173038.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292214/usa2025/bc_2025/usa2025/bc_2025/20250710_173038.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250710_173038"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 50.8691576,
+        "longitude": -121.5241357
+      }
+    },
+    {
+      "id": "cluster-34",
+      "photos": [
+        {
+          "id": "20250711_113755.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250711_113755",
+          "position": {
+            "latitude": 51.149169899722224,
+            "longitude": -121.50667149972222
+          },
+          "date": "2025-07-11T11:37:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292221/usa2025/bc_2025/usa2025/bc_2025/20250711_113755.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292221/usa2025/bc_2025/usa2025/bc_2025/20250711_113755.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292221/usa2025/bc_2025/usa2025/bc_2025/20250711_113755.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250711_113755"
+          }
+        },
+        {
+          "id": "20250711_144344.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250711_144344",
+          "position": {
+            "latitude": 51.149287,
+            "longitude": -121.50666739972222
+          },
+          "date": "2025-07-11T14:43:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292232/usa2025/bc_2025/usa2025/bc_2025/20250711_144344.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292232/usa2025/bc_2025/usa2025/bc_2025/20250711_144344.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292232/usa2025/bc_2025/usa2025/bc_2025/20250711_144344.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250711_144344"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 51.14922844986111,
+        "longitude": -121.50666944972221
+      }
+    },
+    {
+      "id": "cluster-35",
+      "photos": [
+        {
+          "id": "20250712_114525.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250712_114525",
+          "position": {
+            "latitude": 51.93900409972222,
+            "longitude": -121.7712231
+          },
+          "date": "2025-07-12T11:45:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292240/usa2025/bc_2025/usa2025/bc_2025/20250712_114525.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292240/usa2025/bc_2025/usa2025/bc_2025/20250712_114525.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292240/usa2025/bc_2025/usa2025/bc_2025/20250712_114525.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250712_114525"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 51.93900409972222,
+        "longitude": -121.7712231
+      }
+    },
+    {
+      "id": "cluster-36",
+      "photos": [
+        {
+          "id": "20250713_144823.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250713_144823",
+          "position": {
+            "latitude": 51.987146099722224,
+            "longitude": -122.27299639972222
+          },
+          "date": "2025-07-13T14:48:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292247/usa2025/bc_2025/usa2025/bc_2025/20250713_144823.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292247/usa2025/bc_2025/usa2025/bc_2025/20250713_144823.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292247/usa2025/bc_2025/usa2025/bc_2025/20250713_144823.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250713_144823"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 51.987146099722224,
+        "longitude": -122.27299639972222
+      }
+    },
+    {
+      "id": "cluster-37",
+      "photos": [
+        {
+          "id": "20250719_124453.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250719_124453",
+          "position": {
+            "latitude": 53.4943845,
+            "longitude": -122.6406881
+          },
+          "date": "2025-07-19T12:44:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292255/usa2025/bc_2025/usa2025/bc_2025/20250719_124453.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292255/usa2025/bc_2025/usa2025/bc_2025/20250719_124453.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292255/usa2025/bc_2025/usa2025/bc_2025/20250719_124453.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250719_124453"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.4943845,
+        "longitude": -122.6406881
+      }
+    },
+    {
+      "id": "cluster-38",
+      "photos": [
+        {
+          "id": "20250722_134747.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250722_134747",
+          "position": {
+            "latitude": 53.8627759,
+            "longitude": -123.2530567
+          },
+          "date": "2025-07-22T13:47:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292265/usa2025/bc_2025/usa2025/bc_2025/20250722_134747.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292265/usa2025/bc_2025/usa2025/bc_2025/20250722_134747.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292265/usa2025/bc_2025/usa2025/bc_2025/20250722_134747.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250722_134747"
+          }
+        },
+        {
+          "id": "20250723_170815.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250723_170815",
+          "position": {
+            "latitude": 53.86285159972223,
+            "longitude": -123.2535316
+          },
+          "date": "2025-07-23T17:08:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292271/usa2025/bc_2025/usa2025/bc_2025/20250723_170815.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292271/usa2025/bc_2025/usa2025/bc_2025/20250723_170815.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292271/usa2025/bc_2025/usa2025/bc_2025/20250723_170815.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250723_170815"
+          }
+        },
+        {
+          "id": "20250723_170839.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250723_170839",
+          "position": {
+            "latitude": 53.862785333333335,
+            "longitude": -123.25350188888889
+          },
+          "date": "2025-07-23T17:08:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292278/usa2025/bc_2025/usa2025/bc_2025/20250723_170839.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292278/usa2025/bc_2025/usa2025/bc_2025/20250723_170839.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292278/usa2025/bc_2025/usa2025/bc_2025/20250723_170839.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250723_170839"
+          }
+        },
+        {
+          "id": "20250723_171707.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250723_171707",
+          "position": {
+            "latitude": 53.862639899722225,
+            "longitude": -123.25378999972222
+          },
+          "date": "2025-07-23T17:17:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292282/usa2025/bc_2025/usa2025/bc_2025/20250723_171707.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292282/usa2025/bc_2025/usa2025/bc_2025/20250723_171707.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292282/usa2025/bc_2025/usa2025/bc_2025/20250723_171707.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250723_171707"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.862763183194446,
+        "longitude": -123.25347004715277
+      }
+    },
+    {
+      "id": "cluster-39",
+      "photos": [
+        {
+          "id": "20250726_231201.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250726_231201",
+          "position": {
+            "latitude": 54.397603099722225,
+            "longitude": -126.71696729972223
+          },
+          "date": "2025-07-26T23:12:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292286/usa2025/bc_2025/usa2025/bc_2025/20250726_231201.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292286/usa2025/bc_2025/usa2025/bc_2025/20250726_231201.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292286/usa2025/bc_2025/usa2025/bc_2025/20250726_231201.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250726_231201"
+          }
+        },
+        {
+          "id": "20250726_231821.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250726_231821",
+          "position": {
+            "latitude": 54.39762329972222,
+            "longitude": -126.71634
+          },
+          "date": "2025-07-26T23:18:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292295/usa2025/bc_2025/usa2025/bc_2025/20250726_231821.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292295/usa2025/bc_2025/usa2025/bc_2025/20250726_231821.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292295/usa2025/bc_2025/usa2025/bc_2025/20250726_231821.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250726_231821"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.39761319972222,
+        "longitude": -126.71665364986112
+      }
+    },
+    {
+      "id": "cluster-40",
+      "photos": [
+        {
+          "id": "20250727_215409.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250727_215409",
+          "position": {
+            "latitude": 54.7835265,
+            "longitude": -127.13434519972223
+          },
+          "date": "2025-07-27T21:54:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292303/usa2025/bc_2025/usa2025/bc_2025/20250727_215409.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292303/usa2025/bc_2025/usa2025/bc_2025/20250727_215409.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292303/usa2025/bc_2025/usa2025/bc_2025/20250727_215409.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250727_215409"
+          }
+        },
+        {
+          "id": "20250728_010156.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_010156",
+          "position": {
+            "latitude": 54.78361127777777,
+            "longitude": -127.13440702777778
+          },
+          "date": "2025-07-28T01:01:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292307/usa2025/bc_2025/usa2025/bc_2025/20250728_010156.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292307/usa2025/bc_2025/usa2025/bc_2025/20250728_010156.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292307/usa2025/bc_2025/usa2025/bc_2025/20250728_010156.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_010156"
+          }
+        },
+        {
+          "id": "20250728_124410.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_124410",
+          "position": {
+            "latitude": 54.78356519972222,
+            "longitude": -127.134369
+          },
+          "date": "2025-07-28T12:44:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292314/usa2025/bc_2025/usa2025/bc_2025/20250728_124410.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292314/usa2025/bc_2025/usa2025/bc_2025/20250728_124410.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292314/usa2025/bc_2025/usa2025/bc_2025/20250728_124410.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_124410"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.783567659166664,
+        "longitude": -127.13437374250002
+      }
+    },
+    {
+      "id": "cluster-41",
+      "photos": [
+        {
+          "id": "20250728_144617.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_144617",
+          "position": {
+            "latitude": 55.01484179972222,
+            "longitude": -127.32855209972222
+          },
+          "date": "2025-07-28T14:46:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292321/usa2025/bc_2025/usa2025/bc_2025/20250728_144617.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292321/usa2025/bc_2025/usa2025/bc_2025/20250728_144617.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292321/usa2025/bc_2025/usa2025/bc_2025/20250728_144617.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_144617"
+          }
+        },
+        {
+          "id": "20250728_144639.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_144639",
+          "position": {
+            "latitude": 55.01483629972222,
+            "longitude": -127.32853769972222
+          },
+          "date": "2025-07-28T14:46:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292326/usa2025/bc_2025/usa2025/bc_2025/20250728_144639.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292326/usa2025/bc_2025/usa2025/bc_2025/20250728_144639.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292326/usa2025/bc_2025/usa2025/bc_2025/20250728_144639.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_144639"
+          }
+        },
+        {
+          "id": "20250728_144753.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_144753",
+          "position": {
+            "latitude": 55.0149394,
+            "longitude": -127.3289173
+          },
+          "date": "2025-07-28T14:47:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292331/usa2025/bc_2025/usa2025/bc_2025/20250728_144753.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292331/usa2025/bc_2025/usa2025/bc_2025/20250728_144753.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292331/usa2025/bc_2025/usa2025/bc_2025/20250728_144753.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_144753"
+          }
+        },
+        {
+          "id": "20250728_144928.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_144928",
+          "position": {
+            "latitude": 55.014828799722224,
+            "longitude": -127.32861859972222
+          },
+          "date": "2025-07-28T14:49:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292337/usa2025/bc_2025/usa2025/bc_2025/20250728_144928.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292337/usa2025/bc_2025/usa2025/bc_2025/20250728_144928.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292337/usa2025/bc_2025/usa2025/bc_2025/20250728_144928.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_144928"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 55.01486157479167,
+        "longitude": -127.32865642479167
+      }
+    },
+    {
+      "id": "cluster-42",
+      "photos": [
+        {
+          "id": "20250728_162228.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_162228",
+          "position": {
+            "latitude": 55.2184133,
+            "longitude": -127.444445
+          },
+          "date": "2025-07-28T16:22:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292344/usa2025/bc_2025/usa2025/bc_2025/20250728_162228.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292344/usa2025/bc_2025/usa2025/bc_2025/20250728_162228.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292344/usa2025/bc_2025/usa2025/bc_2025/20250728_162228.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_162228"
+          }
+        },
+        {
+          "id": "20250728_163848.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250728_163848",
+          "position": {
+            "latitude": 55.2201583,
+            "longitude": -127.4466
+          },
+          "date": "2025-07-28T16:38:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292350/usa2025/bc_2025/usa2025/bc_2025/20250728_163848.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292350/usa2025/bc_2025/usa2025/bc_2025/20250728_163848.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292350/usa2025/bc_2025/usa2025/bc_2025/20250728_163848.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250728_163848"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 55.2192858,
+        "longitude": -127.44552250000001
+      }
+    },
+    {
+      "id": "cluster-43",
+      "photos": [
+        {
+          "id": "20250729_155905.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250729_155905",
+          "position": {
+            "latitude": 55.257069899722225,
+            "longitude": -127.60079299972222
+          },
+          "date": "2025-07-29T15:59:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292357/usa2025/bc_2025/usa2025/bc_2025/20250729_155905.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292357/usa2025/bc_2025/usa2025/bc_2025/20250729_155905.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292357/usa2025/bc_2025/usa2025/bc_2025/20250729_155905.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250729_155905"
+          }
+        },
+        {
+          "id": "20250729_155912.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250729_155912",
+          "position": {
+            "latitude": 55.25706459972222,
+            "longitude": -127.60079609972222
+          },
+          "date": "2025-07-29T15:59:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292363/usa2025/bc_2025/usa2025/bc_2025/20250729_155912.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292363/usa2025/bc_2025/usa2025/bc_2025/20250729_155912.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292363/usa2025/bc_2025/usa2025/bc_2025/20250729_155912.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250729_155912"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 55.257067249722226,
+        "longitude": -127.60079454972222
+      }
+    },
+    {
+      "id": "cluster-44",
+      "photos": [
+        {
+          "id": "20250731_210611.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250731_210611",
+          "position": {
+            "latitude": 54.2428633,
+            "longitude": -129.5188233
+          },
+          "date": "2025-07-31T21:06:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292368/usa2025/bc_2025/usa2025/bc_2025/20250731_210611.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292368/usa2025/bc_2025/usa2025/bc_2025/20250731_210611.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292368/usa2025/bc_2025/usa2025/bc_2025/20250731_210611.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250731_210611"
+          }
+        },
+        {
+          "id": "20250731_210655.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250731_210655",
+          "position": {
+            "latitude": 54.24324659972223,
+            "longitude": -129.51893329972225
+          },
+          "date": "2025-07-31T21:06:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292373/usa2025/bc_2025/usa2025/bc_2025/20250731_210655.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292373/usa2025/bc_2025/usa2025/bc_2025/20250731_210655.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292373/usa2025/bc_2025/usa2025/bc_2025/20250731_210655.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250731_210655"
+          }
+        },
+        {
+          "id": "20250731_211206.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250731_211206",
+          "position": {
+            "latitude": 54.24365159972222,
+            "longitude": -129.51841999972223
+          },
+          "date": "2025-07-31T21:12:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292379/usa2025/bc_2025/usa2025/bc_2025/20250731_211206.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292379/usa2025/bc_2025/usa2025/bc_2025/20250731_211206.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292379/usa2025/bc_2025/usa2025/bc_2025/20250731_211206.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250731_211206"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.24325383314815,
+        "longitude": -129.51872553314817
+      }
+    },
+    {
+      "id": "cluster-45",
+      "photos": [
+        {
+          "id": "20250802_134026.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250802_134026",
+          "position": {
+            "latitude": 54.298229194444446,
+            "longitude": -130.35455322222222
+          },
+          "date": "2025-08-02T13:40:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292387/usa2025/bc_2025/usa2025/bc_2025/20250802_134026.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292387/usa2025/bc_2025/usa2025/bc_2025/20250802_134026.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292387/usa2025/bc_2025/usa2025/bc_2025/20250802_134026.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250802_134026"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.298229194444446,
+        "longitude": -130.35455322222222
+      }
+    },
+    {
+      "id": "cluster-46",
+      "photos": [
+        {
+          "id": "20250802_140338.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250802_140338",
+          "position": {
+            "latitude": 54.2473335,
+            "longitude": -130.3496093611111
+          },
+          "date": "2025-08-02T14:03:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292398/usa2025/bc_2025/usa2025/bc_2025/20250802_140338.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292398/usa2025/bc_2025/usa2025/bc_2025/20250802_140338.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292398/usa2025/bc_2025/usa2025/bc_2025/20250802_140338.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250802_140338"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.2473335,
+        "longitude": -130.3496093611111
+      }
+    },
+    {
+      "id": "cluster-47",
+      "photos": [
+        {
+          "id": "20250802_221615.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250802_221615",
+          "position": {
+            "latitude": 53.30153159972222,
+            "longitude": -131.9658632997222
+          },
+          "date": "2025-08-02T22:16:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292408/usa2025/bc_2025/usa2025/bc_2025/20250802_221615.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292408/usa2025/bc_2025/usa2025/bc_2025/20250802_221615.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292408/usa2025/bc_2025/usa2025/bc_2025/20250802_221615.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250802_221615"
+          }
+        },
+        {
+          "id": "20250803_130726.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250803_130726",
+          "position": {
+            "latitude": 53.29873899972222,
+            "longitude": -131.96600569999998
+          },
+          "date": "2025-08-03T13:07:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292413/usa2025/bc_2025/usa2025/bc_2025/20250803_130726.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292413/usa2025/bc_2025/usa2025/bc_2025/20250803_130726.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292413/usa2025/bc_2025/usa2025/bc_2025/20250803_130726.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250803_130726"
+          }
+        },
+        {
+          "id": "20250803_131149.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250803_131149",
+          "position": {
+            "latitude": 53.296780299999995,
+            "longitude": -131.96595169999998
+          },
+          "date": "2025-08-03T13:11:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292417/usa2025/bc_2025/usa2025/bc_2025/20250803_131149.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292417/usa2025/bc_2025/usa2025/bc_2025/20250803_131149.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292417/usa2025/bc_2025/usa2025/bc_2025/20250803_131149.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250803_131149"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.299016966481474,
+        "longitude": -131.96594023324073
+      }
+    },
+    {
+      "id": "cluster-48",
+      "photos": [
+        {
+          "id": "20250803_172948.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250803_172948",
+          "position": {
+            "latitude": 53.28271939972222,
+            "longitude": -131.96888609972223
+          },
+          "date": "2025-08-03T17:29:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292421/usa2025/bc_2025/usa2025/bc_2025/20250803_172948.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292421/usa2025/bc_2025/usa2025/bc_2025/20250803_172948.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292421/usa2025/bc_2025/usa2025/bc_2025/20250803_172948.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250803_172948"
+          }
+        },
+        {
+          "id": "20250803_174001.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250803_174001",
+          "position": {
+            "latitude": 53.28088559972222,
+            "longitude": -131.96940589972223
+          },
+          "date": "2025-08-03T17:40:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292424/usa2025/bc_2025/usa2025/bc_2025/20250803_174001.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292424/usa2025/bc_2025/usa2025/bc_2025/20250803_174001.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292424/usa2025/bc_2025/usa2025/bc_2025/20250803_174001.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250803_174001"
+          }
+        },
+        {
+          "id": "20250803_174658.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250803_174658",
+          "position": {
+            "latitude": 53.2829581,
+            "longitude": -131.9686857
+          },
+          "date": "2025-08-03T17:46:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292480/usa2025/bc_2025/usa2025/bc_2025/20250803_174658.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292480/usa2025/bc_2025/usa2025/bc_2025/20250803_174658.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292480/usa2025/bc_2025/usa2025/bc_2025/20250803_174658.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250803_174658"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.28185214979167,
+        "longitude": -131.96909327479167
+      }
+    },
+    {
+      "id": "cluster-49",
+      "photos": [
+        {
+          "id": "20250804_124543.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250804_124543",
+          "position": {
+            "latitude": 53.296256299999996,
+            "longitude": -131.96601329972222
+          },
+          "date": "2025-08-04T12:45:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292484/usa2025/bc_2025/usa2025/bc_2025/20250804_124543.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292484/usa2025/bc_2025/usa2025/bc_2025/20250804_124543.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292484/usa2025/bc_2025/usa2025/bc_2025/20250804_124543.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250804_124543"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.296256299999996,
+        "longitude": -131.96601329972222
+      }
+    },
+    {
+      "id": "cluster-50",
+      "photos": [
+        {
+          "id": "20250804_221321.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250804_221321",
+          "position": {
+            "latitude": 53.38324229972222,
+            "longitude": -131.9339807
+          },
+          "date": "2025-08-04T22:13:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292491/usa2025/bc_2025/usa2025/bc_2025/20250804_221321.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292491/usa2025/bc_2025/usa2025/bc_2025/20250804_221321.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292491/usa2025/bc_2025/usa2025/bc_2025/20250804_221321.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250804_221321"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.38324229972222,
+        "longitude": -131.9339807
+      }
+    },
+    {
+      "id": "cluster-51",
+      "photos": [
+        {
+          "id": "20250806_164859.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250806_164859",
+          "position": {
+            "latitude": 54.02128199972222,
+            "longitude": -132.14393899972222
+          },
+          "date": "2025-08-06T16:48:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292499/usa2025/bc_2025/usa2025/bc_2025/20250806_164859.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292499/usa2025/bc_2025/usa2025/bc_2025/20250806_164859.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292499/usa2025/bc_2025/usa2025/bc_2025/20250806_164859.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250806_164859"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.02128199972222,
+        "longitude": -132.14393899972222
+      }
+    },
+    {
+      "id": "cluster-52",
+      "photos": [
+        {
+          "id": "20250806_165212.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250806_165212",
+          "position": {
+            "latitude": 54.014614083333335,
+            "longitude": -132.14527891666665
+          },
+          "date": "2025-08-06T16:52:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292508/usa2025/bc_2025/usa2025/bc_2025/20250806_165212.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292508/usa2025/bc_2025/usa2025/bc_2025/20250806_165212.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292508/usa2025/bc_2025/usa2025/bc_2025/20250806_165212.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250806_165212"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.014614083333335,
+        "longitude": -132.14527891666665
+      }
+    },
+    {
+      "id": "cluster-53",
+      "photos": [
+        {
+          "id": "20250806_170703.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250806_170703",
+          "position": {
+            "latitude": 54.027938399722224,
+            "longitude": -132.1392366997222
+          },
+          "date": "2025-08-06T17:07:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292516/usa2025/bc_2025/usa2025/bc_2025/20250806_170703.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292516/usa2025/bc_2025/usa2025/bc_2025/20250806_170703.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292516/usa2025/bc_2025/usa2025/bc_2025/20250806_170703.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250806_170703"
+          }
+        },
+        {
+          "id": "20250807_144406.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250807_144406",
+          "position": {
+            "latitude": 54.03119209972222,
+            "longitude": -132.1391959997222
+          },
+          "date": "2025-08-07T14:44:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292524/usa2025/bc_2025/usa2025/bc_2025/20250807_144406.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292524/usa2025/bc_2025/usa2025/bc_2025/20250807_144406.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292524/usa2025/bc_2025/usa2025/bc_2025/20250807_144406.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250807_144406"
+          }
+        },
+        {
+          "id": "20250807_195304.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250807_195304",
+          "position": {
+            "latitude": 54.02828019972222,
+            "longitude": -132.13896299972222
+          },
+          "date": "2025-08-07T19:53:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292531/usa2025/bc_2025/usa2025/bc_2025/20250807_195304.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292531/usa2025/bc_2025/usa2025/bc_2025/20250807_195304.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292531/usa2025/bc_2025/usa2025/bc_2025/20250807_195304.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250807_195304"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.029136899722225,
+        "longitude": -132.1391318997222
+      }
+    },
+    {
+      "id": "cluster-54",
+      "photos": [
+        {
+          "id": "20250807_230108.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250807_230108",
+          "position": {
+            "latitude": 54.052146099999995,
+            "longitude": -131.88472959972222
+          },
+          "date": "2025-08-07T23:01:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292536/usa2025/bc_2025/usa2025/bc_2025/20250807_230108.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292536/usa2025/bc_2025/usa2025/bc_2025/20250807_230108.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292536/usa2025/bc_2025/usa2025/bc_2025/20250807_230108.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250807_230108"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.052146099999995,
+        "longitude": -131.88472959972222
+      }
+    },
+    {
+      "id": "cluster-55",
+      "photos": [
+        {
+          "id": "20250808_143334.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250808_143334",
+          "position": {
+            "latitude": 54.008507199722224,
+            "longitude": -132.14255359999999
+          },
+          "date": "2025-08-08T14:33:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292541/usa2025/bc_2025/usa2025/bc_2025/20250808_143334.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292541/usa2025/bc_2025/usa2025/bc_2025/20250808_143334.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292541/usa2025/bc_2025/usa2025/bc_2025/20250808_143334.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250808_143334"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 54.008507199722224,
+        "longitude": -132.14255359999999
+      }
+    },
+    {
+      "id": "cluster-56",
+      "photos": [
+        {
+          "id": "20250808_161221.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250808_161221",
+          "position": {
+            "latitude": 53.6440995,
+            "longitude": -132.20213429999998
+          },
+          "date": "2025-08-08T16:12:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292548/usa2025/bc_2025/usa2025/bc_2025/20250808_161221.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292548/usa2025/bc_2025/usa2025/bc_2025/20250808_161221.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292548/usa2025/bc_2025/usa2025/bc_2025/20250808_161221.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250808_161221"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.6440995,
+        "longitude": -132.20213429999998
+      }
+    },
+    {
+      "id": "cluster-57",
+      "photos": [
+        {
+          "id": "20250809_210341(0).jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250809_210341(0)",
+          "position": {
+            "latitude": 53.602383199722226,
+            "longitude": -132.28177339972223
+          },
+          "date": "2025-08-09T21:03:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292582/usa2025/bc_2025/usa2025/bc_2025/20250809_210341%280%29.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292582/usa2025/bc_2025/usa2025/bc_2025/20250809_210341%280%29.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292582/usa2025/bc_2025/usa2025/bc_2025/20250809_210341%280%29.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250809_210341(0)"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.602383199722226,
+        "longitude": -132.28177339972223
+      }
+    },
+    {
+      "id": "cluster-58",
+      "photos": [
+        {
+          "id": "20250811_103343.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250811_103343",
+          "position": {
+            "latitude": 53.37820813888889,
+            "longitude": -131.93263244444444
+          },
+          "date": "2025-08-11T10:33:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292588/usa2025/bc_2025/usa2025/bc_2025/20250811_103343.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292588/usa2025/bc_2025/usa2025/bc_2025/20250811_103343.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292588/usa2025/bc_2025/usa2025/bc_2025/20250811_103343.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250811_103343"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.37820813888889,
+        "longitude": -131.93263244444444
+      }
+    },
+    {
+      "id": "cluster-59",
+      "photos": [
+        {
+          "id": "20250811_233813.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250811_233813",
+          "position": {
+            "latitude": 53.324113699722226,
+            "longitude": -131.95363419999998
+          },
+          "date": "2025-08-11T23:38:13Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292594/usa2025/bc_2025/usa2025/bc_2025/20250811_233813.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292594/usa2025/bc_2025/usa2025/bc_2025/20250811_233813.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292594/usa2025/bc_2025/usa2025/bc_2025/20250811_233813.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250811_233813"
+          }
+        },
+        {
+          "id": "20250811_234016.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250811_234016",
+          "position": {
+            "latitude": 53.3241359,
+            "longitude": -131.95312999972222
+          },
+          "date": "2025-08-11T23:40:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292599/usa2025/bc_2025/usa2025/bc_2025/20250811_234016.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292599/usa2025/bc_2025/usa2025/bc_2025/20250811_234016.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292599/usa2025/bc_2025/usa2025/bc_2025/20250811_234016.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250811_234016"
+          }
+        },
+        {
+          "id": "20250811_234145.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250811_234145",
+          "position": {
+            "latitude": 53.3241707,
+            "longitude": -131.95291859999998
+          },
+          "date": "2025-08-11T23:41:45Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292605/usa2025/bc_2025/usa2025/bc_2025/20250811_234145.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292605/usa2025/bc_2025/usa2025/bc_2025/20250811_234145.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292605/usa2025/bc_2025/usa2025/bc_2025/20250811_234145.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250811_234145"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.3241400999074,
+        "longitude": -131.9532275999074
+      }
+    },
+    {
+      "id": "cluster-60",
+      "photos": [
+        {
+          "id": "20250812_132241.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_132241",
+          "position": {
+            "latitude": 53.01190319972222,
+            "longitude": -131.57651939972223
+          },
+          "date": "2025-08-12T13:22:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292609/usa2025/bc_2025/usa2025/bc_2025/20250812_132241.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292609/usa2025/bc_2025/usa2025/bc_2025/20250812_132241.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292609/usa2025/bc_2025/usa2025/bc_2025/20250812_132241.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_132241"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.01190319972222,
+        "longitude": -131.57651939972223
+      }
+    },
+    {
+      "id": "cluster-61",
+      "photos": [
+        {
+          "id": "20250812_135219.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_135219",
+          "position": {
+            "latitude": 52.963642399722225,
+            "longitude": -131.60714529999998
+          },
+          "date": "2025-08-12T13:52:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292615/usa2025/bc_2025/usa2025/bc_2025/20250812_135219.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292615/usa2025/bc_2025/usa2025/bc_2025/20250812_135219.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292615/usa2025/bc_2025/usa2025/bc_2025/20250812_135219.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_135219"
+          }
+        },
+        {
+          "id": "20250812_141759.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_141759",
+          "position": {
+            "latitude": 52.9653457,
+            "longitude": -131.60704129972223
+          },
+          "date": "2025-08-12T14:17:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292622/usa2025/bc_2025/usa2025/bc_2025/20250812_141759.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292622/usa2025/bc_2025/usa2025/bc_2025/20250812_141759.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292622/usa2025/bc_2025/usa2025/bc_2025/20250812_141759.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_141759"
+          }
+        },
+        {
+          "id": "20250812_141906.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_141906",
+          "position": {
+            "latitude": 52.96536929972223,
+            "longitude": -131.60693989972222
+          },
+          "date": "2025-08-12T14:19:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292630/usa2025/bc_2025/usa2025/bc_2025/20250812_141906.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292630/usa2025/bc_2025/usa2025/bc_2025/20250812_141906.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292630/usa2025/bc_2025/usa2025/bc_2025/20250812_141906.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_141906"
+          }
+        },
+        {
+          "id": "20250812_152856.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_152856",
+          "position": {
+            "latitude": 52.96435,
+            "longitude": -131.60748309972223
+          },
+          "date": "2025-08-12T15:28:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292639/usa2025/bc_2025/usa2025/bc_2025/20250812_152856.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292639/usa2025/bc_2025/usa2025/bc_2025/20250812_152856.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292639/usa2025/bc_2025/usa2025/bc_2025/20250812_152856.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_152856"
+          }
+        },
+        {
+          "id": "20250812_164452.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_164452",
+          "position": {
+            "latitude": 52.964131,
+            "longitude": -131.60700919972223
+          },
+          "date": "2025-08-12T16:44:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292648/usa2025/bc_2025/usa2025/bc_2025/20250812_164452.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292648/usa2025/bc_2025/usa2025/bc_2025/20250812_164452.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292648/usa2025/bc_2025/usa2025/bc_2025/20250812_164452.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_164452"
+          }
+        },
+        {
+          "id": "20250812_165259.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_165259",
+          "position": {
+            "latitude": 52.964165999722226,
+            "longitude": -131.60657179999998
+          },
+          "date": "2025-08-12T16:52:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292660/usa2025/bc_2025/usa2025/bc_2025/20250812_165259.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292660/usa2025/bc_2025/usa2025/bc_2025/20250812_165259.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292660/usa2025/bc_2025/usa2025/bc_2025/20250812_165259.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_165259"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 52.96450073319445,
+        "longitude": -131.60703176648147
+      }
+    },
+    {
+      "id": "cluster-62",
+      "photos": [
+        {
+          "id": "20250812_182128.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_182128",
+          "position": {
+            "latitude": 53.0110511,
+            "longitude": -131.58109559972223
+          },
+          "date": "2025-08-12T18:21:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292664/usa2025/bc_2025/usa2025/bc_2025/20250812_182128.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292664/usa2025/bc_2025/usa2025/bc_2025/20250812_182128.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292664/usa2025/bc_2025/usa2025/bc_2025/20250812_182128.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_182128"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.0110511,
+        "longitude": -131.58109559972223
+      }
+    },
+    {
+      "id": "cluster-63",
+      "photos": [
+        {
+          "id": "20250812_232957.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250812_232957",
+          "position": {
+            "latitude": 53.05194279972222,
+            "longitude": -132.02081229972222
+          },
+          "date": "2025-08-12T23:29:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292669/usa2025/bc_2025/usa2025/bc_2025/20250812_232957.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292669/usa2025/bc_2025/usa2025/bc_2025/20250812_232957.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292669/usa2025/bc_2025/usa2025/bc_2025/20250812_232957.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250812_232957"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.05194279972222,
+        "longitude": -132.02081229972222
+      }
+    },
+    {
+      "id": "cluster-64",
+      "photos": [
+        {
+          "id": "20250813_133614.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250813_133614",
+          "position": {
+            "latitude": 53.052450699999994,
+            "longitude": -132.03288779972223
+          },
+          "date": "2025-08-13T13:36:14Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292676/usa2025/bc_2025/usa2025/bc_2025/20250813_133614.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292676/usa2025/bc_2025/usa2025/bc_2025/20250813_133614.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292676/usa2025/bc_2025/usa2025/bc_2025/20250813_133614.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250813_133614"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.052450699999994,
+        "longitude": -132.03288779972223
+      }
+    },
+    {
+      "id": "cluster-65",
+      "photos": [
+        {
+          "id": "20250813_142800.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250813_142800",
+          "position": {
+            "latitude": 53.0387647,
+            "longitude": -132.06068899972223
+          },
+          "date": "2025-08-13T14:28:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292683/usa2025/bc_2025/usa2025/bc_2025/20250813_142800.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292683/usa2025/bc_2025/usa2025/bc_2025/20250813_142800.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292683/usa2025/bc_2025/usa2025/bc_2025/20250813_142800.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250813_142800"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.0387647,
+        "longitude": -132.06068899972223
+      }
+    },
+    {
+      "id": "cluster-66",
+      "photos": [
+        {
+          "id": "20250813_153401.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250813_153401",
+          "position": {
+            "latitude": 53.02702889972222,
+            "longitude": -132.06634529972223
+          },
+          "date": "2025-08-13T15:34:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292689/usa2025/bc_2025/usa2025/bc_2025/20250813_153401.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292689/usa2025/bc_2025/usa2025/bc_2025/20250813_153401.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292689/usa2025/bc_2025/usa2025/bc_2025/20250813_153401.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250813_153401"
+          }
+        },
+        {
+          "id": "20250813_153422.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250813_153422",
+          "position": {
+            "latitude": 53.02706539972222,
+            "longitude": -132.0663958
+          },
+          "date": "2025-08-13T15:34:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292697/usa2025/bc_2025/usa2025/bc_2025/20250813_153422.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292697/usa2025/bc_2025/usa2025/bc_2025/20250813_153422.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292697/usa2025/bc_2025/usa2025/bc_2025/20250813_153422.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250813_153422"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.02704714972222,
+        "longitude": -132.06637054986112
+      }
+    },
+    {
+      "id": "cluster-67",
+      "photos": [
+        {
+          "id": "20250813_173741.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250813_173741",
+          "position": {
+            "latitude": 53.051651699999994,
+            "longitude": -132.02924139972222
+          },
+          "date": "2025-08-13T17:37:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292703/usa2025/bc_2025/usa2025/bc_2025/20250813_173741.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292703/usa2025/bc_2025/usa2025/bc_2025/20250813_173741.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292703/usa2025/bc_2025/usa2025/bc_2025/20250813_173741.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250813_173741"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.051651699999994,
+        "longitude": -132.02924139972222
+      }
+    },
+    {
+      "id": "cluster-68",
+      "photos": [
+        {
+          "id": "20250814_143338.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250814_143338",
+          "position": {
+            "latitude": 53.239817799722225,
+            "longitude": -131.9219568997222
+          },
+          "date": "2025-08-14T14:33:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292708/usa2025/bc_2025/usa2025/bc_2025/20250814_143338.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292708/usa2025/bc_2025/usa2025/bc_2025/20250814_143338.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292708/usa2025/bc_2025/usa2025/bc_2025/20250814_143338.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250814_143338"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.239817799722225,
+        "longitude": -131.9219568997222
+      }
+    },
+    {
+      "id": "cluster-69",
+      "photos": [
+        {
+          "id": "20250814_205548.jpg",
+          "url": "usa2025/bc_2025/usa2025/bc_2025/20250814_205548",
+          "position": {
+            "latitude": 53.2364468,
+            "longitude": -131.8713193
+          },
+          "date": "2025-08-14T20:55:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755292716/usa2025/bc_2025/usa2025/bc_2025/20250814_205548.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755292716/usa2025/bc_2025/usa2025/bc_2025/20250814_205548.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755292716/usa2025/bc_2025/usa2025/bc_2025/20250814_205548.jpg",
+            "public_id": "usa2025/bc_2025/usa2025/bc_2025/20250814_205548"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 53.23643739986112,
+        "longitude": -131.87131159986112
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": "Auto-generated itinerary for bc_2025"
+}

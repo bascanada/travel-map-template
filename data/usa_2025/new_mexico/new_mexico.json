@@ -1,0 +1,2856 @@
+{
+  "id": "new_mexico",
+  "name": "New mexico",
+  "route": {
+    "start": {
+      "latitude": 32.8897525,
+      "longitude": -105.703079
+    },
+    "end": {
+      "latitude": 36.3330775,
+      "longitude": -106.52192239972221
+    },
+    "path": [
+      {
+        "latitude": 32.8897525,
+        "longitude": -105.703079,
+        "date": "2025-02-07T11:10:00Z"
+      },
+      {
+        "latitude": 32.878415099722226,
+        "longitude": -105.70911069972223,
+        "date": "2025-02-07T16:13:21Z"
+      },
+      {
+        "latitude": 32.88933409972222,
+        "longitude": -105.70408829972223,
+        "date": "2025-02-07T17:20:07Z"
+      },
+      {
+        "latitude": 32.93121519972222,
+        "longitude": -105.76163219972223,
+        "date": "2025-02-08T13:06:02Z"
+      },
+      {
+        "latitude": 32.875145799722226,
+        "longitude": -105.79391169972222,
+        "date": "2025-02-08T16:05:00Z"
+      },
+      {
+        "latitude": 32.87280259972222,
+        "longitude": -105.81006259972222,
+        "date": "2025-02-08T19:25:23Z"
+      },
+      {
+        "latitude": 32.8751648,
+        "longitude": -105.7897664,
+        "date": "2025-02-09T11:45:03Z"
+      },
+      {
+        "latitude": 32.94854409972222,
+        "longitude": -105.87578289999999,
+        "date": "2025-02-11T11:56:01Z"
+      },
+      {
+        "latitude": 32.95962529972223,
+        "longitude": -105.8902003,
+        "date": "2025-02-11T12:16:07Z"
+      },
+      {
+        "latitude": 32.94747679972222,
+        "longitude": -105.87550999999999,
+        "date": "2025-02-11T13:04:41Z"
+      },
+      {
+        "latitude": 32.9524248,
+        "longitude": -105.88238579972221,
+        "date": "2025-02-11T15:18:16Z"
+      },
+      {
+        "latitude": 32.947604399999996,
+        "longitude": -105.87544699972221,
+        "date": "2025-02-11T19:10:15Z"
+      },
+      {
+        "latitude": 33.02928599972222,
+        "longitude": -105.9643274,
+        "date": "2025-02-12T10:29:52Z"
+      },
+      {
+        "latitude": 32.8704813,
+        "longitude": -105.97914169972222,
+        "date": "2025-02-13T10:17:16Z"
+      },
+      {
+        "latitude": 32.919848099999996,
+        "longitude": -105.96078049972222,
+        "date": "2025-02-13T12:55:15Z"
+      },
+      {
+        "latitude": 32.8192874,
+        "longitude": -106.27243479972222,
+        "date": "2025-02-14T11:06:47Z"
+      },
+      {
+        "latitude": 32.8215726,
+        "longitude": -106.28140089972221,
+        "date": "2025-02-14T11:26:12Z"
+      },
+      {
+        "latitude": 32.819992499722225,
+        "longitude": -106.2718325,
+        "date": "2025-02-14T12:25:39Z"
+      },
+      {
+        "latitude": 32.4200133,
+        "longitude": -106.77220679999999,
+        "date": "2025-02-15T10:42:04Z"
+      },
+      {
+        "latitude": 32.437281199999994,
+        "longitude": -106.7752784,
+        "date": "2025-02-15T11:04:19Z"
+      },
+      {
+        "latitude": 32.44387909972222,
+        "longitude": -106.77585089972222,
+        "date": "2025-02-15T11:13:38Z"
+      },
+      {
+        "latitude": 32.4505344,
+        "longitude": -106.77875489972222,
+        "date": "2025-02-15T11:29:36Z"
+      },
+      {
+        "latitude": 32.4268304,
+        "longitude": -106.7732335,
+        "date": "2025-02-15T12:29:45Z"
+      },
+      {
+        "latitude": 32.40940719972222,
+        "longitude": -106.7713303,
+        "date": "2025-02-15T14:22:16Z"
+      },
+      {
+        "latitude": 32.287512899999996,
+        "longitude": -106.6919285,
+        "date": "2025-02-16T10:13:40Z"
+      },
+      {
+        "latitude": 32.2897253,
+        "longitude": -106.6973567,
+        "date": "2025-02-16T10:52:01Z"
+      },
+      {
+        "latitude": 32.330867499722224,
+        "longitude": -106.62474059972222,
+        "date": "2025-02-16T20:15:47Z"
+      },
+      {
+        "latitude": 32.5380672,
+        "longitude": -108.01521069972222,
+        "date": "2025-02-18T19:52:46Z"
+      },
+      {
+        "latitude": 32.5748389,
+        "longitude": -107.9487321,
+        "date": "2025-02-18T20:14:34Z"
+      },
+      {
+        "latitude": 32.5754424,
+        "longitude": -107.95539039972222,
+        "date": "2025-02-19T18:30:28Z"
+      },
+      {
+        "latitude": 32.5750107,
+        "longitude": -107.9491373,
+        "date": "2025-02-21T11:01:34Z"
+      },
+      {
+        "latitude": 32.9284587,
+        "longitude": -108.1878587,
+        "date": "2025-02-22T15:53:35Z"
+      },
+      {
+        "latitude": 32.945608899999996,
+        "longitude": -108.2081857,
+        "date": "2025-02-23T15:30:51Z"
+      },
+      {
+        "latitude": 32.947946699999996,
+        "longitude": -108.2200445,
+        "date": "2025-02-23T15:54:17Z"
+      },
+      {
+        "latitude": 32.94105369972222,
+        "longitude": -108.1939392,
+        "date": "2025-02-24T11:14:10Z"
+      },
+      {
+        "latitude": 32.93755459972222,
+        "longitude": -108.17709609972222,
+        "date": "2025-02-24T15:49:21Z"
+      },
+      {
+        "latitude": 32.94486249972222,
+        "longitude": -108.1907515,
+        "date": "2025-02-24T19:33:40Z"
+      },
+      {
+        "latitude": 33.00812439972222,
+        "longitude": -108.2230308,
+        "date": "2025-02-26T16:36:23Z"
+      },
+      {
+        "latitude": 33.1192794,
+        "longitude": -108.19667359972223,
+        "date": "2025-02-26T17:05:44Z"
+      },
+      {
+        "latitude": 33.179431699999995,
+        "longitude": -108.2075844,
+        "date": "2025-02-26T17:52:40Z"
+      },
+      {
+        "latitude": 33.21900109972223,
+        "longitude": -108.2454982,
+        "date": "2025-02-26T18:49:39Z"
+      },
+      {
+        "latitude": 33.26883769972222,
+        "longitude": -108.25942179972222,
+        "date": "2025-02-28T13:04:32Z"
+      },
+      {
+        "latitude": 33.28610079972222,
+        "longitude": -108.26795319972221,
+        "date": "2025-02-28T14:08:29Z"
+      },
+      {
+        "latitude": 33.291676599999995,
+        "longitude": -108.26910529999999,
+        "date": "2025-02-28T14:25:44Z"
+      },
+      {
+        "latitude": 33.28734519972222,
+        "longitude": -108.26995469972222,
+        "date": "2025-02-28T14:59:18Z"
+      },
+      {
+        "latitude": 33.276018,
+        "longitude": -108.2636746,
+        "date": "2025-02-28T15:42:32Z"
+      },
+      {
+        "latitude": 33.27181339972222,
+        "longitude": -108.2595886,
+        "date": "2025-02-28T16:01:49Z"
+      },
+      {
+        "latitude": 33.2447883,
+        "longitude": -108.2522756,
+        "date": "2025-02-28T17:06:23Z"
+      },
+      {
+        "latitude": 33.2263316,
+        "longitude": -108.26929629972223,
+        "date": "2025-03-01T14:00:22Z"
+      },
+      {
+        "latitude": 33.18352509972222,
+        "longitude": -108.82984759972221,
+        "date": "2025-03-01T19:29:40Z"
+      },
+      {
+        "latitude": 34.8725236,
+        "longitude": -107.89035409972223,
+        "date": "2025-03-04T16:19:15Z"
+      },
+      {
+        "latitude": 34.7383852,
+        "longitude": -107.92896469972223,
+        "date": "2025-03-05T12:17:33Z"
+      },
+      {
+        "latitude": 35.18116669972222,
+        "longitude": -106.7097564,
+        "date": "2025-03-08T13:15:51Z"
+      },
+      {
+        "latitude": 35.17818669972222,
+        "longitude": -106.70380179972223,
+        "date": "2025-03-09T12:35:31Z"
+      },
+      {
+        "latitude": 35.3436603,
+        "longitude": -106.4529301,
+        "date": "2025-03-11T11:44:31Z"
+      },
+      {
+        "latitude": 35.503939099722224,
+        "longitude": -106.85151799972222,
+        "date": "2025-03-12T17:21:41Z"
+      },
+      {
+        "latitude": 35.55502979972222,
+        "longitude": -106.80787689972222,
+        "date": "2025-03-13T19:19:47Z"
+      },
+      {
+        "latitude": 35.5100362,
+        "longitude": -106.8003554,
+        "date": "2025-03-15T13:05:17Z"
+      },
+      {
+        "latitude": 35.087651299722225,
+        "longitude": -106.661674,
+        "date": "2025-03-15T16:07:06Z"
+      },
+      {
+        "latitude": 35.91211599972222,
+        "longitude": -106.28232739972222,
+        "date": "2025-03-17T17:50:42Z"
+      },
+      {
+        "latitude": 35.605817799722224,
+        "longitude": -106.1375627,
+        "date": "2025-03-19T11:57:47Z"
+      },
+      {
+        "latitude": 36.333114,
+        "longitude": -106.521477,
+        "date": "2025-03-21T11:12:34Z"
+      },
+      {
+        "latitude": 36.3358074,
+        "longitude": -106.52830389972222,
+        "date": "2025-03-21T15:32:06Z"
+      },
+      {
+        "latitude": 36.330979399722224,
+        "longitude": -106.51582849972222,
+        "date": "2025-03-21T21:24:58Z"
+      },
+      {
+        "latitude": 36.333103999722226,
+        "longitude": -106.5220491,
+        "date": "2025-03-22T11:17:13Z"
+      }
+    ]
+  },
+  "startDate": "2025-02-07T11:10:00Z",
+  "endDate": "2025-03-22T11:17:53Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20250207_111000.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250207_111000",
+          "position": {
+            "latitude": 32.8897525,
+            "longitude": -105.703079
+          },
+          "date": "2025-02-07T11:10:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289677/usa2025/new_mexico/usa2025/new_mexico/20250207_111000.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289677/usa2025/new_mexico/usa2025/new_mexico/20250207_111000.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289677/usa2025/new_mexico/usa2025/new_mexico/20250207_111000.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250207_111000"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.8897525,
+        "longitude": -105.703079
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20250207_161321.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250207_161321",
+          "position": {
+            "latitude": 32.878415099722226,
+            "longitude": -105.70911069972223
+          },
+          "date": "2025-02-07T16:13:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289706/usa2025/new_mexico/usa2025/new_mexico/20250207_161321.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289706/usa2025/new_mexico/usa2025/new_mexico/20250207_161321.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289706/usa2025/new_mexico/usa2025/new_mexico/20250207_161321.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250207_161321"
+          }
+        },
+        {
+          "id": "20250207_162150.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250207_162150",
+          "position": {
+            "latitude": 32.874698,
+            "longitude": -105.71233639972222
+          },
+          "date": "2025-02-07T16:21:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289720/usa2025/new_mexico/usa2025/new_mexico/20250207_162150.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289720/usa2025/new_mexico/usa2025/new_mexico/20250207_162150.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289720/usa2025/new_mexico/usa2025/new_mexico/20250207_162150.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250207_162150"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.876556549861114,
+        "longitude": -105.71072354972222
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20250207_172007.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250207_172007",
+          "position": {
+            "latitude": 32.88933409972222,
+            "longitude": -105.70408829972223
+          },
+          "date": "2025-02-07T17:20:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289726/usa2025/new_mexico/usa2025/new_mexico/20250207_172007.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289726/usa2025/new_mexico/usa2025/new_mexico/20250207_172007.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289726/usa2025/new_mexico/usa2025/new_mexico/20250207_172007.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250207_172007"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.88933409972222,
+        "longitude": -105.70408829972223
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20250208_130601.jpg",
+          "url": "data/usa_2025/new_mexico/20250208_130601.jpg",
+          "position": {
+            "latitude": 32.93121519972222,
+            "longitude": -105.76163219972223
+          },
+          "date": "2025-02-08T13:06:02Z",
+          "description": ""
+        },
+        {
+          "id": "20250208_130605.jpg",
+          "url": "data/usa_2025/new_mexico/20250208_130605.jpg",
+          "position": {
+            "latitude": 32.931215599999994,
+            "longitude": -105.7616356
+          },
+          "date": "2025-02-08T13:06:05Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 32.9312153998611,
+        "longitude": -105.76163389986112
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20250208_160500.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250208_160500",
+          "position": {
+            "latitude": 32.875145799722226,
+            "longitude": -105.79391169972222
+          },
+          "date": "2025-02-08T16:05:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289827/usa2025/new_mexico/usa2025/new_mexico/20250208_160500.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289827/usa2025/new_mexico/usa2025/new_mexico/20250208_160500.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289827/usa2025/new_mexico/usa2025/new_mexico/20250208_160500.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250208_160500"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.875145799722226,
+        "longitude": -105.79391169972222
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20250208_192523.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250208_192523",
+          "position": {
+            "latitude": 32.87280259972222,
+            "longitude": -105.81006259972222
+          },
+          "date": "2025-02-08T19:25:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289832/usa2025/new_mexico/usa2025/new_mexico/20250208_192523.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289832/usa2025/new_mexico/usa2025/new_mexico/20250208_192523.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289832/usa2025/new_mexico/usa2025/new_mexico/20250208_192523.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250208_192523"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.87280259972222,
+        "longitude": -105.81006259972222
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20250209_114502.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250209_114502",
+          "position": {
+            "latitude": 32.8751648,
+            "longitude": -105.7897664
+          },
+          "date": "2025-02-09T11:45:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289838/usa2025/new_mexico/usa2025/new_mexico/20250209_114502.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289838/usa2025/new_mexico/usa2025/new_mexico/20250209_114502.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289838/usa2025/new_mexico/usa2025/new_mexico/20250209_114502.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250209_114502"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.8751648,
+        "longitude": -105.7897664
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20250211_115601.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250211_115601",
+          "position": {
+            "latitude": 32.94854409972222,
+            "longitude": -105.87578289999999
+          },
+          "date": "2025-02-11T11:56:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289848/usa2025/new_mexico/usa2025/new_mexico/20250211_115601.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289848/usa2025/new_mexico/usa2025/new_mexico/20250211_115601.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289848/usa2025/new_mexico/usa2025/new_mexico/20250211_115601.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250211_115601"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.94854409972222,
+        "longitude": -105.87578289999999
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20250211_121606.jpg",
+          "url": "data/usa_2025/new_mexico/20250211_121606.jpg",
+          "position": {
+            "latitude": 32.95962529972223,
+            "longitude": -105.8902003
+          },
+          "date": "2025-02-11T12:16:07Z",
+          "description": ""
+        },
+        {
+          "id": "20250211_121610.jpg",
+          "url": "data/usa_2025/new_mexico/20250211_121610.jpg",
+          "position": {
+            "latitude": 32.95962529972223,
+            "longitude": -105.8902003
+          },
+          "date": "2025-02-11T12:16:11Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 32.95962529972223,
+        "longitude": -105.8902003
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20250211_130441.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250211_130441",
+          "position": {
+            "latitude": 32.94747679972222,
+            "longitude": -105.87550999999999
+          },
+          "date": "2025-02-11T13:04:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289950/usa2025/new_mexico/usa2025/new_mexico/20250211_130441.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289950/usa2025/new_mexico/usa2025/new_mexico/20250211_130441.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289950/usa2025/new_mexico/usa2025/new_mexico/20250211_130441.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250211_130441"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.94747679972222,
+        "longitude": -105.87550999999999
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20250211_151816.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250211_151816",
+          "position": {
+            "latitude": 32.9524248,
+            "longitude": -105.88238579972221
+          },
+          "date": "2025-02-11T15:18:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289960/usa2025/new_mexico/usa2025/new_mexico/20250211_151816.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289960/usa2025/new_mexico/usa2025/new_mexico/20250211_151816.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289960/usa2025/new_mexico/usa2025/new_mexico/20250211_151816.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250211_151816"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.9524248,
+        "longitude": -105.88238579972221
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20250211_191015.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250211_191015",
+          "position": {
+            "latitude": 32.947604399999996,
+            "longitude": -105.87544699972221
+          },
+          "date": "2025-02-11T19:10:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289970/usa2025/new_mexico/usa2025/new_mexico/20250211_191015.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289970/usa2025/new_mexico/usa2025/new_mexico/20250211_191015.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289970/usa2025/new_mexico/usa2025/new_mexico/20250211_191015.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250211_191015"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.947604399999996,
+        "longitude": -105.87544699972221
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20250212_102952.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250212_102952",
+          "position": {
+            "latitude": 33.02928599972222,
+            "longitude": -105.9643274
+          },
+          "date": "2025-02-12T10:29:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289984/usa2025/new_mexico/usa2025/new_mexico/20250212_102952.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289984/usa2025/new_mexico/usa2025/new_mexico/20250212_102952.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289984/usa2025/new_mexico/usa2025/new_mexico/20250212_102952.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250212_102952"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.02928599972222,
+        "longitude": -105.9643274
+      }
+    },
+    {
+      "id": "cluster-14",
+      "photos": [
+        {
+          "id": "20250213_101716.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250213_101716",
+          "position": {
+            "latitude": 32.8704813,
+            "longitude": -105.97914169972222
+          },
+          "date": "2025-02-13T10:17:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289996/usa2025/new_mexico/usa2025/new_mexico/20250213_101716.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289996/usa2025/new_mexico/usa2025/new_mexico/20250213_101716.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289996/usa2025/new_mexico/usa2025/new_mexico/20250213_101716.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250213_101716"
+          }
+        },
+        {
+          "id": "20250213_122512.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250213_122512",
+          "position": {
+            "latitude": 32.867992299722225,
+            "longitude": -105.9786224
+          },
+          "date": "2025-02-13T12:25:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290011/usa2025/new_mexico/usa2025/new_mexico/20250213_122512.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290011/usa2025/new_mexico/usa2025/new_mexico/20250213_122512.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290011/usa2025/new_mexico/usa2025/new_mexico/20250213_122512.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250213_122512"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.86923679986111,
+        "longitude": -105.97888204986111
+      }
+    },
+    {
+      "id": "cluster-15",
+      "photos": [
+        {
+          "id": "20250213_125515.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250213_125515",
+          "position": {
+            "latitude": 32.919848099999996,
+            "longitude": -105.96078049972222
+          },
+          "date": "2025-02-13T12:55:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290016/usa2025/new_mexico/usa2025/new_mexico/20250213_125515.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290016/usa2025/new_mexico/usa2025/new_mexico/20250213_125515.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290016/usa2025/new_mexico/usa2025/new_mexico/20250213_125515.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250213_125515"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.919848099999996,
+        "longitude": -105.96078049972222
+      }
+    },
+    {
+      "id": "cluster-16",
+      "photos": [
+        {
+          "id": "20250214_110647.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250214_110647",
+          "position": {
+            "latitude": 32.8192874,
+            "longitude": -106.27243479972222
+          },
+          "date": "2025-02-14T11:06:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290021/usa2025/new_mexico/usa2025/new_mexico/20250214_110647.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290021/usa2025/new_mexico/usa2025/new_mexico/20250214_110647.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290021/usa2025/new_mexico/usa2025/new_mexico/20250214_110647.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250214_110647"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.8192874,
+        "longitude": -106.27243479972222
+      }
+    },
+    {
+      "id": "cluster-17",
+      "photos": [
+        {
+          "id": "20250214_112613.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250214_112613",
+          "position": {
+            "latitude": 32.8215726,
+            "longitude": -106.28140089972221
+          },
+          "date": "2025-02-14T11:26:12Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290028/usa2025/new_mexico/usa2025/new_mexico/20250214_112613.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290028/usa2025/new_mexico/usa2025/new_mexico/20250214_112613.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290028/usa2025/new_mexico/usa2025/new_mexico/20250214_112613.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250214_112613"
+          }
+        },
+        {
+          "id": "20250214_115316.jpg",
+          "url": "data/usa_2025/new_mexico/20250214_115316.jpg",
+          "position": {
+            "latitude": 32.821397599722225,
+            "longitude": -106.28394969972221
+          },
+          "date": "2025-02-14T11:53:16Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 32.821485099861114,
+        "longitude": -106.28267529972221
+      }
+    },
+    {
+      "id": "cluster-18",
+      "photos": [
+        {
+          "id": "20250214_122538.jpg",
+          "url": "data/usa_2025/new_mexico/20250214_122538.jpg",
+          "position": {
+            "latitude": 32.819992499722225,
+            "longitude": -106.2718325
+          },
+          "date": "2025-02-14T12:25:39Z",
+          "description": ""
+        },
+        {
+          "id": "20250214_155604.jpg",
+          "url": "data/usa_2025/new_mexico/20250214_155604.jpg",
+          "position": {
+            "latitude": 32.8168184,
+            "longitude": -106.2737943
+          },
+          "date": "2025-02-14T15:56:05Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 32.81840544986112,
+        "longitude": -106.2728134
+      }
+    },
+    {
+      "id": "cluster-19",
+      "photos": [
+        {
+          "id": "20250215_104204.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_104204",
+          "position": {
+            "latitude": 32.4200133,
+            "longitude": -106.77220679999999
+          },
+          "date": "2025-02-15T10:42:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290144/usa2025/new_mexico/usa2025/new_mexico/20250215_104204.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290144/usa2025/new_mexico/usa2025/new_mexico/20250215_104204.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290144/usa2025/new_mexico/usa2025/new_mexico/20250215_104204.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_104204"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.4200133,
+        "longitude": -106.77220679999999
+      }
+    },
+    {
+      "id": "cluster-20",
+      "photos": [
+        {
+          "id": "20250215_110419.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_110419",
+          "position": {
+            "latitude": 32.437281199999994,
+            "longitude": -106.7752784
+          },
+          "date": "2025-02-15T11:04:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290149/usa2025/new_mexico/usa2025/new_mexico/20250215_110419.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290149/usa2025/new_mexico/usa2025/new_mexico/20250215_110419.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290149/usa2025/new_mexico/usa2025/new_mexico/20250215_110419.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_110419"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.437281199999994,
+        "longitude": -106.7752784
+      }
+    },
+    {
+      "id": "cluster-21",
+      "photos": [
+        {
+          "id": "20250215_111338.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_111338",
+          "position": {
+            "latitude": 32.44387909972222,
+            "longitude": -106.77585089972222
+          },
+          "date": "2025-02-15T11:13:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290155/usa2025/new_mexico/usa2025/new_mexico/20250215_111338.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290155/usa2025/new_mexico/usa2025/new_mexico/20250215_111338.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290155/usa2025/new_mexico/usa2025/new_mexico/20250215_111338.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_111338"
+          }
+        },
+        {
+          "id": "20250215_112056.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_112056",
+          "position": {
+            "latitude": 32.44816699972222,
+            "longitude": -106.77407259972222
+          },
+          "date": "2025-02-15T11:20:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290160/usa2025/new_mexico/usa2025/new_mexico/20250215_112056.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290160/usa2025/new_mexico/usa2025/new_mexico/20250215_112056.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290160/usa2025/new_mexico/usa2025/new_mexico/20250215_112056.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_112056"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.446023049722214,
+        "longitude": -106.77496174972222
+      }
+    },
+    {
+      "id": "cluster-22",
+      "photos": [
+        {
+          "id": "20250215_112936.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_112936",
+          "position": {
+            "latitude": 32.4505344,
+            "longitude": -106.77875489972222
+          },
+          "date": "2025-02-15T11:29:36Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290167/usa2025/new_mexico/usa2025/new_mexico/20250215_112936.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290167/usa2025/new_mexico/usa2025/new_mexico/20250215_112936.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290167/usa2025/new_mexico/usa2025/new_mexico/20250215_112936.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_112936"
+          }
+        },
+        {
+          "id": "20250215_113943.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_113943",
+          "position": {
+            "latitude": 32.4501598,
+            "longitude": -106.78033759972222
+          },
+          "date": "2025-02-15T11:39:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290172/usa2025/new_mexico/usa2025/new_mexico/20250215_113943.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290172/usa2025/new_mexico/usa2025/new_mexico/20250215_113943.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290172/usa2025/new_mexico/usa2025/new_mexico/20250215_113943.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_113943"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.4503471,
+        "longitude": -106.77954624972222
+      }
+    },
+    {
+      "id": "cluster-23",
+      "photos": [
+        {
+          "id": "20250215_122945.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_122945",
+          "position": {
+            "latitude": 32.4268304,
+            "longitude": -106.7732335
+          },
+          "date": "2025-02-15T12:29:45Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290178/usa2025/new_mexico/usa2025/new_mexico/20250215_122945.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290178/usa2025/new_mexico/usa2025/new_mexico/20250215_122945.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290178/usa2025/new_mexico/usa2025/new_mexico/20250215_122945.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_122945"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.4268304,
+        "longitude": -106.7732335
+      }
+    },
+    {
+      "id": "cluster-24",
+      "photos": [
+        {
+          "id": "20250215_142216.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250215_142216",
+          "position": {
+            "latitude": 32.40940719972222,
+            "longitude": -106.7713303
+          },
+          "date": "2025-02-15T14:22:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290184/usa2025/new_mexico/usa2025/new_mexico/20250215_142216.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290184/usa2025/new_mexico/usa2025/new_mexico/20250215_142216.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290184/usa2025/new_mexico/usa2025/new_mexico/20250215_142216.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250215_142216"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.40940719972222,
+        "longitude": -106.7713303
+      }
+    },
+    {
+      "id": "cluster-25",
+      "photos": [
+        {
+          "id": "20250216_101340.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250216_101340",
+          "position": {
+            "latitude": 32.287512899999996,
+            "longitude": -106.6919285
+          },
+          "date": "2025-02-16T10:13:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290190/usa2025/new_mexico/usa2025/new_mexico/20250216_101340.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290190/usa2025/new_mexico/usa2025/new_mexico/20250216_101340.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290190/usa2025/new_mexico/usa2025/new_mexico/20250216_101340.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250216_101340"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.287512899999996,
+        "longitude": -106.6919285
+      }
+    },
+    {
+      "id": "cluster-26",
+      "photos": [
+        {
+          "id": "20250216_105201.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250216_105201",
+          "position": {
+            "latitude": 32.2897253,
+            "longitude": -106.6973567
+          },
+          "date": "2025-02-16T10:52:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290197/usa2025/new_mexico/usa2025/new_mexico/20250216_105201.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290197/usa2025/new_mexico/usa2025/new_mexico/20250216_105201.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290197/usa2025/new_mexico/usa2025/new_mexico/20250216_105201.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250216_105201"
+          }
+        },
+        {
+          "id": "20250216_105259.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250216_105259",
+          "position": {
+            "latitude": 32.289722399999995,
+            "longitude": -106.69735459972223
+          },
+          "date": "2025-02-16T10:52:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290204/usa2025/new_mexico/usa2025/new_mexico/20250216_105259.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290204/usa2025/new_mexico/usa2025/new_mexico/20250216_105259.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290204/usa2025/new_mexico/usa2025/new_mexico/20250216_105259.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250216_105259"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.28972385,
+        "longitude": -106.69735564986112
+      }
+    },
+    {
+      "id": "cluster-27",
+      "photos": [
+        {
+          "id": "20250216_201547.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250216_201547",
+          "position": {
+            "latitude": 32.330867499722224,
+            "longitude": -106.62474059972222
+          },
+          "date": "2025-02-16T20:15:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290209/usa2025/new_mexico/usa2025/new_mexico/20250216_201547.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290209/usa2025/new_mexico/usa2025/new_mexico/20250216_201547.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290209/usa2025/new_mexico/usa2025/new_mexico/20250216_201547.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250216_201547"
+          }
+        },
+        {
+          "id": "20250216_201554.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250216_201554",
+          "position": {
+            "latitude": 32.330867499722224,
+            "longitude": -106.62474059972222
+          },
+          "date": "2025-02-16T20:15:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290215/usa2025/new_mexico/usa2025/new_mexico/20250216_201554.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290215/usa2025/new_mexico/usa2025/new_mexico/20250216_201554.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290215/usa2025/new_mexico/usa2025/new_mexico/20250216_201554.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250216_201554"
+          }
+        },
+        {
+          "id": "20250216_201746.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250216_201746",
+          "position": {
+            "latitude": 32.330597099722226,
+            "longitude": -106.62528499999999
+          },
+          "date": "2025-02-16T20:17:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290221/usa2025/new_mexico/usa2025/new_mexico/20250216_201746.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290221/usa2025/new_mexico/usa2025/new_mexico/20250216_201746.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290221/usa2025/new_mexico/usa2025/new_mexico/20250216_201746.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250216_201746"
+          }
+        },
+        {
+          "id": "20250217_103846.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250217_103846",
+          "position": {
+            "latitude": 32.330625099722226,
+            "longitude": -106.62508739972222
+          },
+          "date": "2025-02-17T10:38:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290229/usa2025/new_mexico/usa2025/new_mexico/20250217_103846.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290229/usa2025/new_mexico/usa2025/new_mexico/20250217_103846.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290229/usa2025/new_mexico/usa2025/new_mexico/20250217_103846.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250217_103846"
+          }
+        },
+        {
+          "id": "20250217_104759.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250217_104759",
+          "position": {
+            "latitude": 32.3306629,
+            "longitude": -106.62536069999999
+          },
+          "date": "2025-02-17T10:47:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290237/usa2025/new_mexico/usa2025/new_mexico/20250217_104759.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290237/usa2025/new_mexico/usa2025/new_mexico/20250217_104759.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290237/usa2025/new_mexico/usa2025/new_mexico/20250217_104759.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250217_104759"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.330724019777776,
+        "longitude": -106.62504285983331
+      }
+    },
+    {
+      "id": "cluster-28",
+      "photos": [
+        {
+          "id": "20250218_195246.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250218_195246",
+          "position": {
+            "latitude": 32.5380672,
+            "longitude": -108.01521069972222
+          },
+          "date": "2025-02-18T19:52:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290243/usa2025/new_mexico/usa2025/new_mexico/20250218_195246.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290243/usa2025/new_mexico/usa2025/new_mexico/20250218_195246.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290243/usa2025/new_mexico/usa2025/new_mexico/20250218_195246.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250218_195246"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.5380672,
+        "longitude": -108.01521069972222
+      }
+    },
+    {
+      "id": "cluster-29",
+      "photos": [
+        {
+          "id": "20250218_201434.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250218_201434",
+          "position": {
+            "latitude": 32.5748389,
+            "longitude": -107.9487321
+          },
+          "date": "2025-02-18T20:14:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290251/usa2025/new_mexico/usa2025/new_mexico/20250218_201434.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290251/usa2025/new_mexico/usa2025/new_mexico/20250218_201434.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290251/usa2025/new_mexico/usa2025/new_mexico/20250218_201434.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250218_201434"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.5748389,
+        "longitude": -107.9487321
+      }
+    },
+    {
+      "id": "cluster-30",
+      "photos": [
+        {
+          "id": "20250219_183028.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250219_183028",
+          "position": {
+            "latitude": 32.5754424,
+            "longitude": -107.95539039972222
+          },
+          "date": "2025-02-19T18:30:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290255/usa2025/new_mexico/usa2025/new_mexico/20250219_183028.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290255/usa2025/new_mexico/usa2025/new_mexico/20250219_183028.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290255/usa2025/new_mexico/usa2025/new_mexico/20250219_183028.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250219_183028"
+          }
+        },
+        {
+          "id": "20250219_183307.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250219_183307",
+          "position": {
+            "latitude": 32.576383399722225,
+            "longitude": -107.95650539972223
+          },
+          "date": "2025-02-19T18:33:08Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290260/usa2025/new_mexico/usa2025/new_mexico/20250219_183307.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290260/usa2025/new_mexico/usa2025/new_mexico/20250219_183307.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290260/usa2025/new_mexico/usa2025/new_mexico/20250219_183307.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250219_183307"
+          }
+        },
+        {
+          "id": "20250219_183334.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250219_183334",
+          "position": {
+            "latitude": 32.5763862,
+            "longitude": -107.95651379972223
+          },
+          "date": "2025-02-19T18:33:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290265/usa2025/new_mexico/usa2025/new_mexico/20250219_183334.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290265/usa2025/new_mexico/usa2025/new_mexico/20250219_183334.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290265/usa2025/new_mexico/usa2025/new_mexico/20250219_183334.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250219_183334"
+          }
+        },
+        {
+          "id": "20250219_183345.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250219_183345",
+          "position": {
+            "latitude": 32.5763905,
+            "longitude": -107.9565151
+          },
+          "date": "2025-02-19T18:33:45Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290271/usa2025/new_mexico/usa2025/new_mexico/20250219_183345.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290271/usa2025/new_mexico/usa2025/new_mexico/20250219_183345.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290271/usa2025/new_mexico/usa2025/new_mexico/20250219_183345.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250219_183345"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.576150624930555,
+        "longitude": -107.95623117479167
+      }
+    },
+    {
+      "id": "cluster-31",
+      "photos": [
+        {
+          "id": "20250221_110135.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250221_110135",
+          "position": {
+            "latitude": 32.5750107,
+            "longitude": -107.9491373
+          },
+          "date": "2025-02-21T11:01:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290279/usa2025/new_mexico/usa2025/new_mexico/20250221_110135.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290279/usa2025/new_mexico/usa2025/new_mexico/20250221_110135.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290279/usa2025/new_mexico/usa2025/new_mexico/20250221_110135.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250221_110135"
+          }
+        },
+        {
+          "id": "20250221_110142.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250221_110142",
+          "position": {
+            "latitude": 32.5750107,
+            "longitude": -107.9491373
+          },
+          "date": "2025-02-21T11:01:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290284/usa2025/new_mexico/usa2025/new_mexico/20250221_110142.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290284/usa2025/new_mexico/usa2025/new_mexico/20250221_110142.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290284/usa2025/new_mexico/usa2025/new_mexico/20250221_110142.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250221_110142"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.5750107,
+        "longitude": -107.9491373
+      }
+    },
+    {
+      "id": "cluster-32",
+      "photos": [
+        {
+          "id": "20250222_155335.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_155335",
+          "position": {
+            "latitude": 32.9284587,
+            "longitude": -108.1878587
+          },
+          "date": "2025-02-22T15:53:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290288/usa2025/new_mexico/usa2025/new_mexico/20250222_155335.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290288/usa2025/new_mexico/usa2025/new_mexico/20250222_155335.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290288/usa2025/new_mexico/usa2025/new_mexico/20250222_155335.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_155335"
+          }
+        },
+        {
+          "id": "20250222_155339.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_155339",
+          "position": {
+            "latitude": 32.9284587,
+            "longitude": -108.1878587
+          },
+          "date": "2025-02-22T15:53:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290296/usa2025/new_mexico/usa2025/new_mexico/20250222_155339.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290296/usa2025/new_mexico/usa2025/new_mexico/20250222_155339.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290296/usa2025/new_mexico/usa2025/new_mexico/20250222_155339.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_155339"
+          }
+        },
+        {
+          "id": "20250222_160121.jpg",
+          "url": "data/usa_2025/new_mexico/20250222_160121.jpg",
+          "position": {
+            "latitude": 32.92593819972222,
+            "longitude": -108.18549439972223
+          },
+          "date": "2025-02-22T16:01:21Z",
+          "description": ""
+        },
+        {
+          "id": "20250222_160129.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_160129",
+          "position": {
+            "latitude": 32.9259312,
+            "longitude": -108.18549489972223
+          },
+          "date": "2025-02-22T16:01:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290355/usa2025/new_mexico/usa2025/new_mexico/20250222_160129.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290355/usa2025/new_mexico/usa2025/new_mexico/20250222_160129.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290355/usa2025/new_mexico/usa2025/new_mexico/20250222_160129.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_160129"
+          }
+        },
+        {
+          "id": "20250222_160136.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_160136",
+          "position": {
+            "latitude": 32.9259312,
+            "longitude": -108.18549489972223
+          },
+          "date": "2025-02-22T16:01:36Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290364/usa2025/new_mexico/usa2025/new_mexico/20250222_160136.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290364/usa2025/new_mexico/usa2025/new_mexico/20250222_160136.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290364/usa2025/new_mexico/usa2025/new_mexico/20250222_160136.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_160136"
+          }
+        },
+        {
+          "id": "20250222_161639.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_161639",
+          "position": {
+            "latitude": 32.92534979972222,
+            "longitude": -108.18202519972223
+          },
+          "date": "2025-02-22T16:16:39Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290371/usa2025/new_mexico/usa2025/new_mexico/20250222_161639.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290371/usa2025/new_mexico/usa2025/new_mexico/20250222_161639.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290371/usa2025/new_mexico/usa2025/new_mexico/20250222_161639.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_161639"
+          }
+        },
+        {
+          "id": "20250222_162746.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_162746",
+          "position": {
+            "latitude": 32.9242622,
+            "longitude": -108.1796041
+          },
+          "date": "2025-02-22T16:27:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290382/usa2025/new_mexico/usa2025/new_mexico/20250222_162746.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290382/usa2025/new_mexico/usa2025/new_mexico/20250222_162746.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290382/usa2025/new_mexico/usa2025/new_mexico/20250222_162746.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_162746"
+          }
+        },
+        {
+          "id": "20250222_162827.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_162827",
+          "position": {
+            "latitude": 32.92429469972222,
+            "longitude": -108.17963319972223
+          },
+          "date": "2025-02-22T16:28:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290399/usa2025/new_mexico/usa2025/new_mexico/20250222_162827.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290399/usa2025/new_mexico/usa2025/new_mexico/20250222_162827.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290399/usa2025/new_mexico/usa2025/new_mexico/20250222_162827.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_162827"
+          }
+        },
+        {
+          "id": "20250222_163919.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250222_163919",
+          "position": {
+            "latitude": 32.92444609972222,
+            "longitude": -108.1798545
+          },
+          "date": "2025-02-22T16:39:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290405/usa2025/new_mexico/usa2025/new_mexico/20250222_163919.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290405/usa2025/new_mexico/usa2025/new_mexico/20250222_163919.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290405/usa2025/new_mexico/usa2025/new_mexico/20250222_163919.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250222_163919"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.9258967554321,
+        "longitude": -108.18370206651235
+      }
+    },
+    {
+      "id": "cluster-33",
+      "photos": [
+        {
+          "id": "20250223_153051.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_153051",
+          "position": {
+            "latitude": 32.945608899999996,
+            "longitude": -108.2081857
+          },
+          "date": "2025-02-23T15:30:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290411/usa2025/new_mexico/usa2025/new_mexico/20250223_153051.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290411/usa2025/new_mexico/usa2025/new_mexico/20250223_153051.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290411/usa2025/new_mexico/usa2025/new_mexico/20250223_153051.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_153051"
+          }
+        },
+        {
+          "id": "20250223_153416.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_153416",
+          "position": {
+            "latitude": 32.945307199999995,
+            "longitude": -108.2089457
+          },
+          "date": "2025-02-23T15:34:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290417/usa2025/new_mexico/usa2025/new_mexico/20250223_153416.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290417/usa2025/new_mexico/usa2025/new_mexico/20250223_153416.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290417/usa2025/new_mexico/usa2025/new_mexico/20250223_153416.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_153416"
+          }
+        },
+        {
+          "id": "20250223_153546.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_153546",
+          "position": {
+            "latitude": 32.94607309972222,
+            "longitude": -108.20947889972223
+          },
+          "date": "2025-02-23T15:35:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290425/usa2025/new_mexico/usa2025/new_mexico/20250223_153546.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290425/usa2025/new_mexico/usa2025/new_mexico/20250223_153546.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290425/usa2025/new_mexico/usa2025/new_mexico/20250223_153546.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_153546"
+          }
+        },
+        {
+          "id": "20250223_153935.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_153935",
+          "position": {
+            "latitude": 32.94636539972222,
+            "longitude": -108.2120163
+          },
+          "date": "2025-02-23T15:39:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290431/usa2025/new_mexico/usa2025/new_mexico/20250223_153935.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290431/usa2025/new_mexico/usa2025/new_mexico/20250223_153935.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290431/usa2025/new_mexico/usa2025/new_mexico/20250223_153935.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_153935"
+          }
+        },
+        {
+          "id": "20250223_154054.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_154054",
+          "position": {
+            "latitude": 32.94609979972222,
+            "longitude": -108.2130638
+          },
+          "date": "2025-02-23T15:40:54Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290437/usa2025/new_mexico/usa2025/new_mexico/20250223_154054.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290437/usa2025/new_mexico/usa2025/new_mexico/20250223_154054.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290437/usa2025/new_mexico/usa2025/new_mexico/20250223_154054.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_154054"
+          }
+        },
+        {
+          "id": "20250223_154222.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_154222",
+          "position": {
+            "latitude": 32.94603299972222,
+            "longitude": -108.21332359972223
+          },
+          "date": "2025-02-23T15:42:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290447/usa2025/new_mexico/usa2025/new_mexico/20250223_154222.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290447/usa2025/new_mexico/usa2025/new_mexico/20250223_154222.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290447/usa2025/new_mexico/usa2025/new_mexico/20250223_154222.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_154222"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.945914566481484,
+        "longitude": -108.21083566657408
+      }
+    },
+    {
+      "id": "cluster-34",
+      "photos": [
+        {
+          "id": "20250223_155417.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250223_155417",
+          "position": {
+            "latitude": 32.947946699999996,
+            "longitude": -108.2200445
+          },
+          "date": "2025-02-23T15:54:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290458/usa2025/new_mexico/usa2025/new_mexico/20250223_155417.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290458/usa2025/new_mexico/usa2025/new_mexico/20250223_155417.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290458/usa2025/new_mexico/usa2025/new_mexico/20250223_155417.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250223_155417"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.947946699999996,
+        "longitude": -108.2200445
+      }
+    },
+    {
+      "id": "cluster-35",
+      "photos": [
+        {
+          "id": "20250224_111410.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250224_111410",
+          "position": {
+            "latitude": 32.94105369972222,
+            "longitude": -108.1939392
+          },
+          "date": "2025-02-24T11:14:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290466/usa2025/new_mexico/usa2025/new_mexico/20250224_111410.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290466/usa2025/new_mexico/usa2025/new_mexico/20250224_111410.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290466/usa2025/new_mexico/usa2025/new_mexico/20250224_111410.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250224_111410"
+          }
+        },
+        {
+          "id": "20250224_154917.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250224_154917",
+          "position": {
+            "latitude": 32.941015,
+            "longitude": -108.1938782
+          },
+          "date": "2025-02-24T15:49:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290476/usa2025/new_mexico/usa2025/new_mexico/20250224_154917.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290476/usa2025/new_mexico/usa2025/new_mexico/20250224_154917.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290476/usa2025/new_mexico/usa2025/new_mexico/20250224_154917.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250224_154917"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.94103434986111,
+        "longitude": -108.19390870000001
+      }
+    },
+    {
+      "id": "cluster-36",
+      "photos": [
+        {
+          "id": "20250224_154921.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250224_154921",
+          "position": {
+            "latitude": 32.93755459972222,
+            "longitude": -108.17709609972222
+          },
+          "date": "2025-02-24T15:49:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290485/usa2025/new_mexico/usa2025/new_mexico/20250224_154921.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290485/usa2025/new_mexico/usa2025/new_mexico/20250224_154921.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290485/usa2025/new_mexico/usa2025/new_mexico/20250224_154921.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250224_154921"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.93755459972222,
+        "longitude": -108.17709609972222
+      }
+    },
+    {
+      "id": "cluster-37",
+      "photos": [
+        {
+          "id": "20250224_193341.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250224_193341",
+          "position": {
+            "latitude": 32.94486249972222,
+            "longitude": -108.1907515
+          },
+          "date": "2025-02-24T19:33:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290494/usa2025/new_mexico/usa2025/new_mexico/20250224_193341.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290494/usa2025/new_mexico/usa2025/new_mexico/20250224_193341.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290494/usa2025/new_mexico/usa2025/new_mexico/20250224_193341.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250224_193341"
+          }
+        },
+        {
+          "id": "20250225_161931.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250225_161931",
+          "position": {
+            "latitude": 32.947156799999995,
+            "longitude": -108.1903492
+          },
+          "date": "2025-02-25T16:19:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290504/usa2025/new_mexico/usa2025/new_mexico/20250225_161931.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290504/usa2025/new_mexico/usa2025/new_mexico/20250225_161931.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290504/usa2025/new_mexico/usa2025/new_mexico/20250225_161931.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250225_161931"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 32.94600964986111,
+        "longitude": -108.19055035
+      }
+    },
+    {
+      "id": "cluster-38",
+      "photos": [
+        {
+          "id": "20250226_163623.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250226_163623",
+          "position": {
+            "latitude": 33.00812439972222,
+            "longitude": -108.2230308
+          },
+          "date": "2025-02-26T16:36:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290510/usa2025/new_mexico/usa2025/new_mexico/20250226_163623.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290510/usa2025/new_mexico/usa2025/new_mexico/20250226_163623.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290510/usa2025/new_mexico/usa2025/new_mexico/20250226_163623.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250226_163623"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.00812439972222,
+        "longitude": -108.2230308
+      }
+    },
+    {
+      "id": "cluster-39",
+      "photos": [
+        {
+          "id": "20250226_170545.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250226_170545",
+          "position": {
+            "latitude": 33.1192794,
+            "longitude": -108.19667359972223
+          },
+          "date": "2025-02-26T17:05:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290518/usa2025/new_mexico/usa2025/new_mexico/20250226_170545.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290518/usa2025/new_mexico/usa2025/new_mexico/20250226_170545.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290518/usa2025/new_mexico/usa2025/new_mexico/20250226_170545.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250226_170545"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.1192794,
+        "longitude": -108.19667359972223
+      }
+    },
+    {
+      "id": "cluster-40",
+      "photos": [
+        {
+          "id": "20250226_175240.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250226_175240",
+          "position": {
+            "latitude": 33.179431699999995,
+            "longitude": -108.2075844
+          },
+          "date": "2025-02-26T17:52:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290526/usa2025/new_mexico/usa2025/new_mexico/20250226_175240.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290526/usa2025/new_mexico/usa2025/new_mexico/20250226_175240.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290526/usa2025/new_mexico/usa2025/new_mexico/20250226_175240.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250226_175240"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.179431699999995,
+        "longitude": -108.2075844
+      }
+    },
+    {
+      "id": "cluster-41",
+      "photos": [
+        {
+          "id": "20250226_184938.jpg",
+          "url": "data/usa_2025/new_mexico/20250226_184938.jpg",
+          "position": {
+            "latitude": 33.21900109972223,
+            "longitude": -108.2454982
+          },
+          "date": "2025-02-26T18:49:39Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 33.21900109972223,
+        "longitude": -108.2454982
+      }
+    },
+    {
+      "id": "cluster-42",
+      "photos": [
+        {
+          "id": "20250228_130432.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_130432",
+          "position": {
+            "latitude": 33.26883769972222,
+            "longitude": -108.25942179972222
+          },
+          "date": "2025-02-28T13:04:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290566/usa2025/new_mexico/usa2025/new_mexico/20250228_130432.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290566/usa2025/new_mexico/usa2025/new_mexico/20250228_130432.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290566/usa2025/new_mexico/usa2025/new_mexico/20250228_130432.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_130432"
+          }
+        },
+        {
+          "id": "20250228_131747.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_131747",
+          "position": {
+            "latitude": 33.27181279972222,
+            "longitude": -108.2596558
+          },
+          "date": "2025-02-28T13:17:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290574/usa2025/new_mexico/usa2025/new_mexico/20250228_131747.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290574/usa2025/new_mexico/usa2025/new_mexico/20250228_131747.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290574/usa2025/new_mexico/usa2025/new_mexico/20250228_131747.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_131747"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.27032524972222,
+        "longitude": -108.2595387998611
+      }
+    },
+    {
+      "id": "cluster-43",
+      "photos": [
+        {
+          "id": "20250228_140829.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_140829",
+          "position": {
+            "latitude": 33.28610079972222,
+            "longitude": -108.26795319972221
+          },
+          "date": "2025-02-28T14:08:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290599/usa2025/new_mexico/usa2025/new_mexico/20250228_140829.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290599/usa2025/new_mexico/usa2025/new_mexico/20250228_140829.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290599/usa2025/new_mexico/usa2025/new_mexico/20250228_140829.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_140829"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.28610079972222,
+        "longitude": -108.26795319972221
+      }
+    },
+    {
+      "id": "cluster-44",
+      "photos": [
+        {
+          "id": "20250228_142544.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_142544",
+          "position": {
+            "latitude": 33.291676599999995,
+            "longitude": -108.26910529999999
+          },
+          "date": "2025-02-28T14:25:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290605/usa2025/new_mexico/usa2025/new_mexico/20250228_142544.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290605/usa2025/new_mexico/usa2025/new_mexico/20250228_142544.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290605/usa2025/new_mexico/usa2025/new_mexico/20250228_142544.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_142544"
+          }
+        },
+        {
+          "id": "20250228_143916.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_143916",
+          "position": {
+            "latitude": 33.29285589972222,
+            "longitude": -108.27163159999999
+          },
+          "date": "2025-02-28T14:39:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290614/usa2025/new_mexico/usa2025/new_mexico/20250228_143916.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290614/usa2025/new_mexico/usa2025/new_mexico/20250228_143916.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290614/usa2025/new_mexico/usa2025/new_mexico/20250228_143916.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_143916"
+          }
+        },
+        {
+          "id": "20250228_144815.jpg",
+          "url": "data/usa_2025/new_mexico/20250228_144815.jpg",
+          "position": {
+            "latitude": 33.292563,
+            "longitude": -108.26931439972222
+          },
+          "date": "2025-02-28T14:48:15Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 33.29236516657407,
+        "longitude": -108.2700170999074
+      }
+    },
+    {
+      "id": "cluster-45",
+      "photos": [
+        {
+          "id": "20250228_145918.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_145918",
+          "position": {
+            "latitude": 33.28734519972222,
+            "longitude": -108.26995469972222
+          },
+          "date": "2025-02-28T14:59:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290684/usa2025/new_mexico/usa2025/new_mexico/20250228_145918.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290684/usa2025/new_mexico/usa2025/new_mexico/20250228_145918.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290684/usa2025/new_mexico/usa2025/new_mexico/20250228_145918.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_145918"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.28734519972222,
+        "longitude": -108.26995469972222
+      }
+    },
+    {
+      "id": "cluster-46",
+      "photos": [
+        {
+          "id": "20250228_154232.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_154232",
+          "position": {
+            "latitude": 33.276018,
+            "longitude": -108.2636746
+          },
+          "date": "2025-02-28T15:42:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290693/usa2025/new_mexico/usa2025/new_mexico/20250228_154232.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290693/usa2025/new_mexico/usa2025/new_mexico/20250228_154232.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290693/usa2025/new_mexico/usa2025/new_mexico/20250228_154232.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_154232"
+          }
+        },
+        {
+          "id": "20250228_154352.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_154352",
+          "position": {
+            "latitude": 33.275199199999996,
+            "longitude": -108.2635357
+          },
+          "date": "2025-02-28T15:43:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290700/usa2025/new_mexico/usa2025/new_mexico/20250228_154352.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290700/usa2025/new_mexico/usa2025/new_mexico/20250228_154352.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290700/usa2025/new_mexico/usa2025/new_mexico/20250228_154352.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_154352"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.2756086,
+        "longitude": -108.26360515
+      }
+    },
+    {
+      "id": "cluster-47",
+      "photos": [
+        {
+          "id": "20250228_160149.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_160149",
+          "position": {
+            "latitude": 33.27181339972222,
+            "longitude": -108.2595886
+          },
+          "date": "2025-02-28T16:01:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290716/usa2025/new_mexico/usa2025/new_mexico/20250228_160149.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290716/usa2025/new_mexico/usa2025/new_mexico/20250228_160149.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290716/usa2025/new_mexico/usa2025/new_mexico/20250228_160149.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_160149"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.27181339972222,
+        "longitude": -108.2595886
+      }
+    },
+    {
+      "id": "cluster-48",
+      "photos": [
+        {
+          "id": "20250228_170623.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250228_170623",
+          "position": {
+            "latitude": 33.2447883,
+            "longitude": -108.2522756
+          },
+          "date": "2025-02-28T17:06:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290722/usa2025/new_mexico/usa2025/new_mexico/20250228_170623.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290722/usa2025/new_mexico/usa2025/new_mexico/20250228_170623.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290722/usa2025/new_mexico/usa2025/new_mexico/20250228_170623.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250228_170623"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.2447883,
+        "longitude": -108.2522756
+      }
+    },
+    {
+      "id": "cluster-49",
+      "photos": [
+        {
+          "id": "20250301_140022.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140022",
+          "position": {
+            "latitude": 33.2263316,
+            "longitude": -108.26929629972223
+          },
+          "date": "2025-03-01T14:00:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290728/usa2025/new_mexico/usa2025/new_mexico/20250301_140022.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290728/usa2025/new_mexico/usa2025/new_mexico/20250301_140022.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290728/usa2025/new_mexico/usa2025/new_mexico/20250301_140022.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140022"
+          }
+        },
+        {
+          "id": "20250301_140133.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140133",
+          "position": {
+            "latitude": 33.227145999722225,
+            "longitude": -108.26893119972222
+          },
+          "date": "2025-03-01T14:01:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290734/usa2025/new_mexico/usa2025/new_mexico/20250301_140133.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290734/usa2025/new_mexico/usa2025/new_mexico/20250301_140133.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290734/usa2025/new_mexico/usa2025/new_mexico/20250301_140133.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140133"
+          }
+        },
+        {
+          "id": "20250301_140207.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140207",
+          "position": {
+            "latitude": 33.227260399722226,
+            "longitude": -108.26865429972221
+          },
+          "date": "2025-03-01T14:02:07Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290741/usa2025/new_mexico/usa2025/new_mexico/20250301_140207.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290741/usa2025/new_mexico/usa2025/new_mexico/20250301_140207.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290741/usa2025/new_mexico/usa2025/new_mexico/20250301_140207.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140207"
+          }
+        },
+        {
+          "id": "20250301_140323.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140323",
+          "position": {
+            "latitude": 33.22719049972223,
+            "longitude": -108.2684212
+          },
+          "date": "2025-03-01T14:03:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290748/usa2025/new_mexico/usa2025/new_mexico/20250301_140323.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290748/usa2025/new_mexico/usa2025/new_mexico/20250301_140323.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290748/usa2025/new_mexico/usa2025/new_mexico/20250301_140323.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140323"
+          }
+        },
+        {
+          "id": "20250301_140857.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140857",
+          "position": {
+            "latitude": 33.22719049972223,
+            "longitude": -108.2684212
+          },
+          "date": "2025-03-01T14:08:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290778/usa2025/new_mexico/usa2025/new_mexico/20250301_140857.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290778/usa2025/new_mexico/usa2025/new_mexico/20250301_140857.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290778/usa2025/new_mexico/usa2025/new_mexico/20250301_140857.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140857"
+          }
+        },
+        {
+          "id": "20250301_140934.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140934",
+          "position": {
+            "latitude": 33.22719049972223,
+            "longitude": -108.2684212
+          },
+          "date": "2025-03-01T14:09:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290785/usa2025/new_mexico/usa2025/new_mexico/20250301_140934.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290785/usa2025/new_mexico/usa2025/new_mexico/20250301_140934.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290785/usa2025/new_mexico/usa2025/new_mexico/20250301_140934.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140934"
+          }
+        },
+        {
+          "id": "20250301_140944.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_140944",
+          "position": {
+            "latitude": 33.22719049972223,
+            "longitude": -108.2684212
+          },
+          "date": "2025-03-01T14:09:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290791/usa2025/new_mexico/usa2025/new_mexico/20250301_140944.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290791/usa2025/new_mexico/usa2025/new_mexico/20250301_140944.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290791/usa2025/new_mexico/usa2025/new_mexico/20250301_140944.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_140944"
+          }
+        },
+        {
+          "id": "20250301_141011.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_141011",
+          "position": {
+            "latitude": 33.22705369972223,
+            "longitude": -108.267734
+          },
+          "date": "2025-03-01T14:10:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290799/usa2025/new_mexico/usa2025/new_mexico/20250301_141011.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290799/usa2025/new_mexico/usa2025/new_mexico/20250301_141011.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290799/usa2025/new_mexico/usa2025/new_mexico/20250301_141011.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_141011"
+          }
+        },
+        {
+          "id": "20250301_141253.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_141253",
+          "position": {
+            "latitude": 33.227195899722226,
+            "longitude": -108.26820779972222
+          },
+          "date": "2025-03-01T14:12:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290806/usa2025/new_mexico/usa2025/new_mexico/20250301_141253.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290806/usa2025/new_mexico/usa2025/new_mexico/20250301_141253.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290806/usa2025/new_mexico/usa2025/new_mexico/20250301_141253.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_141253"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.22708328864198,
+        "longitude": -108.26850093320988
+      }
+    },
+    {
+      "id": "cluster-50",
+      "photos": [
+        {
+          "id": "20250301_192940.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250301_192940",
+          "position": {
+            "latitude": 33.18352509972222,
+            "longitude": -108.82984759972221
+          },
+          "date": "2025-03-01T19:29:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290815/usa2025/new_mexico/usa2025/new_mexico/20250301_192940.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290815/usa2025/new_mexico/usa2025/new_mexico/20250301_192940.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290815/usa2025/new_mexico/usa2025/new_mexico/20250301_192940.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250301_192940"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 33.18352509972222,
+        "longitude": -108.82984759972221
+      }
+    },
+    {
+      "id": "cluster-51",
+      "photos": [
+        {
+          "id": "20250304_161915.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250304_161915",
+          "position": {
+            "latitude": 34.8725236,
+            "longitude": -107.89035409972223
+          },
+          "date": "2025-03-04T16:19:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290826/usa2025/new_mexico/usa2025/new_mexico/20250304_161915.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290826/usa2025/new_mexico/usa2025/new_mexico/20250304_161915.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290826/usa2025/new_mexico/usa2025/new_mexico/20250304_161915.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250304_161915"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.8725236,
+        "longitude": -107.89035409972223
+      }
+    },
+    {
+      "id": "cluster-52",
+      "photos": [
+        {
+          "id": "20250305_121733.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250305_121733",
+          "position": {
+            "latitude": 34.7383852,
+            "longitude": -107.92896469972223
+          },
+          "date": "2025-03-05T12:17:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290834/usa2025/new_mexico/usa2025/new_mexico/20250305_121733.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290834/usa2025/new_mexico/usa2025/new_mexico/20250305_121733.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290834/usa2025/new_mexico/usa2025/new_mexico/20250305_121733.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250305_121733"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 34.7383852,
+        "longitude": -107.92896469972223
+      }
+    },
+    {
+      "id": "cluster-53",
+      "photos": [
+        {
+          "id": "20250308_131551.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250308_131551",
+          "position": {
+            "latitude": 35.18116669972222,
+            "longitude": -106.7097564
+          },
+          "date": "2025-03-08T13:15:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290840/usa2025/new_mexico/usa2025/new_mexico/20250308_131551.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290840/usa2025/new_mexico/usa2025/new_mexico/20250308_131551.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290840/usa2025/new_mexico/usa2025/new_mexico/20250308_131551.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250308_131551"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.18116669972222,
+        "longitude": -106.7097564
+      }
+    },
+    {
+      "id": "cluster-54",
+      "photos": [
+        {
+          "id": "20250309_123532.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250309_123532",
+          "position": {
+            "latitude": 35.17818669972222,
+            "longitude": -106.70380179972223
+          },
+          "date": "2025-03-09T12:35:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290845/usa2025/new_mexico/usa2025/new_mexico/20250309_123532.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290845/usa2025/new_mexico/usa2025/new_mexico/20250309_123532.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290845/usa2025/new_mexico/usa2025/new_mexico/20250309_123532.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250309_123532"
+          }
+        },
+        {
+          "id": "20250310_102633.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250310_102633",
+          "position": {
+            "latitude": 35.178196199999995,
+            "longitude": -106.7051928
+          },
+          "date": "2025-03-10T10:26:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290849/usa2025/new_mexico/usa2025/new_mexico/20250310_102633.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290849/usa2025/new_mexico/usa2025/new_mexico/20250310_102633.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290849/usa2025/new_mexico/usa2025/new_mexico/20250310_102633.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250310_102633"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.1781914498611,
+        "longitude": -106.70449729986112
+      }
+    },
+    {
+      "id": "cluster-55",
+      "photos": [
+        {
+          "id": "20250311_114431.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250311_114431",
+          "position": {
+            "latitude": 35.3436603,
+            "longitude": -106.4529301
+          },
+          "date": "2025-03-11T11:44:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290853/usa2025/new_mexico/usa2025/new_mexico/20250311_114431.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290853/usa2025/new_mexico/usa2025/new_mexico/20250311_114431.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290853/usa2025/new_mexico/usa2025/new_mexico/20250311_114431.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250311_114431"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.3436603,
+        "longitude": -106.4529301
+      }
+    },
+    {
+      "id": "cluster-56",
+      "photos": [
+        {
+          "id": "20250312_172141.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250312_172141",
+          "position": {
+            "latitude": 35.503939099722224,
+            "longitude": -106.85151799972222
+          },
+          "date": "2025-03-12T17:21:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290859/usa2025/new_mexico/usa2025/new_mexico/20250312_172141.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290859/usa2025/new_mexico/usa2025/new_mexico/20250312_172141.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290859/usa2025/new_mexico/usa2025/new_mexico/20250312_172141.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250312_172141"
+          }
+        },
+        {
+          "id": "20250312_194350.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250312_194350",
+          "position": {
+            "latitude": 35.50217179972222,
+            "longitude": -106.85101509972222
+          },
+          "date": "2025-03-12T19:43:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290864/usa2025/new_mexico/usa2025/new_mexico/20250312_194350.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290864/usa2025/new_mexico/usa2025/new_mexico/20250312_194350.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290864/usa2025/new_mexico/usa2025/new_mexico/20250312_194350.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250312_194350"
+          }
+        },
+        {
+          "id": "20250312_200425.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250312_200425",
+          "position": {
+            "latitude": 35.50582289972222,
+            "longitude": -106.84974779999999
+          },
+          "date": "2025-03-12T20:04:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290872/usa2025/new_mexico/usa2025/new_mexico/20250312_200425.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290872/usa2025/new_mexico/usa2025/new_mexico/20250312_200425.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290872/usa2025/new_mexico/usa2025/new_mexico/20250312_200425.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250312_200425"
+          }
+        },
+        {
+          "id": "20250312_200548.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250312_200548",
+          "position": {
+            "latitude": 35.5057623,
+            "longitude": -106.84994429999999
+          },
+          "date": "2025-03-12T20:05:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290880/usa2025/new_mexico/usa2025/new_mexico/20250312_200548.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290880/usa2025/new_mexico/usa2025/new_mexico/20250312_200548.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290880/usa2025/new_mexico/usa2025/new_mexico/20250312_200548.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250312_200548"
+          }
+        },
+        {
+          "id": "20250312_203037.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250312_203037",
+          "position": {
+            "latitude": 35.5021343,
+            "longitude": -106.85097449999999
+          },
+          "date": "2025-03-12T20:30:37Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290884/usa2025/new_mexico/usa2025/new_mexico/20250312_203037.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290884/usa2025/new_mexico/usa2025/new_mexico/20250312_203037.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290884/usa2025/new_mexico/usa2025/new_mexico/20250312_203037.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250312_203037"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.50396607983333,
+        "longitude": -106.85063993988888
+      }
+    },
+    {
+      "id": "cluster-57",
+      "photos": [
+        {
+          "id": "20250313_191947.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250313_191947",
+          "position": {
+            "latitude": 35.55502979972222,
+            "longitude": -106.80787689972222
+          },
+          "date": "2025-03-13T19:19:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290889/usa2025/new_mexico/usa2025/new_mexico/20250313_191947.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290889/usa2025/new_mexico/usa2025/new_mexico/20250313_191947.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290889/usa2025/new_mexico/usa2025/new_mexico/20250313_191947.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250313_191947"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.55502979972222,
+        "longitude": -106.80787689972222
+      }
+    },
+    {
+      "id": "cluster-58",
+      "photos": [
+        {
+          "id": "20250315_130517.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250315_130517",
+          "position": {
+            "latitude": 35.5100362,
+            "longitude": -106.8003554
+          },
+          "date": "2025-03-15T13:05:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290895/usa2025/new_mexico/usa2025/new_mexico/20250315_130517.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290895/usa2025/new_mexico/usa2025/new_mexico/20250315_130517.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290895/usa2025/new_mexico/usa2025/new_mexico/20250315_130517.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250315_130517"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.5100362,
+        "longitude": -106.8003554
+      }
+    },
+    {
+      "id": "cluster-59",
+      "photos": [
+        {
+          "id": "20250315_160706.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250315_160706",
+          "position": {
+            "latitude": 35.087651299722225,
+            "longitude": -106.661674
+          },
+          "date": "2025-03-15T16:07:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290900/usa2025/new_mexico/usa2025/new_mexico/20250315_160706.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290900/usa2025/new_mexico/usa2025/new_mexico/20250315_160706.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290900/usa2025/new_mexico/usa2025/new_mexico/20250315_160706.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250315_160706"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.087651299722225,
+        "longitude": -106.661674
+      }
+    },
+    {
+      "id": "cluster-60",
+      "photos": [
+        {
+          "id": "20250317_175042.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250317_175042",
+          "position": {
+            "latitude": 35.91211599972222,
+            "longitude": -106.28232739972222
+          },
+          "date": "2025-03-17T17:50:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290907/usa2025/new_mexico/usa2025/new_mexico/20250317_175042.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290907/usa2025/new_mexico/usa2025/new_mexico/20250317_175042.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290907/usa2025/new_mexico/usa2025/new_mexico/20250317_175042.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250317_175042"
+          }
+        },
+        {
+          "id": "20250317_175154.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250317_175154",
+          "position": {
+            "latitude": 35.912207699999996,
+            "longitude": -106.28289099999999
+          },
+          "date": "2025-03-17T17:51:54Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290912/usa2025/new_mexico/usa2025/new_mexico/20250317_175154.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290912/usa2025/new_mexico/usa2025/new_mexico/20250317_175154.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290912/usa2025/new_mexico/usa2025/new_mexico/20250317_175154.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250317_175154"
+          }
+        },
+        {
+          "id": "20250317_175402.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250317_175402",
+          "position": {
+            "latitude": 35.9135573,
+            "longitude": -106.2831776
+          },
+          "date": "2025-03-17T17:54:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290919/usa2025/new_mexico/usa2025/new_mexico/20250317_175402.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290919/usa2025/new_mexico/usa2025/new_mexico/20250317_175402.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290919/usa2025/new_mexico/usa2025/new_mexico/20250317_175402.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250317_175402"
+          }
+        },
+        {
+          "id": "20250317_175626.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250317_175626",
+          "position": {
+            "latitude": 35.91455739972222,
+            "longitude": -106.2832822
+          },
+          "date": "2025-03-17T17:56:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290925/usa2025/new_mexico/usa2025/new_mexico/20250317_175626.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290925/usa2025/new_mexico/usa2025/new_mexico/20250317_175626.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290925/usa2025/new_mexico/usa2025/new_mexico/20250317_175626.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250317_175626"
+          }
+        },
+        {
+          "id": "20250317_180729.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250317_180729",
+          "position": {
+            "latitude": 35.91212219972222,
+            "longitude": -106.28222239972222
+          },
+          "date": "2025-03-17T18:07:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290931/usa2025/new_mexico/usa2025/new_mexico/20250317_180729.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290931/usa2025/new_mexico/usa2025/new_mexico/20250317_180729.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290931/usa2025/new_mexico/usa2025/new_mexico/20250317_180729.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250317_180729"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.91291211983334,
+        "longitude": -106.28278011988887
+      }
+    },
+    {
+      "id": "cluster-61",
+      "photos": [
+        {
+          "id": "20250319_115747.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250319_115747",
+          "position": {
+            "latitude": 35.605817799722224,
+            "longitude": -106.1375627
+          },
+          "date": "2025-03-19T11:57:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290936/usa2025/new_mexico/usa2025/new_mexico/20250319_115747.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290936/usa2025/new_mexico/usa2025/new_mexico/20250319_115747.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290936/usa2025/new_mexico/usa2025/new_mexico/20250319_115747.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250319_115747"
+          }
+        },
+        {
+          "id": "20250319_141705.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250319_141705",
+          "position": {
+            "latitude": 35.6061801,
+            "longitude": -106.1370349
+          },
+          "date": "2025-03-19T14:17:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290940/usa2025/new_mexico/usa2025/new_mexico/20250319_141705.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290940/usa2025/new_mexico/usa2025/new_mexico/20250319_141705.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290940/usa2025/new_mexico/usa2025/new_mexico/20250319_141705.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250319_141705"
+          }
+        },
+        {
+          "id": "20250319_174638.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250319_174638",
+          "position": {
+            "latitude": 35.606104,
+            "longitude": -106.13702569972223
+          },
+          "date": "2025-03-19T17:46:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290944/usa2025/new_mexico/usa2025/new_mexico/20250319_174638.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290944/usa2025/new_mexico/usa2025/new_mexico/20250319_174638.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290944/usa2025/new_mexico/usa2025/new_mexico/20250319_174638.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250319_174638"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 35.60603396657408,
+        "longitude": -106.13720776657408
+      }
+    },
+    {
+      "id": "cluster-62",
+      "photos": [
+        {
+          "id": "20250321_111234.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250321_111234",
+          "position": {
+            "latitude": 36.333114,
+            "longitude": -106.521477
+          },
+          "date": "2025-03-21T11:12:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290949/usa2025/new_mexico/usa2025/new_mexico/20250321_111234.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290949/usa2025/new_mexico/usa2025/new_mexico/20250321_111234.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290949/usa2025/new_mexico/usa2025/new_mexico/20250321_111234.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250321_111234"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.333114,
+        "longitude": -106.521477
+      }
+    },
+    {
+      "id": "cluster-63",
+      "photos": [
+        {
+          "id": "20250321_153206.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250321_153206",
+          "position": {
+            "latitude": 36.3358074,
+            "longitude": -106.52830389972222
+          },
+          "date": "2025-03-21T15:32:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290953/usa2025/new_mexico/usa2025/new_mexico/20250321_153206.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290953/usa2025/new_mexico/usa2025/new_mexico/20250321_153206.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290953/usa2025/new_mexico/usa2025/new_mexico/20250321_153206.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250321_153206"
+          }
+        },
+        {
+          "id": "20250321_153855.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250321_153855",
+          "position": {
+            "latitude": 36.33695159972223,
+            "longitude": -106.5318852
+          },
+          "date": "2025-03-21T15:38:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290960/usa2025/new_mexico/usa2025/new_mexico/20250321_153855.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290960/usa2025/new_mexico/usa2025/new_mexico/20250321_153855.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290960/usa2025/new_mexico/usa2025/new_mexico/20250321_153855.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250321_153855"
+          }
+        },
+        {
+          "id": "20250321_154252.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250321_154252",
+          "position": {
+            "latitude": 36.3372624,
+            "longitude": -106.53395799972222
+          },
+          "date": "2025-03-21T15:42:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290964/usa2025/new_mexico/usa2025/new_mexico/20250321_154252.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290964/usa2025/new_mexico/usa2025/new_mexico/20250321_154252.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290964/usa2025/new_mexico/usa2025/new_mexico/20250321_154252.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250321_154252"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.33667379990741,
+        "longitude": -106.53138236648147
+      }
+    },
+    {
+      "id": "cluster-64",
+      "photos": [
+        {
+          "id": "20250321_212458.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250321_212458",
+          "position": {
+            "latitude": 36.330979399722224,
+            "longitude": -106.51582849972222
+          },
+          "date": "2025-03-21T21:24:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290968/usa2025/new_mexico/usa2025/new_mexico/20250321_212458.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290968/usa2025/new_mexico/usa2025/new_mexico/20250321_212458.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290968/usa2025/new_mexico/usa2025/new_mexico/20250321_212458.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250321_212458"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.330979399722224,
+        "longitude": -106.51582849972222
+      }
+    },
+    {
+      "id": "cluster-65",
+      "photos": [
+        {
+          "id": "20250322_111713.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250322_111713",
+          "position": {
+            "latitude": 36.333103999722226,
+            "longitude": -106.5220491
+          },
+          "date": "2025-03-22T11:17:13Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290972/usa2025/new_mexico/usa2025/new_mexico/20250322_111713.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290972/usa2025/new_mexico/usa2025/new_mexico/20250322_111713.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290972/usa2025/new_mexico/usa2025/new_mexico/20250322_111713.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250322_111713"
+          }
+        },
+        {
+          "id": "20250322_111715.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250322_111715",
+          "position": {
+            "latitude": 36.33311559972223,
+            "longitude": -106.52204679972222
+          },
+          "date": "2025-03-22T11:17:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290978/usa2025/new_mexico/usa2025/new_mexico/20250322_111715.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290978/usa2025/new_mexico/usa2025/new_mexico/20250322_111715.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290978/usa2025/new_mexico/usa2025/new_mexico/20250322_111715.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250322_111715"
+          }
+        },
+        {
+          "id": "20250322_111753.jpg",
+          "url": "usa2025/new_mexico/usa2025/new_mexico/20250322_111753",
+          "position": {
+            "latitude": 36.3330775,
+            "longitude": -106.52192239972221
+          },
+          "date": "2025-03-22T11:17:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755290986/usa2025/new_mexico/usa2025/new_mexico/20250322_111753.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755290986/usa2025/new_mexico/usa2025/new_mexico/20250322_111753.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755290986/usa2025/new_mexico/usa2025/new_mexico/20250322_111753.jpg",
+            "public_id": "usa2025/new_mexico/usa2025/new_mexico/20250322_111753"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.33309903314815,
+        "longitude": -106.5220060998148
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": "Auto-generated itinerary for new_mexico"
+}

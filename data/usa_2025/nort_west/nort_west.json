@@ -1,0 +1,1252 @@
+{
+  "id": "nort_west",
+  "name": "Nort west",
+  "route": {
+    "start": {
+      "latitude": 39.5211071,
+      "longitude": -107.77222879972223
+    },
+    "end": {
+      "latitude": 48.805808799999994,
+      "longitude": -121.89735849972223
+    },
+    "path": [
+      {
+        "latitude": 39.5211071,
+        "longitude": -107.77222879972223,
+        "date": "2025-04-04T10:33:11Z"
+      },
+      {
+        "latitude": 39.181224,
+        "longitude": -108.273543,
+        "date": "2025-04-04T13:10:22Z"
+      },
+      {
+        "latitude": 39.6385919,
+        "longitude": -110.86876259972222,
+        "date": "2025-04-05T18:41:35Z"
+      },
+      {
+        "latitude": 39.6360535,
+        "longitude": -110.87334689999999,
+        "date": "2025-04-06T15:28:19Z"
+      },
+      {
+        "latitude": 38.957335399722226,
+        "longitude": -109.72370479972223,
+        "date": "2025-04-09T16:53:13Z"
+      },
+      {
+        "latitude": 39.93195589972222,
+        "longitude": -111.2016162,
+        "date": "2025-04-10T14:06:30Z"
+      },
+      {
+        "latitude": 40.434027199999996,
+        "longitude": -111.7516616,
+        "date": "2025-04-12T14:18:05Z"
+      },
+      {
+        "latitude": 40.770443,
+        "longitude": -111.88850519972223,
+        "date": "2025-04-13T12:40:51Z"
+      },
+      {
+        "latitude": 40.7798548,
+        "longitude": -111.887304,
+        "date": "2025-04-13T13:07:29Z"
+      },
+      {
+        "latitude": 41.4876421,
+        "longitude": -112.0550738,
+        "date": "2025-04-15T11:29:21Z"
+      },
+      {
+        "latitude": 42.568673699722225,
+        "longitude": -114.30037769972222,
+        "date": "2025-04-15T19:19:28Z"
+      },
+      {
+        "latitude": 44.372016299722226,
+        "longitude": -117.23520519972222,
+        "date": "2025-04-17T13:01:49Z"
+      },
+      {
+        "latitude": 45.3695828,
+        "longitude": -118.29913659972222,
+        "date": "2025-04-18T15:47:17Z"
+      },
+      {
+        "latitude": 45.772483,
+        "longitude": -119.25196839972222,
+        "date": "2025-04-19T11:57:50Z"
+      },
+      {
+        "latitude": 45.717378699722225,
+        "longitude": -120.23460339972222,
+        "date": "2025-04-19T13:32:46Z"
+      },
+      {
+        "latitude": 45.683623299999994,
+        "longitude": -121.3001778,
+        "date": "2025-04-20T10:38:00Z"
+      },
+      {
+        "latitude": 45.402026299999996,
+        "longitude": -121.58855739972222,
+        "date": "2025-04-23T19:54:25Z"
+      },
+      {
+        "latitude": 45.40428899972222,
+        "longitude": -121.5825035,
+        "date": "2025-04-23T20:14:30Z"
+      },
+      {
+        "latitude": 45.3372272,
+        "longitude": -121.56779589972221,
+        "date": "2025-04-24T17:01:43Z"
+      },
+      {
+        "latitude": 45.31032119972222,
+        "longitude": -121.6422996,
+        "date": "2025-04-24T22:06:16Z"
+      },
+      {
+        "latitude": 45.330654699722224,
+        "longitude": -121.7110897,
+        "date": "2025-04-26T13:41:31Z"
+      },
+      {
+        "latitude": 45.3582923,
+        "longitude": -121.705348,
+        "date": "2025-04-26T14:38:32Z"
+      },
+      {
+        "latitude": 45.3532748,
+        "longitude": -121.71732339972222,
+        "date": "2025-04-26T14:48:18Z"
+      },
+      {
+        "latitude": 45.357663,
+        "longitude": -121.7127495,
+        "date": "2025-04-26T16:15:38Z"
+      },
+      {
+        "latitude": 45.3526037,
+        "longitude": -121.7147106,
+        "date": "2025-04-26T16:19:16Z"
+      },
+      {
+        "latitude": 46.04349299972222,
+        "longitude": -122.3133332,
+        "date": "2025-04-28T17:18:02Z"
+      },
+      {
+        "latitude": 46.15761179972222,
+        "longitude": -122.28357379972222,
+        "date": "2025-04-30T20:06:30Z"
+      },
+      {
+        "latitude": 46.1043147,
+        "longitude": -123.12535579972221,
+        "date": "2025-05-01T16:13:33Z"
+      },
+      {
+        "latitude": 46.193517899999996,
+        "longitude": -123.80644739972222,
+        "date": "2025-05-02T13:19:03Z"
+      },
+      {
+        "latitude": 47.586013399722226,
+        "longitude": -122.37570449972222,
+        "date": "2025-05-04T14:16:01Z"
+      },
+      {
+        "latitude": 48.67768149972222,
+        "longitude": -122.16564549972223,
+        "date": "2025-05-06T11:30:23Z"
+      },
+      {
+        "latitude": 48.8906033,
+        "longitude": -121.94025709972223,
+        "date": "2025-05-07T21:09:40Z"
+      },
+      {
+        "latitude": 48.805808799999994,
+        "longitude": -121.89735849972223,
+        "date": "2025-05-08T13:48:44Z"
+      }
+    ]
+  },
+  "startDate": "2025-04-04T10:33:11Z",
+  "endDate": "2025-05-08T13:48:44Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20250404_103311.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250404_103311",
+          "position": {
+            "latitude": 39.5211071,
+            "longitude": -107.77222879972223
+          },
+          "date": "2025-04-04T10:33:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291141/usa2025/nort_west/usa2025/nort_west/20250404_103311.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291141/usa2025/nort_west/usa2025/nort_west/20250404_103311.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291141/usa2025/nort_west/usa2025/nort_west/20250404_103311.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250404_103311"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.5211071,
+        "longitude": -107.77222879972223
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20250404_131022.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250404_131022",
+          "position": {
+            "latitude": 39.181224,
+            "longitude": -108.273543
+          },
+          "date": "2025-04-04T13:10:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291146/usa2025/nort_west/usa2025/nort_west/20250404_131022.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291146/usa2025/nort_west/usa2025/nort_west/20250404_131022.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291146/usa2025/nort_west/usa2025/nort_west/20250404_131022.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250404_131022"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.181224,
+        "longitude": -108.273543
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20250405_184135.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250405_184135",
+          "position": {
+            "latitude": 39.6385919,
+            "longitude": -110.86876259972222
+          },
+          "date": "2025-04-05T18:41:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291150/usa2025/nort_west/usa2025/nort_west/20250405_184135.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291150/usa2025/nort_west/usa2025/nort_west/20250405_184135.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291150/usa2025/nort_west/usa2025/nort_west/20250405_184135.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250405_184135"
+          }
+        },
+        {
+          "id": "20250405_184141.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250405_184141",
+          "position": {
+            "latitude": 39.6385919,
+            "longitude": -110.86876259972222
+          },
+          "date": "2025-04-05T18:41:41Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291158/usa2025/nort_west/usa2025/nort_west/20250405_184141.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291158/usa2025/nort_west/usa2025/nort_west/20250405_184141.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291158/usa2025/nort_west/usa2025/nort_west/20250405_184141.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250405_184141"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.6385919,
+        "longitude": -110.86876259972222
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20250406_152819.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250406_152819",
+          "position": {
+            "latitude": 39.6360535,
+            "longitude": -110.87334689999999
+          },
+          "date": "2025-04-06T15:28:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291165/usa2025/nort_west/usa2025/nort_west/20250406_152819.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291165/usa2025/nort_west/usa2025/nort_west/20250406_152819.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291165/usa2025/nort_west/usa2025/nort_west/20250406_152819.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250406_152819"
+          }
+        },
+        {
+          "id": "20250407_162104.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250407_162104",
+          "position": {
+            "latitude": 39.6360218,
+            "longitude": -110.87344279999999
+          },
+          "date": "2025-04-07T16:21:04Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291177/usa2025/nort_west/usa2025/nort_west/20250407_162104.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291177/usa2025/nort_west/usa2025/nort_west/20250407_162104.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291177/usa2025/nort_west/usa2025/nort_west/20250407_162104.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250407_162104"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.636037650000006,
+        "longitude": -110.87339484999998
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20250409_165313.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250409_165313",
+          "position": {
+            "latitude": 38.957335399722226,
+            "longitude": -109.72370479972223
+          },
+          "date": "2025-04-09T16:53:13Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291184/usa2025/nort_west/usa2025/nort_west/20250409_165313.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291184/usa2025/nort_west/usa2025/nort_west/20250409_165313.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291184/usa2025/nort_west/usa2025/nort_west/20250409_165313.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250409_165313"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 38.957335399722226,
+        "longitude": -109.72370479972223
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20250410_140630.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250410_140630",
+          "position": {
+            "latitude": 39.93195589972222,
+            "longitude": -111.2016162
+          },
+          "date": "2025-04-10T14:06:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291192/usa2025/nort_west/usa2025/nort_west/20250410_140630.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291192/usa2025/nort_west/usa2025/nort_west/20250410_140630.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291192/usa2025/nort_west/usa2025/nort_west/20250410_140630.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250410_140630"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.93195589972222,
+        "longitude": -111.2016162
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20250412_141805.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250412_141805",
+          "position": {
+            "latitude": 40.434027199999996,
+            "longitude": -111.7516616
+          },
+          "date": "2025-04-12T14:18:05Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291199/usa2025/nort_west/usa2025/nort_west/20250412_141805.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291199/usa2025/nort_west/usa2025/nort_west/20250412_141805.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291199/usa2025/nort_west/usa2025/nort_west/20250412_141805.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250412_141805"
+          }
+        },
+        {
+          "id": "20250412_141811.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250412_141811",
+          "position": {
+            "latitude": 40.434027199999996,
+            "longitude": -111.7516616
+          },
+          "date": "2025-04-12T14:18:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291204/usa2025/nort_west/usa2025/nort_west/20250412_141811.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291204/usa2025/nort_west/usa2025/nort_west/20250412_141811.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291204/usa2025/nort_west/usa2025/nort_west/20250412_141811.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250412_141811"
+          }
+        },
+        {
+          "id": "20250412_141842.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250412_141842",
+          "position": {
+            "latitude": 40.4340519,
+            "longitude": -111.7516628
+          },
+          "date": "2025-04-12T14:18:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291209/usa2025/nort_west/usa2025/nort_west/20250412_141842.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291209/usa2025/nort_west/usa2025/nort_west/20250412_141842.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291209/usa2025/nort_west/usa2025/nort_west/20250412_141842.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250412_141842"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 40.43403543333333,
+        "longitude": -111.75166200000001
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20250413_124051.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250413_124051",
+          "position": {
+            "latitude": 40.770443,
+            "longitude": -111.88850519972223
+          },
+          "date": "2025-04-13T12:40:51Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291214/usa2025/nort_west/usa2025/nort_west/20250413_124051.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291214/usa2025/nort_west/usa2025/nort_west/20250413_124051.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291214/usa2025/nort_west/usa2025/nort_west/20250413_124051.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250413_124051"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 40.770443,
+        "longitude": -111.88850519972223
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20250413_130729.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250413_130729",
+          "position": {
+            "latitude": 40.7798548,
+            "longitude": -111.887304
+          },
+          "date": "2025-04-13T13:07:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291221/usa2025/nort_west/usa2025/nort_west/20250413_130729.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291221/usa2025/nort_west/usa2025/nort_west/20250413_130729.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291221/usa2025/nort_west/usa2025/nort_west/20250413_130729.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250413_130729"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 40.7798548,
+        "longitude": -111.887304
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20250415_112921.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250415_112921",
+          "position": {
+            "latitude": 41.4876421,
+            "longitude": -112.0550738
+          },
+          "date": "2025-04-15T11:29:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291229/usa2025/nort_west/usa2025/nort_west/20250415_112921.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291229/usa2025/nort_west/usa2025/nort_west/20250415_112921.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291229/usa2025/nort_west/usa2025/nort_west/20250415_112921.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250415_112921"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.4876421,
+        "longitude": -112.0550738
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20250415_191928.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250415_191928",
+          "position": {
+            "latitude": 42.568673699722225,
+            "longitude": -114.30037769972222
+          },
+          "date": "2025-04-15T19:19:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291235/usa2025/nort_west/usa2025/nort_west/20250415_191928.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291235/usa2025/nort_west/usa2025/nort_west/20250415_191928.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291235/usa2025/nort_west/usa2025/nort_west/20250415_191928.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250415_191928"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.568673699722225,
+        "longitude": -114.30037769972222
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20250417_130149.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250417_130149",
+          "position": {
+            "latitude": 44.372016299722226,
+            "longitude": -117.23520519972222
+          },
+          "date": "2025-04-17T13:01:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291242/usa2025/nort_west/usa2025/nort_west/20250417_130149.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291242/usa2025/nort_west/usa2025/nort_west/20250417_130149.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291242/usa2025/nort_west/usa2025/nort_west/20250417_130149.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250417_130149"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 44.372016299722226,
+        "longitude": -117.23520519972222
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20250418_154717.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250418_154717",
+          "position": {
+            "latitude": 45.3695828,
+            "longitude": -118.29913659972222
+          },
+          "date": "2025-04-18T15:47:17Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291247/usa2025/nort_west/usa2025/nort_west/20250418_154717.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291247/usa2025/nort_west/usa2025/nort_west/20250418_154717.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291247/usa2025/nort_west/usa2025/nort_west/20250418_154717.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250418_154717"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.3695828,
+        "longitude": -118.29913659972222
+      }
+    },
+    {
+      "id": "cluster-14",
+      "photos": [
+        {
+          "id": "20250419_115750.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250419_115750",
+          "position": {
+            "latitude": 45.772483,
+            "longitude": -119.25196839972222
+          },
+          "date": "2025-04-19T11:57:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291253/usa2025/nort_west/usa2025/nort_west/20250419_115750.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291253/usa2025/nort_west/usa2025/nort_west/20250419_115750.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291253/usa2025/nort_west/usa2025/nort_west/20250419_115750.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250419_115750"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.772483,
+        "longitude": -119.25196839972222
+      }
+    },
+    {
+      "id": "cluster-15",
+      "photos": [
+        {
+          "id": "20250419_133246.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250419_133246",
+          "position": {
+            "latitude": 45.717378699722225,
+            "longitude": -120.23460339972222
+          },
+          "date": "2025-04-19T13:32:46Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291259/usa2025/nort_west/usa2025/nort_west/20250419_133246.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291259/usa2025/nort_west/usa2025/nort_west/20250419_133246.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291259/usa2025/nort_west/usa2025/nort_west/20250419_133246.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250419_133246"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.717378699722225,
+        "longitude": -120.23460339972222
+      }
+    },
+    {
+      "id": "cluster-16",
+      "photos": [
+        {
+          "id": "20250420_103800.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250420_103800",
+          "position": {
+            "latitude": 45.683623299999994,
+            "longitude": -121.3001778
+          },
+          "date": "2025-04-20T10:38:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291264/usa2025/nort_west/usa2025/nort_west/20250420_103800.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291264/usa2025/nort_west/usa2025/nort_west/20250420_103800.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291264/usa2025/nort_west/usa2025/nort_west/20250420_103800.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250420_103800"
+          }
+        },
+        {
+          "id": "20250420_104322.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250420_104322",
+          "position": {
+            "latitude": 45.68261979972222,
+            "longitude": -121.29912709999999
+          },
+          "date": "2025-04-20T10:43:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291269/usa2025/nort_west/usa2025/nort_west/20250420_104322.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291269/usa2025/nort_west/usa2025/nort_west/20250420_104322.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291269/usa2025/nort_west/usa2025/nort_west/20250420_104322.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250420_104322"
+          }
+        },
+        {
+          "id": "20250420_104422.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250420_104422",
+          "position": {
+            "latitude": 45.682282099999995,
+            "longitude": -121.29943349999999
+          },
+          "date": "2025-04-20T10:44:22Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291275/usa2025/nort_west/usa2025/nort_west/20250420_104422.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291275/usa2025/nort_west/usa2025/nort_west/20250420_104422.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291275/usa2025/nort_west/usa2025/nort_west/20250420_104422.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250420_104422"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.682841733240735,
+        "longitude": -121.29957946666666
+      }
+    },
+    {
+      "id": "cluster-17",
+      "photos": [
+        {
+          "id": "20250423_195425.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250423_195425",
+          "position": {
+            "latitude": 45.402026299999996,
+            "longitude": -121.58855739972222
+          },
+          "date": "2025-04-23T19:54:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291280/usa2025/nort_west/usa2025/nort_west/20250423_195425.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291280/usa2025/nort_west/usa2025/nort_west/20250423_195425.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291280/usa2025/nort_west/usa2025/nort_west/20250423_195425.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250423_195425"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.402026299999996,
+        "longitude": -121.58855739972222
+      }
+    },
+    {
+      "id": "cluster-18",
+      "photos": [
+        {
+          "id": "20250423_201430.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250423_201430",
+          "position": {
+            "latitude": 45.40428899972222,
+            "longitude": -121.5825035
+          },
+          "date": "2025-04-23T20:14:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291287/usa2025/nort_west/usa2025/nort_west/20250423_201430.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291287/usa2025/nort_west/usa2025/nort_west/20250423_201430.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291287/usa2025/nort_west/usa2025/nort_west/20250423_201430.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250423_201430"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.40428899972222,
+        "longitude": -121.5825035
+      }
+    },
+    {
+      "id": "cluster-19",
+      "photos": [
+        {
+          "id": "20250424_170143.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250424_170143",
+          "position": {
+            "latitude": 45.3372272,
+            "longitude": -121.56779589972221
+          },
+          "date": "2025-04-24T17:01:43Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291292/usa2025/nort_west/usa2025/nort_west/20250424_170143.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291292/usa2025/nort_west/usa2025/nort_west/20250424_170143.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291292/usa2025/nort_west/usa2025/nort_west/20250424_170143.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250424_170143"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.3372272,
+        "longitude": -121.56779589972221
+      }
+    },
+    {
+      "id": "cluster-20",
+      "photos": [
+        {
+          "id": "20250424_220616.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250424_220616",
+          "position": {
+            "latitude": 45.31032119972222,
+            "longitude": -121.6422996
+          },
+          "date": "2025-04-24T22:06:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291296/usa2025/nort_west/usa2025/nort_west/20250424_220616.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291296/usa2025/nort_west/usa2025/nort_west/20250424_220616.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291296/usa2025/nort_west/usa2025/nort_west/20250424_220616.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250424_220616"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.31032119972222,
+        "longitude": -121.6422996
+      }
+    },
+    {
+      "id": "cluster-21",
+      "photos": [
+        {
+          "id": "20250426_134131.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_134131",
+          "position": {
+            "latitude": 45.330654699722224,
+            "longitude": -121.7110897
+          },
+          "date": "2025-04-26T13:41:31Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291301/usa2025/nort_west/usa2025/nort_west/20250426_134131.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291301/usa2025/nort_west/usa2025/nort_west/20250426_134131.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291301/usa2025/nort_west/usa2025/nort_west/20250426_134131.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_134131"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.330654699722224,
+        "longitude": -121.7110897
+      }
+    },
+    {
+      "id": "cluster-22",
+      "photos": [
+        {
+          "id": "20250426_143832.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_143832",
+          "position": {
+            "latitude": 45.3582923,
+            "longitude": -121.705348
+          },
+          "date": "2025-04-26T14:38:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291366/usa2025/nort_west/usa2025/nort_west/20250426_143832.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291366/usa2025/nort_west/usa2025/nort_west/20250426_143832.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291366/usa2025/nort_west/usa2025/nort_west/20250426_143832.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_143832"
+          }
+        },
+        {
+          "id": "20250426_143841.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_143841",
+          "position": {
+            "latitude": 45.3582551,
+            "longitude": -121.70535099972223
+          },
+          "date": "2025-04-26T14:38:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291371/usa2025/nort_west/usa2025/nort_west/20250426_143841.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291371/usa2025/nort_west/usa2025/nort_west/20250426_143841.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291371/usa2025/nort_west/usa2025/nort_west/20250426_143841.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_143841"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.3582737,
+        "longitude": -121.70534949986111
+      }
+    },
+    {
+      "id": "cluster-23",
+      "photos": [
+        {
+          "id": "20250426_144819.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_144819",
+          "position": {
+            "latitude": 45.3532748,
+            "longitude": -121.71732339972222
+          },
+          "date": "2025-04-26T14:48:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291376/usa2025/nort_west/usa2025/nort_west/20250426_144819.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291376/usa2025/nort_west/usa2025/nort_west/20250426_144819.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291376/usa2025/nort_west/usa2025/nort_west/20250426_144819.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_144819"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.3532748,
+        "longitude": -121.71732339972222
+      }
+    },
+    {
+      "id": "cluster-24",
+      "photos": [
+        {
+          "id": "20250426_161538.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_161538",
+          "position": {
+            "latitude": 45.357663,
+            "longitude": -121.7127495
+          },
+          "date": "2025-04-26T16:15:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291382/usa2025/nort_west/usa2025/nort_west/20250426_161538.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291382/usa2025/nort_west/usa2025/nort_west/20250426_161538.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291382/usa2025/nort_west/usa2025/nort_west/20250426_161538.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_161538"
+          }
+        },
+        {
+          "id": "20250426_161550.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_161550",
+          "position": {
+            "latitude": 45.3576532,
+            "longitude": -121.71274839972223
+          },
+          "date": "2025-04-26T16:15:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291387/usa2025/nort_west/usa2025/nort_west/20250426_161550.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291387/usa2025/nort_west/usa2025/nort_west/20250426_161550.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291387/usa2025/nort_west/usa2025/nort_west/20250426_161550.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_161550"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.3576581,
+        "longitude": -121.71274894986112
+      }
+    },
+    {
+      "id": "cluster-25",
+      "photos": [
+        {
+          "id": "20250426_161916.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250426_161916",
+          "position": {
+            "latitude": 45.3526037,
+            "longitude": -121.7147106
+          },
+          "date": "2025-04-26T16:19:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291393/usa2025/nort_west/usa2025/nort_west/20250426_161916.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291393/usa2025/nort_west/usa2025/nort_west/20250426_161916.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291393/usa2025/nort_west/usa2025/nort_west/20250426_161916.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250426_161916"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 45.3526037,
+        "longitude": -121.7147106
+      }
+    },
+    {
+      "id": "cluster-26",
+      "photos": [
+        {
+          "id": "20250428_171802.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250428_171802",
+          "position": {
+            "latitude": 46.04349299972222,
+            "longitude": -122.3133332
+          },
+          "date": "2025-04-28T17:18:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291412/usa2025/nort_west/usa2025/nort_west/20250428_171802.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291412/usa2025/nort_west/usa2025/nort_west/20250428_171802.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291412/usa2025/nort_west/usa2025/nort_west/20250428_171802.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250428_171802"
+          }
+        },
+        {
+          "id": "20250428_172058.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250428_172058",
+          "position": {
+            "latitude": 46.04305519972222,
+            "longitude": -122.31250239972222
+          },
+          "date": "2025-04-28T17:20:58Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291427/usa2025/nort_west/usa2025/nort_west/20250428_172058.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291427/usa2025/nort_west/usa2025/nort_west/20250428_172058.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291427/usa2025/nort_west/usa2025/nort_west/20250428_172058.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250428_172058"
+          }
+        },
+        {
+          "id": "20250428_172102.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250428_172102",
+          "position": {
+            "latitude": 46.04305519972222,
+            "longitude": -122.31250239972222
+          },
+          "date": "2025-04-28T17:21:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291447/usa2025/nort_west/usa2025/nort_west/20250428_172102.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291447/usa2025/nort_west/usa2025/nort_west/20250428_172102.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291447/usa2025/nort_west/usa2025/nort_west/20250428_172102.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250428_172102"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.043201133055554,
+        "longitude": -122.31277933314816
+      }
+    },
+    {
+      "id": "cluster-27",
+      "photos": [
+        {
+          "id": "20250430_200630.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250430_200630",
+          "position": {
+            "latitude": 46.15761179972222,
+            "longitude": -122.28357379972222
+          },
+          "date": "2025-04-30T20:06:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291461/usa2025/nort_west/usa2025/nort_west/20250430_200630.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291461/usa2025/nort_west/usa2025/nort_west/20250430_200630.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291461/usa2025/nort_west/usa2025/nort_west/20250430_200630.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250430_200630"
+          }
+        },
+        {
+          "id": "20250430_201104.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250430_201104",
+          "position": {
+            "latitude": 46.158819799999996,
+            "longitude": -122.28504159972222
+          },
+          "date": "2025-04-30T20:11:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291532/usa2025/nort_west/usa2025/nort_west/20250430_201104.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291532/usa2025/nort_west/usa2025/nort_west/20250430_201104.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291532/usa2025/nort_west/usa2025/nort_west/20250430_201104.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250430_201104"
+          }
+        },
+        {
+          "id": "20250430_201234.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250430_201234",
+          "position": {
+            "latitude": 46.1589194,
+            "longitude": -122.2853312
+          },
+          "date": "2025-04-30T20:12:34Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291541/usa2025/nort_west/usa2025/nort_west/20250430_201234.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291541/usa2025/nort_west/usa2025/nort_west/20250430_201234.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291541/usa2025/nort_west/usa2025/nort_west/20250430_201234.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250430_201234"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.158450333240744,
+        "longitude": -122.28464886648148
+      }
+    },
+    {
+      "id": "cluster-28",
+      "photos": [
+        {
+          "id": "20250501_161333.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250501_161333",
+          "position": {
+            "latitude": 46.1043147,
+            "longitude": -123.12535579972221
+          },
+          "date": "2025-05-01T16:13:33Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291557/usa2025/nort_west/usa2025/nort_west/20250501_161333.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291557/usa2025/nort_west/usa2025/nort_west/20250501_161333.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291557/usa2025/nort_west/usa2025/nort_west/20250501_161333.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250501_161333"
+          }
+        },
+        {
+          "id": "20250501_161647.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250501_161647",
+          "position": {
+            "latitude": 46.104685799722226,
+            "longitude": -123.12472679999999
+          },
+          "date": "2025-05-01T16:16:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291569/usa2025/nort_west/usa2025/nort_west/20250501_161647.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291569/usa2025/nort_west/usa2025/nort_west/20250501_161647.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291569/usa2025/nort_west/usa2025/nort_west/20250501_161647.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250501_161647"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.10450024986112,
+        "longitude": -123.1250412998611
+      }
+    },
+    {
+      "id": "cluster-29",
+      "photos": [
+        {
+          "id": "20250502_131903.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250502_131903",
+          "position": {
+            "latitude": 46.193517899999996,
+            "longitude": -123.80644739972222
+          },
+          "date": "2025-05-02T13:19:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291575/usa2025/nort_west/usa2025/nort_west/20250502_131903.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291575/usa2025/nort_west/usa2025/nort_west/20250502_131903.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291575/usa2025/nort_west/usa2025/nort_west/20250502_131903.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250502_131903"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 46.193517899999996,
+        "longitude": -123.80644739972222
+      }
+    },
+    {
+      "id": "cluster-30",
+      "photos": [
+        {
+          "id": "20250504_141601.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250504_141601",
+          "position": {
+            "latitude": 47.586013399722226,
+            "longitude": -122.37570449972222
+          },
+          "date": "2025-05-04T14:16:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291584/usa2025/nort_west/usa2025/nort_west/20250504_141601.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291584/usa2025/nort_west/usa2025/nort_west/20250504_141601.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291584/usa2025/nort_west/usa2025/nort_west/20250504_141601.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250504_141601"
+          }
+        },
+        {
+          "id": "20250504_141635.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250504_141635",
+          "position": {
+            "latitude": 47.5860167,
+            "longitude": -122.3757023
+          },
+          "date": "2025-05-04T14:16:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291592/usa2025/nort_west/usa2025/nort_west/20250504_141635.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291592/usa2025/nort_west/usa2025/nort_west/20250504_141635.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291592/usa2025/nort_west/usa2025/nort_west/20250504_141635.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250504_141635"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 47.58601504986112,
+        "longitude": -122.37570339986111
+      }
+    },
+    {
+      "id": "cluster-31",
+      "photos": [
+        {
+          "id": "20250506_113023.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250506_113023",
+          "position": {
+            "latitude": 48.67768149972222,
+            "longitude": -122.16564549972223
+          },
+          "date": "2025-05-06T11:30:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291608/usa2025/nort_west/usa2025/nort_west/20250506_113023.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291608/usa2025/nort_west/usa2025/nort_west/20250506_113023.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291608/usa2025/nort_west/usa2025/nort_west/20250506_113023.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250506_113023"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.67768149972222,
+        "longitude": -122.16564549972223
+      }
+    },
+    {
+      "id": "cluster-32",
+      "photos": [
+        {
+          "id": "20250507_210941.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250507_210941",
+          "position": {
+            "latitude": 48.8906033,
+            "longitude": -121.94025709972223
+          },
+          "date": "2025-05-07T21:09:40Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291619/usa2025/nort_west/usa2025/nort_west/20250507_210941.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291619/usa2025/nort_west/usa2025/nort_west/20250507_210941.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291619/usa2025/nort_west/usa2025/nort_west/20250507_210941.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250507_210941"
+          }
+        },
+        {
+          "id": "20250508_115225.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250508_115225",
+          "position": {
+            "latitude": 48.8897576,
+            "longitude": -121.9410847
+          },
+          "date": "2025-05-08T11:52:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291631/usa2025/nort_west/usa2025/nort_west/20250508_115225.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291631/usa2025/nort_west/usa2025/nort_west/20250508_115225.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291631/usa2025/nort_west/usa2025/nort_west/20250508_115225.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250508_115225"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.89018045,
+        "longitude": -121.94067089986112
+      }
+    },
+    {
+      "id": "cluster-33",
+      "photos": [
+        {
+          "id": "20250508_134844.jpg",
+          "url": "usa2025/nort_west/usa2025/nort_west/20250508_134844",
+          "position": {
+            "latitude": 48.805808799999994,
+            "longitude": -121.89735849972223
+          },
+          "date": "2025-05-08T13:48:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755291640/usa2025/nort_west/usa2025/nort_west/20250508_134844.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755291640/usa2025/nort_west/usa2025/nort_west/20250508_134844.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755291640/usa2025/nort_west/usa2025/nort_west/20250508_134844.jpg",
+            "public_id": "usa2025/nort_west/usa2025/nort_west/20250508_134844"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 48.805808799999994,
+        "longitude": -121.89735849972223
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": "Auto-generated itinerary for nort_west"
+}

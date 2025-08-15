@@ -1,0 +1,1644 @@
+{
+  "id": "rust_belt",
+  "name": "Rust belt",
+  "route": {
+    "start": {
+      "latitude": 44.707160799722224,
+      "longitude": -75.4568552
+    },
+    "end": {
+      "latitude": 36.16265609972222,
+      "longitude": -86.7984043
+    },
+    "path": [
+      {
+        "latitude": 44.707160799722224,
+        "longitude": -75.4568552,
+        "date": "2024-11-26T22:43:49Z"
+      },
+      {
+        "latitude": 43.0491005,
+        "longitude": -76.15267319972223,
+        "date": "2024-11-27T12:43:35Z"
+      },
+      {
+        "latitude": 43.16238609972222,
+        "longitude": -77.61255149972222,
+        "date": "2024-11-28T15:07:01Z"
+      },
+      {
+        "latitude": 43.16115179972222,
+        "longitude": -77.60338679972222,
+        "date": "2024-11-28T20:35:52Z"
+      },
+      {
+        "latitude": 43.084759499722225,
+        "longitude": -79.06144069999999,
+        "date": "2024-11-29T15:18:01Z"
+      },
+      {
+        "latitude": 42.888786099722225,
+        "longitude": -78.87367439972222,
+        "date": "2024-11-29T21:23:00Z"
+      },
+      {
+        "latitude": 42.88344839972222,
+        "longitude": -78.8766119,
+        "date": "2024-11-29T21:42:37Z"
+      },
+      {
+        "latitude": 42.87155609972222,
+        "longitude": -78.87110419999999,
+        "date": "2024-11-29T22:03:20Z"
+      },
+      {
+        "latitude": 42.91009499972222,
+        "longitude": -78.74474399972222,
+        "date": "2024-11-30T18:55:11Z"
+      },
+      {
+        "latitude": 42.570781599722224,
+        "longitude": -79.11210519999999,
+        "date": "2024-12-02T07:29:49Z"
+      },
+      {
+        "latitude": 41.50104939972222,
+        "longitude": -81.69470239972223,
+        "date": "2024-12-03T16:51:56Z"
+      },
+      {
+        "latitude": 41.5039883,
+        "longitude": -81.68066949972223,
+        "date": "2024-12-03T17:42:11Z"
+      },
+      {
+        "latitude": 41.4879267,
+        "longitude": -81.69549899972223,
+        "date": "2024-12-04T01:36:59Z"
+      },
+      {
+        "latitude": 41.480785699722226,
+        "longitude": -81.68577299972223,
+        "date": "2024-12-04T15:03:06Z"
+      },
+      {
+        "latitude": 41.52936679972222,
+        "longitude": -83.01662699972222,
+        "date": "2024-12-05T04:56:53Z"
+      },
+      {
+        "latitude": 42.3280839,
+        "longitude": -83.0382129,
+        "date": "2024-12-05T23:45:16Z"
+      },
+      {
+        "latitude": 42.34580929972223,
+        "longitude": -83.03683739972222,
+        "date": "2024-12-08T13:30:16Z"
+      },
+      {
+        "latitude": 42.3359523,
+        "longitude": -83.0488727,
+        "date": "2024-12-08T14:45:47Z"
+      },
+      {
+        "latitude": 42.362642399722226,
+        "longitude": -83.08342159972221,
+        "date": "2024-12-08T20:42:01Z"
+      },
+      {
+        "latitude": 42.3193647,
+        "longitude": -83.09528149972222,
+        "date": "2024-12-09T17:02:56Z"
+      },
+      {
+        "latitude": 42.3315348,
+        "longitude": -83.04890139999999,
+        "date": "2024-12-09T20:01:57Z"
+      },
+      {
+        "latitude": 41.85221489972222,
+        "longitude": -87.63910629972223,
+        "date": "2024-12-12T22:02:18Z"
+      },
+      {
+        "latitude": 41.88840156944445,
+        "longitude": -87.62205231944444,
+        "date": "2024-12-13T21:47:37Z"
+      },
+      {
+        "latitude": 41.888145638888886,
+        "longitude": -87.62761689999999,
+        "date": "2024-12-13T22:00:26Z"
+      },
+      {
+        "latitude": 41.896777999722225,
+        "longitude": -87.634292,
+        "date": "2024-12-14T16:03:06Z"
+      },
+      {
+        "latitude": 41.855670199722226,
+        "longitude": -87.62705679999999,
+        "date": "2024-12-15T17:15:55Z"
+      },
+      {
+        "latitude": 41.906717,
+        "longitude": -87.65158859972223,
+        "date": "2024-12-16T19:40:00Z"
+      },
+      {
+        "latitude": 43.00296459972222,
+        "longitude": -87.9203152,
+        "date": "2024-12-17T22:55:38Z"
+      },
+      {
+        "latitude": 41.9024846,
+        "longitude": -87.62488909999999,
+        "date": "2024-12-20T14:37:50Z"
+      },
+      {
+        "latitude": 41.93262289972222,
+        "longitude": -87.7132323,
+        "date": "2024-12-20T19:51:23Z"
+      },
+      {
+        "latitude": 41.84976,
+        "longitude": -87.64154299972223,
+        "date": "2024-12-21T21:41:32Z"
+      },
+      {
+        "latitude": 39.7747564,
+        "longitude": -86.1504105,
+        "date": "2024-12-23T14:02:55Z"
+      },
+      {
+        "latitude": 39.7753505,
+        "longitude": -86.157525,
+        "date": "2024-12-23T15:38:49Z"
+      },
+      {
+        "latitude": 39.110200399722224,
+        "longitude": -84.5359114,
+        "date": "2024-12-24T13:02:50Z"
+      },
+      {
+        "latitude": 38.25733019972222,
+        "longitude": -85.76350259972222,
+        "date": "2024-12-26T20:00:30Z"
+      },
+      {
+        "latitude": 38.118445899722225,
+        "longitude": -85.8435056,
+        "date": "2024-12-27T14:59:11Z"
+      },
+      {
+        "latitude": 37.961893199722226,
+        "longitude": -85.97462459972222,
+        "date": "2024-12-27T16:13:21Z"
+      },
+      {
+        "latitude": 37.961306899722224,
+        "longitude": -85.958466,
+        "date": "2024-12-27T17:28:13Z"
+      },
+      {
+        "latitude": 37.2335354,
+        "longitude": -86.15792709972223,
+        "date": "2024-12-28T15:19:09Z"
+      },
+      {
+        "latitude": 37.25562839972222,
+        "longitude": -86.15845129972223,
+        "date": "2024-12-28T18:17:37Z"
+      },
+      {
+        "latitude": 36.150544599999996,
+        "longitude": -86.81274679972222,
+        "date": "2024-12-30T17:50:25Z"
+      },
+      {
+        "latitude": 36.150739199722224,
+        "longitude": -86.8061708,
+        "date": "2024-12-31T18:36:42Z"
+      },
+      {
+        "latitude": 36.16265609972222,
+        "longitude": -86.7984043,
+        "date": "2025-01-01T00:03:28Z"
+      }
+    ]
+  },
+  "startDate": "2024-11-26T22:43:49Z",
+  "endDate": "2025-01-01T00:03:28Z",
+  "photoClusters": [
+    {
+      "id": "cluster-1",
+      "photos": [
+        {
+          "id": "20241126_224349.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241126_224349",
+          "position": {
+            "latitude": 44.707160799722224,
+            "longitude": -75.4568552
+          },
+          "date": "2024-11-26T22:43:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755288862/usa2025/rust_belt/usa2025/rust_belt/20241126_224349.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755288862/usa2025/rust_belt/usa2025/rust_belt/20241126_224349.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755288862/usa2025/rust_belt/usa2025/rust_belt/20241126_224349.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241126_224349"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 44.707160799722224,
+        "longitude": -75.4568552
+      }
+    },
+    {
+      "id": "cluster-2",
+      "photos": [
+        {
+          "id": "20241127_124335.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241127_124335",
+          "position": {
+            "latitude": 43.0491005,
+            "longitude": -76.15267319972223
+          },
+          "date": "2024-11-27T12:43:35Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755288866/usa2025/rust_belt/usa2025/rust_belt/20241127_124335.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755288866/usa2025/rust_belt/usa2025/rust_belt/20241127_124335.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755288866/usa2025/rust_belt/usa2025/rust_belt/20241127_124335.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241127_124335"
+          }
+        },
+        {
+          "id": "20241127_125822.jpg",
+          "url": "data/usa_2025/rust_belt/20241127_125822.jpg",
+          "position": {
+            "latitude": 43.050484299999994,
+            "longitude": -76.15517119972223
+          },
+          "date": "2024-11-27T12:58:22Z",
+          "description": ""
+        },
+        {
+          "id": "20241127_125828.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241127_125828",
+          "position": {
+            "latitude": 43.050484299999994,
+            "longitude": -76.15517119972223
+          },
+          "date": "2024-11-27T12:58:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755288915/usa2025/rust_belt/usa2025/rust_belt/20241127_125828.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755288915/usa2025/rust_belt/usa2025/rust_belt/20241127_125828.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755288915/usa2025/rust_belt/usa2025/rust_belt/20241127_125828.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241127_125828"
+          }
+        },
+        {
+          "id": "20241127_130249.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241127_130249",
+          "position": {
+            "latitude": 43.05094379972222,
+            "longitude": -76.1536846
+          },
+          "date": "2024-11-27T13:02:48Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755288935/usa2025/rust_belt/usa2025/rust_belt/20241127_130249.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755288935/usa2025/rust_belt/usa2025/rust_belt/20241127_130249.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755288935/usa2025/rust_belt/usa2025/rust_belt/20241127_130249.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241127_130249"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 43.05025322493056,
+        "longitude": -76.15417504979168
+      }
+    },
+    {
+      "id": "cluster-3",
+      "photos": [
+        {
+          "id": "20241128_150701.jpg",
+          "url": "data/usa_2025/rust_belt/20241128_150701.jpg",
+          "position": {
+            "latitude": 43.16238609972222,
+            "longitude": -77.61255149972222
+          },
+          "date": "2024-11-28T15:07:01Z",
+          "description": ""
+        },
+        {
+          "id": "20241128_150704.jpg",
+          "url": "data/usa_2025/rust_belt/20241128_150704.jpg",
+          "position": {
+            "latitude": 43.16238609972222,
+            "longitude": -77.61255149972222
+          },
+          "date": "2024-11-28T15:07:04Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 43.16238609972222,
+        "longitude": -77.61255149972222
+      }
+    },
+    {
+      "id": "cluster-4",
+      "photos": [
+        {
+          "id": "20241128_203552.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241128_203552",
+          "position": {
+            "latitude": 43.16115179972222,
+            "longitude": -77.60338679972222
+          },
+          "date": "2024-11-28T20:35:52Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289027/usa2025/rust_belt/usa2025/rust_belt/20241128_203552.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289027/usa2025/rust_belt/usa2025/rust_belt/20241128_203552.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289027/usa2025/rust_belt/usa2025/rust_belt/20241128_203552.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241128_203552"
+          }
+        },
+        {
+          "id": "20241128_203615.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241128_203615",
+          "position": {
+            "latitude": 43.16115179972222,
+            "longitude": -77.60338679972222
+          },
+          "date": "2024-11-28T20:36:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289031/usa2025/rust_belt/usa2025/rust_belt/20241128_203615.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289031/usa2025/rust_belt/usa2025/rust_belt/20241128_203615.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289031/usa2025/rust_belt/usa2025/rust_belt/20241128_203615.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241128_203615"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 43.16115179972222,
+        "longitude": -77.60338679972222
+      }
+    },
+    {
+      "id": "cluster-5",
+      "photos": [
+        {
+          "id": "20241129_151800.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241129_151800",
+          "position": {
+            "latitude": 43.084759499722225,
+            "longitude": -79.06144069999999
+          },
+          "date": "2024-11-29T15:18:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289082/usa2025/rust_belt/usa2025/rust_belt/20241129_151800.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289082/usa2025/rust_belt/usa2025/rust_belt/20241129_151800.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289082/usa2025/rust_belt/usa2025/rust_belt/20241129_151800.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241129_151800"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 43.084759499722225,
+        "longitude": -79.06144069999999
+      }
+    },
+    {
+      "id": "cluster-6",
+      "photos": [
+        {
+          "id": "20241129_212300.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241129_212300",
+          "position": {
+            "latitude": 42.888786099722225,
+            "longitude": -78.87367439972222
+          },
+          "date": "2024-11-29T21:23:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289093/usa2025/rust_belt/usa2025/rust_belt/20241129_212300.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289093/usa2025/rust_belt/usa2025/rust_belt/20241129_212300.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289093/usa2025/rust_belt/usa2025/rust_belt/20241129_212300.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241129_212300"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.888786099722225,
+        "longitude": -78.87367439972222
+      }
+    },
+    {
+      "id": "cluster-7",
+      "photos": [
+        {
+          "id": "20241129_214238.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241129_214238",
+          "position": {
+            "latitude": 42.88344839972222,
+            "longitude": -78.8766119
+          },
+          "date": "2024-11-29T21:42:37Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289099/usa2025/rust_belt/usa2025/rust_belt/20241129_214238.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289099/usa2025/rust_belt/usa2025/rust_belt/20241129_214238.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289099/usa2025/rust_belt/usa2025/rust_belt/20241129_214238.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241129_214238"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.88344839972222,
+        "longitude": -78.8766119
+      }
+    },
+    {
+      "id": "cluster-8",
+      "photos": [
+        {
+          "id": "20241129_220320.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241129_220320",
+          "position": {
+            "latitude": 42.87155609972222,
+            "longitude": -78.87110419999999
+          },
+          "date": "2024-11-29T22:03:20Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289102/usa2025/rust_belt/usa2025/rust_belt/20241129_220320.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289102/usa2025/rust_belt/usa2025/rust_belt/20241129_220320.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289102/usa2025/rust_belt/usa2025/rust_belt/20241129_220320.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241129_220320"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.87155609972222,
+        "longitude": -78.87110419999999
+      }
+    },
+    {
+      "id": "cluster-9",
+      "photos": [
+        {
+          "id": "20241130_185511.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241130_185511",
+          "position": {
+            "latitude": 42.91009499972222,
+            "longitude": -78.74474399972222
+          },
+          "date": "2024-11-30T18:55:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289110/usa2025/rust_belt/usa2025/rust_belt/20241130_185511.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289110/usa2025/rust_belt/usa2025/rust_belt/20241130_185511.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289110/usa2025/rust_belt/usa2025/rust_belt/20241130_185511.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241130_185511"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.91009499972222,
+        "longitude": -78.74474399972222
+      }
+    },
+    {
+      "id": "cluster-10",
+      "photos": [
+        {
+          "id": "20241202_072949.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241202_072949",
+          "position": {
+            "latitude": 42.570781599722224,
+            "longitude": -79.11210519999999
+          },
+          "date": "2024-12-02T07:29:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289115/usa2025/rust_belt/usa2025/rust_belt/20241202_072949.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289115/usa2025/rust_belt/usa2025/rust_belt/20241202_072949.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289115/usa2025/rust_belt/usa2025/rust_belt/20241202_072949.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241202_072949"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.570781599722224,
+        "longitude": -79.11210519999999
+      }
+    },
+    {
+      "id": "cluster-11",
+      "photos": [
+        {
+          "id": "20241203_165156.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241203_165156",
+          "position": {
+            "latitude": 41.50104939972222,
+            "longitude": -81.69470239972223
+          },
+          "date": "2024-12-03T16:51:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289121/usa2025/rust_belt/usa2025/rust_belt/20241203_165156.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289121/usa2025/rust_belt/usa2025/rust_belt/20241203_165156.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289121/usa2025/rust_belt/usa2025/rust_belt/20241203_165156.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241203_165156"
+          }
+        },
+        {
+          "id": "20241203_165402.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241203_165402",
+          "position": {
+            "latitude": 41.50014579972222,
+            "longitude": -81.69380169972223
+          },
+          "date": "2024-12-03T16:54:02Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289142/usa2025/rust_belt/usa2025/rust_belt/20241203_165402.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289142/usa2025/rust_belt/usa2025/rust_belt/20241203_165402.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289142/usa2025/rust_belt/usa2025/rust_belt/20241203_165402.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241203_165402"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.50059759972222,
+        "longitude": -81.69425204972222
+      }
+    },
+    {
+      "id": "cluster-12",
+      "photos": [
+        {
+          "id": "20241203_174212.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241203_174212",
+          "position": {
+            "latitude": 41.5039883,
+            "longitude": -81.68066949972223
+          },
+          "date": "2024-12-03T17:42:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289151/usa2025/rust_belt/usa2025/rust_belt/20241203_174212.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289151/usa2025/rust_belt/usa2025/rust_belt/20241203_174212.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289151/usa2025/rust_belt/usa2025/rust_belt/20241203_174212.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241203_174212"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.5039883,
+        "longitude": -81.68066949972223
+      }
+    },
+    {
+      "id": "cluster-13",
+      "photos": [
+        {
+          "id": "20241204_013659.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241204_013659",
+          "position": {
+            "latitude": 41.4879267,
+            "longitude": -81.69549899972223
+          },
+          "date": "2024-12-04T01:36:59Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289158/usa2025/rust_belt/usa2025/rust_belt/20241204_013659.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289158/usa2025/rust_belt/usa2025/rust_belt/20241204_013659.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289158/usa2025/rust_belt/usa2025/rust_belt/20241204_013659.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241204_013659"
+          }
+        },
+        {
+          "id": "20241204_013741.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241204_013741",
+          "position": {
+            "latitude": 41.487957199722224,
+            "longitude": -81.69551479972223
+          },
+          "date": "2024-12-04T01:37:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289167/usa2025/rust_belt/usa2025/rust_belt/20241204_013741.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289167/usa2025/rust_belt/usa2025/rust_belt/20241204_013741.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289167/usa2025/rust_belt/usa2025/rust_belt/20241204_013741.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241204_013741"
+          }
+        },
+        {
+          "id": "20241204_013900.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241204_013900",
+          "position": {
+            "latitude": 41.48838789972222,
+            "longitude": -81.69674379972223
+          },
+          "date": "2024-12-04T01:39:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289177/usa2025/rust_belt/usa2025/rust_belt/20241204_013900.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289177/usa2025/rust_belt/usa2025/rust_belt/20241204_013900.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289177/usa2025/rust_belt/usa2025/rust_belt/20241204_013900.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241204_013900"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.48809059981482,
+        "longitude": -81.69591919972224
+      }
+    },
+    {
+      "id": "cluster-14",
+      "photos": [
+        {
+          "id": "20241204_150306.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241204_150306",
+          "position": {
+            "latitude": 41.480785699722226,
+            "longitude": -81.68577299972223
+          },
+          "date": "2024-12-04T15:03:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289195/usa2025/rust_belt/usa2025/rust_belt/20241204_150306.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289195/usa2025/rust_belt/usa2025/rust_belt/20241204_150306.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289195/usa2025/rust_belt/usa2025/rust_belt/20241204_150306.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241204_150306"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.480785699722226,
+        "longitude": -81.68577299972223
+      }
+    },
+    {
+      "id": "cluster-15",
+      "photos": [
+        {
+          "id": "20241205_045649.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241205_045649",
+          "position": {
+            "latitude": 41.52936679972222,
+            "longitude": -83.01662699972222
+          },
+          "date": "2024-12-05T04:56:53Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289202/usa2025/rust_belt/usa2025/rust_belt/20241205_045649.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289202/usa2025/rust_belt/usa2025/rust_belt/20241205_045649.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289202/usa2025/rust_belt/usa2025/rust_belt/20241205_045649.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241205_045649"
+          }
+        },
+        {
+          "id": "20241205_144429.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241205_144429",
+          "position": {
+            "latitude": 41.5291907,
+            "longitude": -83.0162643
+          },
+          "date": "2024-12-05T14:44:29Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289208/usa2025/rust_belt/usa2025/rust_belt/20241205_144429.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289208/usa2025/rust_belt/usa2025/rust_belt/20241205_144429.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289208/usa2025/rust_belt/usa2025/rust_belt/20241205_144429.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241205_144429"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.529278749861106,
+        "longitude": -83.01644564986111
+      }
+    },
+    {
+      "id": "cluster-16",
+      "photos": [
+        {
+          "id": "20241205_234514.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241205_234514",
+          "position": {
+            "latitude": 42.3280839,
+            "longitude": -83.0382129
+          },
+          "date": "2024-12-05T23:45:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289213/usa2025/rust_belt/usa2025/rust_belt/20241205_234514.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289213/usa2025/rust_belt/usa2025/rust_belt/20241205_234514.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289213/usa2025/rust_belt/usa2025/rust_belt/20241205_234514.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241205_234514"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.3280839,
+        "longitude": -83.0382129
+      }
+    },
+    {
+      "id": "cluster-17",
+      "photos": [
+        {
+          "id": "20241208_133016.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_133016",
+          "position": {
+            "latitude": 42.34580929972223,
+            "longitude": -83.03683739972222
+          },
+          "date": "2024-12-08T13:30:16Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289218/usa2025/rust_belt/usa2025/rust_belt/20241208_133016.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289218/usa2025/rust_belt/usa2025/rust_belt/20241208_133016.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289218/usa2025/rust_belt/usa2025/rust_belt/20241208_133016.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_133016"
+          }
+        },
+        {
+          "id": "20241208_133319.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_133319",
+          "position": {
+            "latitude": 42.3446343,
+            "longitude": -83.03812969972222
+          },
+          "date": "2024-12-08T13:33:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289227/usa2025/rust_belt/usa2025/rust_belt/20241208_133319.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289227/usa2025/rust_belt/usa2025/rust_belt/20241208_133319.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289227/usa2025/rust_belt/usa2025/rust_belt/20241208_133319.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_133319"
+          }
+        },
+        {
+          "id": "20241208_135049.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_135049",
+          "position": {
+            "latitude": 42.3473065,
+            "longitude": -83.04088969972221
+          },
+          "date": "2024-12-08T13:50:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289238/usa2025/rust_belt/usa2025/rust_belt/20241208_135049.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289238/usa2025/rust_belt/usa2025/rust_belt/20241208_135049.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289238/usa2025/rust_belt/usa2025/rust_belt/20241208_135049.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_135049"
+          }
+        },
+        {
+          "id": "20241208_135527.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_135527",
+          "position": {
+            "latitude": 42.34653899972223,
+            "longitude": -83.0384384
+          },
+          "date": "2024-12-08T13:55:27Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289256/usa2025/rust_belt/usa2025/rust_belt/20241208_135527.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289256/usa2025/rust_belt/usa2025/rust_belt/20241208_135527.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289256/usa2025/rust_belt/usa2025/rust_belt/20241208_135527.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_135527"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.346072274861115,
+        "longitude": -83.03857379979166
+      }
+    },
+    {
+      "id": "cluster-18",
+      "photos": [
+        {
+          "id": "20241208_144547.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_144547",
+          "position": {
+            "latitude": 42.3359523,
+            "longitude": -83.0488727
+          },
+          "date": "2024-12-08T14:45:47Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289272/usa2025/rust_belt/usa2025/rust_belt/20241208_144547.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289272/usa2025/rust_belt/usa2025/rust_belt/20241208_144547.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289272/usa2025/rust_belt/usa2025/rust_belt/20241208_144547.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_144547"
+          }
+        },
+        {
+          "id": "20241208_144824.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_144824",
+          "position": {
+            "latitude": 42.3359224,
+            "longitude": -83.05018409972222
+          },
+          "date": "2024-12-08T14:48:24Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289285/usa2025/rust_belt/usa2025/rust_belt/20241208_144824.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289285/usa2025/rust_belt/usa2025/rust_belt/20241208_144824.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289285/usa2025/rust_belt/usa2025/rust_belt/20241208_144824.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_144824"
+          }
+        },
+        {
+          "id": "20241208_145226.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_145226",
+          "position": {
+            "latitude": 42.3380213,
+            "longitude": -83.05141369972222
+          },
+          "date": "2024-12-08T14:52:26Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289293/usa2025/rust_belt/usa2025/rust_belt/20241208_145226.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289293/usa2025/rust_belt/usa2025/rust_belt/20241208_145226.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289293/usa2025/rust_belt/usa2025/rust_belt/20241208_145226.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_145226"
+          }
+        },
+        {
+          "id": "20241208_145349.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_145349",
+          "position": {
+            "latitude": 42.33874169972223,
+            "longitude": -83.05181349972221
+          },
+          "date": "2024-12-08T14:53:49Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289299/usa2025/rust_belt/usa2025/rust_belt/20241208_145349.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289299/usa2025/rust_belt/usa2025/rust_belt/20241208_145349.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289299/usa2025/rust_belt/usa2025/rust_belt/20241208_145349.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_145349"
+          }
+        },
+        {
+          "id": "20241208_150856.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_150856",
+          "position": {
+            "latitude": 42.334850199722226,
+            "longitude": -83.04924479972222
+          },
+          "date": "2024-12-08T15:08:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289305/usa2025/rust_belt/usa2025/rust_belt/20241208_150856.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289305/usa2025/rust_belt/usa2025/rust_belt/20241208_150856.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289305/usa2025/rust_belt/usa2025/rust_belt/20241208_150856.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_150856"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.33669757988889,
+        "longitude": -83.05030575977777
+      }
+    },
+    {
+      "id": "cluster-19",
+      "photos": [
+        {
+          "id": "20241208_204201.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241208_204201",
+          "position": {
+            "latitude": 42.362642399722226,
+            "longitude": -83.08342159972221
+          },
+          "date": "2024-12-08T20:42:01Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289310/usa2025/rust_belt/usa2025/rust_belt/20241208_204201.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289310/usa2025/rust_belt/usa2025/rust_belt/20241208_204201.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289310/usa2025/rust_belt/usa2025/rust_belt/20241208_204201.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241208_204201"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.362642399722226,
+        "longitude": -83.08342159972221
+      }
+    },
+    {
+      "id": "cluster-20",
+      "photos": [
+        {
+          "id": "20241209_170256.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241209_170256",
+          "position": {
+            "latitude": 42.3193647,
+            "longitude": -83.09528149972222
+          },
+          "date": "2024-12-09T17:02:56Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289317/usa2025/rust_belt/usa2025/rust_belt/20241209_170256.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289317/usa2025/rust_belt/usa2025/rust_belt/20241209_170256.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289317/usa2025/rust_belt/usa2025/rust_belt/20241209_170256.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241209_170256"
+          }
+        },
+        {
+          "id": "20241209_170310.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241209_170310",
+          "position": {
+            "latitude": 42.3193647,
+            "longitude": -83.09528149972222
+          },
+          "date": "2024-12-09T17:03:10Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289324/usa2025/rust_belt/usa2025/rust_belt/20241209_170310.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289324/usa2025/rust_belt/usa2025/rust_belt/20241209_170310.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289324/usa2025/rust_belt/usa2025/rust_belt/20241209_170310.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241209_170310"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.3193647,
+        "longitude": -83.09528149972222
+      }
+    },
+    {
+      "id": "cluster-21",
+      "photos": [
+        {
+          "id": "20241209_200157.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241209_200157",
+          "position": {
+            "latitude": 42.3315348,
+            "longitude": -83.04890139999999
+          },
+          "date": "2024-12-09T20:01:57Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289328/usa2025/rust_belt/usa2025/rust_belt/20241209_200157.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289328/usa2025/rust_belt/usa2025/rust_belt/20241209_200157.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289328/usa2025/rust_belt/usa2025/rust_belt/20241209_200157.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241209_200157"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 42.3315348,
+        "longitude": -83.04890139999999
+      }
+    },
+    {
+      "id": "cluster-22",
+      "photos": [
+        {
+          "id": "20241212_220218.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241212_220218",
+          "position": {
+            "latitude": 41.85221489972222,
+            "longitude": -87.63910629972223
+          },
+          "date": "2024-12-12T22:02:18Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289332/usa2025/rust_belt/usa2025/rust_belt/20241212_220218.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289332/usa2025/rust_belt/usa2025/rust_belt/20241212_220218.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289332/usa2025/rust_belt/usa2025/rust_belt/20241212_220218.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241212_220218"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.85221489972222,
+        "longitude": -87.63910629972223
+      }
+    },
+    {
+      "id": "cluster-23",
+      "photos": [
+        {
+          "id": "20241213_214736.jpg",
+          "url": "data/usa_2025/rust_belt/20241213_214736.jpg",
+          "position": {
+            "latitude": 41.88840156944445,
+            "longitude": -87.62205231944444
+          },
+          "date": "2024-12-13T21:47:37Z",
+          "description": ""
+        },
+        {
+          "id": "20241213_214915.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241213_214915",
+          "position": {
+            "latitude": 41.88812196944444,
+            "longitude": -87.62229895833333
+          },
+          "date": "2024-12-13T21:49:15Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289375/usa2025/rust_belt/usa2025/rust_belt/20241213_214915.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289375/usa2025/rust_belt/usa2025/rust_belt/20241213_214915.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289375/usa2025/rust_belt/usa2025/rust_belt/20241213_214915.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241213_214915"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.88826176944444,
+        "longitude": -87.62217563888888
+      }
+    },
+    {
+      "id": "cluster-24",
+      "photos": [
+        {
+          "id": "20241213_220025.jpg",
+          "url": "data/usa_2025/rust_belt/20241213_220025.jpg",
+          "position": {
+            "latitude": 41.888145638888886,
+            "longitude": -87.62761689999999
+          },
+          "date": "2024-12-13T22:00:26Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 41.888145638888886,
+        "longitude": -87.62761689999999
+      }
+    },
+    {
+      "id": "cluster-25",
+      "photos": [
+        {
+          "id": "20241214_160306.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241214_160306",
+          "position": {
+            "latitude": 41.896777999722225,
+            "longitude": -87.634292
+          },
+          "date": "2024-12-14T16:03:06Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289424/usa2025/rust_belt/usa2025/rust_belt/20241214_160306.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289424/usa2025/rust_belt/usa2025/rust_belt/20241214_160306.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289424/usa2025/rust_belt/usa2025/rust_belt/20241214_160306.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241214_160306"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.896777999722225,
+        "longitude": -87.634292
+      }
+    },
+    {
+      "id": "cluster-26",
+      "photos": [
+        {
+          "id": "20241215_171556.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241215_171556",
+          "position": {
+            "latitude": 41.855670199722226,
+            "longitude": -87.62705679999999
+          },
+          "date": "2024-12-15T17:15:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289429/usa2025/rust_belt/usa2025/rust_belt/20241215_171556.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289429/usa2025/rust_belt/usa2025/rust_belt/20241215_171556.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289429/usa2025/rust_belt/usa2025/rust_belt/20241215_171556.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241215_171556"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.855670199722226,
+        "longitude": -87.62705679999999
+      }
+    },
+    {
+      "id": "cluster-27",
+      "photos": [
+        {
+          "id": "20241216_194000.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241216_194000",
+          "position": {
+            "latitude": 41.906717,
+            "longitude": -87.65158859972223
+          },
+          "date": "2024-12-16T19:40:00Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289437/usa2025/rust_belt/usa2025/rust_belt/20241216_194000.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289437/usa2025/rust_belt/usa2025/rust_belt/20241216_194000.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289437/usa2025/rust_belt/usa2025/rust_belt/20241216_194000.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241216_194000"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.906717,
+        "longitude": -87.65158859972223
+      }
+    },
+    {
+      "id": "cluster-28",
+      "photos": [
+        {
+          "id": "20241217_225538.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241217_225538",
+          "position": {
+            "latitude": 43.00296459972222,
+            "longitude": -87.9203152
+          },
+          "date": "2024-12-17T22:55:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289442/usa2025/rust_belt/usa2025/rust_belt/20241217_225538.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289442/usa2025/rust_belt/usa2025/rust_belt/20241217_225538.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289442/usa2025/rust_belt/usa2025/rust_belt/20241217_225538.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241217_225538"
+          }
+        },
+        {
+          "id": "20241218_160224.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241218_160224",
+          "position": {
+            "latitude": 43.0036713,
+            "longitude": -87.9203289
+          },
+          "date": "2024-12-18T16:02:24Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289449/usa2025/rust_belt/usa2025/rust_belt/20241218_160224.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289449/usa2025/rust_belt/usa2025/rust_belt/20241218_160224.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289449/usa2025/rust_belt/usa2025/rust_belt/20241218_160224.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241218_160224"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 43.00331794986111,
+        "longitude": -87.92032205000001
+      }
+    },
+    {
+      "id": "cluster-29",
+      "photos": [
+        {
+          "id": "20241220_143749.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241220_143749",
+          "position": {
+            "latitude": 41.9024846,
+            "longitude": -87.62488909999999
+          },
+          "date": "2024-12-20T14:37:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289455/usa2025/rust_belt/usa2025/rust_belt/20241220_143749.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289455/usa2025/rust_belt/usa2025/rust_belt/20241220_143749.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289455/usa2025/rust_belt/usa2025/rust_belt/20241220_143749.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241220_143749"
+          }
+        },
+        {
+          "id": "20241220_144138.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241220_144138",
+          "position": {
+            "latitude": 41.90203879972222,
+            "longitude": -87.62795209999999
+          },
+          "date": "2024-12-20T14:41:38Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289463/usa2025/rust_belt/usa2025/rust_belt/20241220_144138.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289463/usa2025/rust_belt/usa2025/rust_belt/20241220_144138.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289463/usa2025/rust_belt/usa2025/rust_belt/20241220_144138.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241220_144138"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.902261699861114,
+        "longitude": -87.62642059999999
+      }
+    },
+    {
+      "id": "cluster-30",
+      "photos": [
+        {
+          "id": "20241220_195123.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241220_195123",
+          "position": {
+            "latitude": 41.93262289972222,
+            "longitude": -87.7132323
+          },
+          "date": "2024-12-20T19:51:23Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289467/usa2025/rust_belt/usa2025/rust_belt/20241220_195123.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289467/usa2025/rust_belt/usa2025/rust_belt/20241220_195123.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289467/usa2025/rust_belt/usa2025/rust_belt/20241220_195123.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241220_195123"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.93262289972222,
+        "longitude": -87.7132323
+      }
+    },
+    {
+      "id": "cluster-31",
+      "photos": [
+        {
+          "id": "20241221_214132.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241221_214132",
+          "position": {
+            "latitude": 41.84976,
+            "longitude": -87.64154299972223
+          },
+          "date": "2024-12-21T21:41:32Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289474/usa2025/rust_belt/usa2025/rust_belt/20241221_214132.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289474/usa2025/rust_belt/usa2025/rust_belt/20241221_214132.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289474/usa2025/rust_belt/usa2025/rust_belt/20241221_214132.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241221_214132"
+          }
+        },
+        {
+          "id": "20241222_120103.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241222_120103",
+          "position": {
+            "latitude": 41.852657999722226,
+            "longitude": -87.64065999972223
+          },
+          "date": "2024-12-22T12:01:03Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289481/usa2025/rust_belt/usa2025/rust_belt/20241222_120103.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289481/usa2025/rust_belt/usa2025/rust_belt/20241222_120103.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289481/usa2025/rust_belt/usa2025/rust_belt/20241222_120103.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241222_120103"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 41.851208999861115,
+        "longitude": -87.64110149972223
+      }
+    },
+    {
+      "id": "cluster-32",
+      "photos": [
+        {
+          "id": "20241223_140255.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241223_140255",
+          "position": {
+            "latitude": 39.7747564,
+            "longitude": -86.1504105
+          },
+          "date": "2024-12-23T14:02:55Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289488/usa2025/rust_belt/usa2025/rust_belt/20241223_140255.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289488/usa2025/rust_belt/usa2025/rust_belt/20241223_140255.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289488/usa2025/rust_belt/usa2025/rust_belt/20241223_140255.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241223_140255"
+          }
+        },
+        {
+          "id": "20241223_140419.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241223_140419",
+          "position": {
+            "latitude": 39.7752853,
+            "longitude": -86.15115149972223
+          },
+          "date": "2024-12-23T14:04:19Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289492/usa2025/rust_belt/usa2025/rust_belt/20241223_140419.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289492/usa2025/rust_belt/usa2025/rust_belt/20241223_140419.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289492/usa2025/rust_belt/usa2025/rust_belt/20241223_140419.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241223_140419"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.775020850000004,
+        "longitude": -86.15078099986113
+      }
+    },
+    {
+      "id": "cluster-33",
+      "photos": [
+        {
+          "id": "20241223_153849.jpg",
+          "url": "data/usa_2025/rust_belt/20241223_153849.jpg",
+          "position": {
+            "latitude": 39.7753505,
+            "longitude": -86.157525
+          },
+          "date": "2024-12-23T15:38:49Z",
+          "description": ""
+        }
+      ],
+      "position": {
+        "latitude": 39.7753505,
+        "longitude": -86.157525
+      }
+    },
+    {
+      "id": "cluster-34",
+      "photos": [
+        {
+          "id": "20241224_130250.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241224_130250",
+          "position": {
+            "latitude": 39.110200399722224,
+            "longitude": -84.5359114
+          },
+          "date": "2024-12-24T13:02:50Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289537/usa2025/rust_belt/usa2025/rust_belt/20241224_130250.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289537/usa2025/rust_belt/usa2025/rust_belt/20241224_130250.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289537/usa2025/rust_belt/usa2025/rust_belt/20241224_130250.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241224_130250"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 39.110200399722224,
+        "longitude": -84.5359114
+      }
+    },
+    {
+      "id": "cluster-35",
+      "photos": [
+        {
+          "id": "20241226_200030.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241226_200030",
+          "position": {
+            "latitude": 38.25733019972222,
+            "longitude": -85.76350259972222
+          },
+          "date": "2024-12-26T20:00:30Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289541/usa2025/rust_belt/usa2025/rust_belt/20241226_200030.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289541/usa2025/rust_belt/usa2025/rust_belt/20241226_200030.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289541/usa2025/rust_belt/usa2025/rust_belt/20241226_200030.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241226_200030"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 38.25733019972222,
+        "longitude": -85.76350259972222
+      }
+    },
+    {
+      "id": "cluster-36",
+      "photos": [
+        {
+          "id": "20241227_145911.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241227_145911",
+          "position": {
+            "latitude": 38.118445899722225,
+            "longitude": -85.8435056
+          },
+          "date": "2024-12-27T14:59:11Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289545/usa2025/rust_belt/usa2025/rust_belt/20241227_145911.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289545/usa2025/rust_belt/usa2025/rust_belt/20241227_145911.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289545/usa2025/rust_belt/usa2025/rust_belt/20241227_145911.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241227_145911"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 38.118445899722225,
+        "longitude": -85.8435056
+      }
+    },
+    {
+      "id": "cluster-37",
+      "photos": [
+        {
+          "id": "20241227_161321.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241227_161321",
+          "position": {
+            "latitude": 37.961893199722226,
+            "longitude": -85.97462459972222
+          },
+          "date": "2024-12-27T16:13:21Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289559/usa2025/rust_belt/usa2025/rust_belt/20241227_161321.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289559/usa2025/rust_belt/usa2025/rust_belt/20241227_161321.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289559/usa2025/rust_belt/usa2025/rust_belt/20241227_161321.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241227_161321"
+          }
+        },
+        {
+          "id": "20241227_161844.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241227_161844",
+          "position": {
+            "latitude": 37.962418499722226,
+            "longitude": -85.97383109972222
+          },
+          "date": "2024-12-27T16:18:44Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289577/usa2025/rust_belt/usa2025/rust_belt/20241227_161844.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289577/usa2025/rust_belt/usa2025/rust_belt/20241227_161844.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289577/usa2025/rust_belt/usa2025/rust_belt/20241227_161844.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241227_161844"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 37.96215584972222,
+        "longitude": -85.97422784972221
+      }
+    },
+    {
+      "id": "cluster-38",
+      "photos": [
+        {
+          "id": "20241227_172814.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241227_172814",
+          "position": {
+            "latitude": 37.961306899722224,
+            "longitude": -85.958466
+          },
+          "date": "2024-12-27T17:28:13Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289594/usa2025/rust_belt/usa2025/rust_belt/20241227_172814.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289594/usa2025/rust_belt/usa2025/rust_belt/20241227_172814.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289594/usa2025/rust_belt/usa2025/rust_belt/20241227_172814.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241227_172814"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 37.961306899722224,
+        "longitude": -85.958466
+      }
+    },
+    {
+      "id": "cluster-39",
+      "photos": [
+        {
+          "id": "20241228_151909.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241228_151909",
+          "position": {
+            "latitude": 37.2335354,
+            "longitude": -86.15792709972223
+          },
+          "date": "2024-12-28T15:19:09Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289603/usa2025/rust_belt/usa2025/rust_belt/20241228_151909.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289603/usa2025/rust_belt/usa2025/rust_belt/20241228_151909.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289603/usa2025/rust_belt/usa2025/rust_belt/20241228_151909.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241228_151909"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 37.2335354,
+        "longitude": -86.15792709972223
+      }
+    },
+    {
+      "id": "cluster-40",
+      "photos": [
+        {
+          "id": "20241228_181737.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241228_181737",
+          "position": {
+            "latitude": 37.25562839972222,
+            "longitude": -86.15845129972223
+          },
+          "date": "2024-12-28T18:17:37Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289617/usa2025/rust_belt/usa2025/rust_belt/20241228_181737.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289617/usa2025/rust_belt/usa2025/rust_belt/20241228_181737.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289617/usa2025/rust_belt/usa2025/rust_belt/20241228_181737.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241228_181737"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 37.25562839972222,
+        "longitude": -86.15845129972223
+      }
+    },
+    {
+      "id": "cluster-41",
+      "photos": [
+        {
+          "id": "20241230_175025.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241230_175025",
+          "position": {
+            "latitude": 36.150544599999996,
+            "longitude": -86.81274679972222
+          },
+          "date": "2024-12-30T17:50:25Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289626/usa2025/rust_belt/usa2025/rust_belt/20241230_175025.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289626/usa2025/rust_belt/usa2025/rust_belt/20241230_175025.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289626/usa2025/rust_belt/usa2025/rust_belt/20241230_175025.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241230_175025"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.150544599999996,
+        "longitude": -86.81274679972222
+      }
+    },
+    {
+      "id": "cluster-42",
+      "photos": [
+        {
+          "id": "20241231_183642.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20241231_183642",
+          "position": {
+            "latitude": 36.150739199722224,
+            "longitude": -86.8061708
+          },
+          "date": "2024-12-31T18:36:42Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289632/usa2025/rust_belt/usa2025/rust_belt/20241231_183642.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289632/usa2025/rust_belt/usa2025/rust_belt/20241231_183642.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289632/usa2025/rust_belt/usa2025/rust_belt/20241231_183642.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20241231_183642"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.150739199722224,
+        "longitude": -86.8061708
+      }
+    },
+    {
+      "id": "cluster-43",
+      "photos": [
+        {
+          "id": "20250101_000329.jpg",
+          "url": "usa2025/rust_belt/usa2025/rust_belt/20250101_000329",
+          "position": {
+            "latitude": 36.16265609972222,
+            "longitude": -86.7984043
+          },
+          "date": "2025-01-01T00:03:28Z",
+          "description": "",
+          "cloudinary": {
+            "secure_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/v1755289636/usa2025/rust_belt/usa2025/rust_belt/20250101_000329.jpg",
+            "optimized_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_600,q_auto:good,w_800/v1755289636/usa2025/rust_belt/usa2025/rust_belt/20250101_000329.jpg",
+            "thumbnail_url": "https://res.cloudinary.com/dgg5cyhsu/image/upload/c_limit,h_300,q_auto:eco,w_400/v1755289636/usa2025/rust_belt/usa2025/rust_belt/20250101_000329.jpg",
+            "public_id": "usa2025/rust_belt/usa2025/rust_belt/20250101_000329"
+          }
+        }
+      ],
+      "position": {
+        "latitude": 36.16265609972222,
+        "longitude": -86.7984043
+      }
+    }
+  ],
+  "independentPhotos": [],
+  "description": "Auto-generated itinerary for rust_belt"
+}
